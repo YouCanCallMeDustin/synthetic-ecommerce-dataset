@@ -1,0 +1,51 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,24,49,4.0,Love this Home Product 49! My kids absolutely adore it and it's well-made.,2025-02-10
+2,3,21,4.5,This Beauty Product 21 is perfect for my home! Great quality and exactly what I needed.,2025-06-29
+3,11,46,4.2,Amazing Beauty Product 46! Great value and it really works. Highly recommend!,2025-02-10
+4,45,44,3.7,Very disappointed with this Electronics Product 44. It's flimsy and overpriced.,2025-07-20
+5,4,21,2.5,Very disappointed with this Beauty Product 21. It's flimsy and overpriced.,2025-04-15
+6,26,44,3.9,This Electronics Product 44 is not suitable for kids. Poor quality and unsafe.,2024-10-02
+7,27,11,5.0,Love this Sports Product 11! Well-made and looks great in my space.,2024-10-22
+8,46,39,3.0,This Clothing Product 39 is not worth the price. Poor quality and doesn't work.,2025-01-05
+9,43,4,2.5,Poor quality Clothing Product 4. Doesn't work and feels cheap.,2025-05-11
+10,27,1,5.0,"This Toys Product 1 is incredible! Fast, reliable, and well-designed.",2024-10-02
+11,42,28,4.6,This Electronics Product 28 is fantastic! Great value for money and excellent functionality.,2025-02-25
+12,50,24,4.1,This Clothing Product 24 is amazing! Works exactly as promised and great results.,2025-03-03
+13,6,35,5.0,This Home Product 35 is perfect for my workouts! Great quality and very durable.,2025-05-26
+14,15,13,3.3,Poor quality Toys Product 13. Cheap materials and doesn't work properly.,2025-03-23
+15,30,47,3.9,Very disappointed with this Toys Product 47. It's harsh and doesn't work.,2025-01-15
+16,42,34,4.8,Amazing Home Product 34! Perfect for children and very durable.,2024-10-23
+17,37,11,5.0,Love this Sports Product 11! Perfect for my needs and great quality.,2025-08-10
+18,37,36,3.1,This Toys Product 36 is disappointing. Doesn't work properly and feels cheap.,2025-07-22
+19,42,17,5.0,This Sports Product 17 is perfect for my child! Great quality and lots of fun.,2025-07-04
+20,37,35,4.3,This Home Product 35 is excellent! Great quality and perfect for my needs.,2025-04-06
+21,35,18,4.1,Excellent Home Product 18. The build quality is solid and it's very user-friendly.,2025-05-10
+22,23,40,4.0,"Great Home Product 40! Soft, comfortable, and exactly as described.",2025-04-20
+23,6,22,2.9,This Toys Product 22 is disappointing. Poor quality and not safe for children.,2024-11-13
+24,4,24,4.8,This Clothing Product 24 is fantastic! Gentle on skin and very effective.,2025-06-29
+25,18,19,3.4,Terrible Sports Product 19. Uncomfortable and the quality is very poor.,2024-10-24
+26,9,37,3.1,This Toys Product 37 is disappointing. Doesn't work properly and feels cheap.,2025-02-19
+27,49,39,4.7,This Clothing Product 39 is outstanding! Great quality and kids love it.,2025-03-18
+28,29,21,4.6,This Beauty Product 21 is perfect for my home! Great quality and exactly what I needed.,2025-08-23
+29,13,8,4.1,Great Beauty Product 8! Fast delivery and exactly as described. Highly recommend!,2025-08-07
+30,47,28,4.9,This Electronics Product 28 is fantastic! Great value for money and excellent functionality.,2024-09-25
+31,17,5,5.0,Outstanding Clothing Product 5! Works flawlessly and the design is sleek and modern.,2025-07-23
+32,45,17,5.0,This Sports Product 17 is outstanding! Great quality and kids love it.,2024-10-22
+33,32,37,3.6,Not impressed with this Toys Product 37. It's slow and the interface is confusing.,2025-03-24
+34,48,36,4.8,Excellent Toys Product 36. The build quality is solid and it's very user-friendly.,2024-11-02
+35,22,19,4.2,Perfect Sports Product 19! Great quality and looks exactly like the picture.,2024-12-31
+36,4,27,5.0,I've been using this Toys Product 27 for a few weeks now and I'm really impressed with the performance.,2024-11-06
+37,5,34,3.9,Poor quality Home Product 34. Cheap materials and doesn't work properly.,2024-11-05
+38,37,11,3.7,This Sports Product 11 is a waste of money. Poor quality and doesn't work.,2025-01-07
+39,41,45,3.5,Poor quality Electronics Product 45. Cheap materials and poor construction.,2025-09-02
+40,49,47,4.2,Perfect Toys Product 47! Easy to apply and gives great results.,2025-06-06
+41,13,12,4.4,Perfect Home Product 12! Easy to apply and gives great results.,2024-11-30
+42,34,21,4.4,This Beauty Product 21 is excellent! Well-made and great value for money.,2025-01-16
+43,45,11,4.3,Amazing Sports Product 11! Perfect size and great quality. Highly recommend!,2025-09-04
+44,22,39,4.5,This Clothing Product 39 is perfect for my child! Great quality and lots of fun.,2025-03-24
+45,23,28,3.8,This Electronics Product 28 is not worth the price. Many better options available.,2025-08-17
+46,3,5,3.3,Regret buying this Clothing Product 5. It's unreliable and poorly made.,2024-12-23
+47,42,17,3.2,Poor quality Sports Product 17. Cheap materials and doesn't work properly.,2025-07-29
+48,34,20,4.8,Perfect Beauty Product 20! Great quality and exactly as described.,2024-10-04
+49,32,41,4.4,Love this Electronics Product 41! Excellent for training and well-made.,2024-12-10
+50,45,46,2.5,This Beauty Product 46 is not worth the price. Poor results and quality.,2024-11-19

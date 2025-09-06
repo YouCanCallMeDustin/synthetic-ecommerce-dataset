@@ -1,0 +1,21 @@
+product_id,name,category,price,stock_quantity,rating
+1,Electronics Product 1,Electronics,569.86,344,4.5
+2,Clothing Product 2,Clothing,36.16,326,4.2
+3,Sports Product 3,Sports,843.07,8,3.9
+4,Clothing Product 4,Clothing,452.51,343,4.9
+5,Home Product 5,Home,398.17,128,3.8
+6,Home Product 6,Home,927.03,491,3.4
+7,Home Product 7,Home,728.64,135,5.0
+8,Home Product 8,Home,329.91,471,5.0
+9,Sports Product 9,Sports,572.59,62,2.7
+10,Beauty Product 10,Beauty,523.23,138,4.5
+11,Toys Product 11,Toys,961.37,498,2.4
+12,Electronics Product 12,Electronics,845.31,80,4.9
+13,Home Product 13,Home,748.58,391,3.3
+14,Clothing Product 14,Clothing,541.99,162,4.6
+15,Home Product 15,Home,588.82,418,3.5
+16,Clothing Product 16,Clothing,965.43,288,4.3
+17,Toys Product 17,Toys,609.0,378,2.9
+18,Toys Product 18,Toys,279.62,260,3.8
+19,Toys Product 19,Toys,299.79,489,4.0
+20,Clothing Product 20,Clothing,169.44,230,4.8

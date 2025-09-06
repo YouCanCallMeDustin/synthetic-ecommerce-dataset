@@ -1,0 +1,21 @@
+user_id,name,email,phone,address,signup_date,membership_status,loyalty_points
+1,Allison Hill,gabriellecameron@example.org,001-822-778-2489x63834,"19655 Obrien Pass Apt. 693, Bradleychester, AL 68647",2024-03-18,Bronze,18942
+2,Noah Rhodes,lydiatrujillo@example.com,587.213.3150x983,"PSC 8356, Box 1595, APO AP 16835",2024-03-02,Platinum,18431
+3,Angie Henderson,carl95@example.org,603-910-5183,"465 Terry Plaza Apt. 366, New Ashley, MO 72320",2023-12-07,Silver,2747
+4,Daniel Wagner,pfoster@example.com,582.399.7376,"3699 Marshall Mills Apt. 872, West Zacharymouth, CO 98954",2025-03-18,Silver,189
+5,Cristian Santos,josephwright@example.net,865-766-7010,"32003 Carr Trafficway Apt. 769, Lake Heather, NM 52884",2024-02-01,Bronze,19118
+6,Connie Lawrence,julie69@example.com,633-938-7262,"63287 Angela Vista, South Dennismouth, TN 70117",2024-05-07,Bronze,3005
+7,Abigail Shaffer,jeffrey28@example.com,517.481.0801,"Unit 9579 Box 8687, DPO AE 97973",2023-12-06,Bronze,1899
+8,Gina Moore,camposmichelle@example.org,(977)436-0260x64746,"3487 Joshua Club Suite 345, Patricialand, DC 20270",2025-04-04,Gold,1267
+9,Gabrielle Davis,laurahenderson@example.org,243.909.8050,"316 Rivera Mountain, Brownchester, MS 77057",2024-10-25,Silver,17912
+10,Ryan Munoz,djames@example.net,582.208.1219x13619,"USS Gates, FPO AP 50358",2025-04-19,Silver,11394
+11,Monica Herrera,tasha01@example.net,+1-816-499-8543x534,"6688 Tracy Groves Suite 706, Elizabethfurt, VA 22133",2025-02-22,Bronze,3556
+12,Jamie Arnold,kayla51@example.com,+1-647-451-0799x11838,"806 Christopher Meadow, Port Steven, AR 34600",2024-01-26,Platinum,3890
+13,Lisa Hensley,amoore@example.net,(613)354-2784x980,"5564 King Common, Smithside, AR 46371",2024-01-31,Gold,8838
+14,Michele Williams,teresa28@example.org,(541)718-2449,"003 Mary Road, East David, TN 15494",2024-02-20,Bronze,14502
+15,Dylan Miller,meagan89@example.org,248.274.0164,"4529 Kimberly Estates, Danieltown, ME 75971",2025-03-31,Bronze,10627
+16,Brian Ramirez,nathanielmartin@example.net,724-427-8680x11280,"3193 Heidi Hollow Apt. 905, Stanleyland, NY 85375",2024-09-15,Bronze,8792
+17,Holly Wood,georgetracy@example.org,(420)545-0533x15869,"1657 Ryan Street Suite 987, Grahamshire, KY 42746",2024-04-06,Bronze,10555
+18,Derek Zuniga,natasha43@example.org,(426)302-5634,"7379 Rogers Park, Hunterborough, MI 34363",2025-03-20,Silver,10253
+19,Lisa Jackson,nataliearroyo@example.org,(707)633-7543x3036,"083 John Lodge Suite 837, Westtown, CO 39067",2024-12-05,Bronze,8433
+20,Carla Gray,wcabrera@example.net,645-486-8501,"9578 Coleman Summit, Michaelmouth, KY 40690",2025-04-17,Bronze,10233

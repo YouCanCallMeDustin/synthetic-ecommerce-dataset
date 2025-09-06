@@ -1,0 +1,11 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,10,4,4.1,Excellent Home Product 4! High quality and perfect for the intended use.,2025-07-18
+2,10,7,4.8,This Toys Product 7 is ideal for children's play. Professional-grade quality.,2025-04-07
+3,3,3,3.4,The functionality of this Home Product 3 is limited and disappointing.,2024-12-29
+4,7,6,3.7,This Toys Product 6 is not worth the price. Poor quality and safety.,2025-08-31
+5,1,2,3.7,Terrible Clothing Product 2. Uncomfortable and the quality is very poor.,2025-05-19
+6,4,10,2.8,This Home Product 10 is not worth the investment. Poor value for money.,2024-10-14
+7,4,9,4.2,This Home Product 9 is outstanding! Well-designed and very functional.,2025-09-03
+8,5,5,4.2,The materials of this Toys Product 5 are premium quality. Feels great.,2025-08-11
+9,7,6,4.0,This Toys Product 6 has become my child's favorite toy. They play with it constantly.,2024-10-26
+10,7,4,3.8,This Home Product 4 is not durable enough for home use. Breaks easily.,2024-12-15

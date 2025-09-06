@@ -1,0 +1,453 @@
+order_id,user_id,order_date,order_time,order_datetime,status,total_amount,order_source,payment_method,shipping_method,promo_code,shipping_address_id,billing_address_id,customer_notes,order_priority,timezone,shipping_region
+1,25,2025-04-26 00:00:00,21:23:32,2025-04-26T21:23:32,delivered,119.41,mobile_web,credit_card,standard,,802,593,,standard,PST,PST
+2,29,2024-09-19 00:00:00,21:51:47,2024-09-19T21:51:47,delivered,175.38,mobile_app,credit_card,standard,,645,645,,standard,EST,EST
+3,18,2024-11-26 00:00:00,19:43:10,2024-11-26T19:43:10,delivered,668.14,mobile_app,credit_card,economy,,587,113,,standard,EST,EST
+4,20,2025-07-25 00:00:00,13:01:09,2025-07-25T13:01:09,delivered,169.84,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+5,10,2025-08-02 00:00:00,14:54:38,2025-08-02T14:54:38,delivered,51.33,mobile_web,credit_card,overnight,,64,64,,medium,EST,EST
+6,38,2025-01-09 00:00:00,19:43:50,2025-01-09T19:43:50,delivered,102.97,api,credit_card,standard,,386,386,,standard,Other,Other
+7,13,2024-10-31 00:00:00,13:28:02,2024-10-31T13:28:02,delivered,86.27,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+8,65,2024-10-09 00:00:00,11:08:04,2024-10-09T11:08:04,delivered,186.36,mobile_app,credit_card,standard,,253,253,,standard,Other,Other
+9,70,2025-06-07 00:00:00,16:15:49,2025-06-07T16:15:49,delivered,675.89,mobile_web,credit_card,express,,722,722,,standard,EST,EST
+10,68,2024-12-09 00:00:00,20:41:23,2024-12-09T20:41:23,delivered,1853.41,web,debit_card,economy,,815,815,,standard,Other,Other
+11,5,2025-01-20 00:00:00,17:23:24,2025-01-20T17:23:24,delivered,429.0,api,debit_card,economy,,405,978,,standard,EST,EST
+12,85,2025-02-04 00:00:00,16:36:02,2025-02-04T16:36:02,delivered,206.99,mobile_web,apple_pay,standard,SUMMER25,947,947,,standard,PST,PST
+13,44,2025-03-22 00:00:00,20:38:09,2025-03-22T20:38:09,delivered,3385.3,mobile_app,debit_card,standard,,956,956,,standard,PST,PST
+14,80,2024-09-23 00:00:00,16:28:23,2024-09-23T16:28:23,delivered,307.01,mobile_web,google_pay,express,,52,52,,medium,CST,CST
+15,17,2025-05-24 00:00:00,22:23:28,2025-05-24T22:23:28,delivered,273.72,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+16,77,2024-12-29 00:00:00,10:48:04,2024-12-29T10:48:04,shipped,90.49,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+17,49,2024-12-14 00:00:00,16:36:08,2024-12-14T16:36:08,delivered,91.99,api,apple_pay,economy,,295,295,,standard,PST,PST
+18,97,2025-07-19 00:00:00,19:33:23,2025-07-19T19:33:23,delivered,144.21,mobile_web,credit_card,economy,NEWUSER,757,757,,standard,Other,Other
+19,21,2024-11-10 00:00:00,18:25:20,2024-11-10T18:25:20,delivered,372.67,mobile_app,credit_card,express,,181,38,,standard,MST,MST
+20,24,2024-09-16 00:00:00,17:41:17,2024-09-16T17:41:17,delivered,2019.84,web,debit_card,express,,986,297,,standard,CST,CST
+21,87,2025-02-08 00:00:00,17:15:07,2025-02-08T17:15:07,shipped,118.44,mobile_web,debit_card,economy,,344,344,,standard,PST,PST
+22,22,2025-08-01 00:00:00,14:01:47,2025-08-01T14:01:47,delivered,138.53,web,debit_card,standard,,872,872,,standard,EST,EST
+23,57,2025-02-26 00:00:00,13:11:31,2025-02-26T13:11:31,delivered,1167.29,web,credit_card,standard,,664,664,,medium,CST,CST
+24,6,2025-04-07 00:00:00,18:33:24,2025-04-07T18:33:24,delivered,706.77,web,debit_card,standard,,776,776,,standard,CST,CST
+25,53,2025-06-21 00:00:00,18:58:35,2025-06-21T18:58:35,delivered,264.97,mobile_app,paypal,economy,,336,336,,standard,EST,EST
+26,47,2025-04-05 00:00:00,19:07:16,2025-04-05T19:07:16,delivered,122.43,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+27,31,2024-12-10 00:00:00,20:49:16,2024-12-10T20:49:16,delivered,647.77,web,debit_card,economy,,741,741,,standard,EST,EST
+28,78,2024-10-10 00:00:00,15:45:28,2024-10-10T15:45:28,delivered,161.64,web,credit_card,standard,,477,477,,standard,PST,PST
+29,37,2025-03-02 00:00:00,15:13:39,2025-03-02T15:13:39,delivered,807.62,mobile_app,debit_card,economy,,319,319,,standard,EST,EST
+30,58,2024-10-13 00:00:00,18:18:44,2024-10-13T18:18:44,delivered,773.03,web,credit_card,economy,,981,981,,standard,EST,EST
+31,30,2025-07-13 00:00:00,17:58:31,2025-07-13T17:58:31,delivered,446.79,mobile_app,credit_card,economy,,563,776,,standard,CST,CST
+32,69,2025-07-09 00:00:00,17:12:07,2025-07-09T17:12:07,delivered,222.43,mobile_app,paypal,standard,,773,773,,standard,EST,EST
+33,74,2024-10-28 00:00:00,18:08:54,2024-10-28T18:08:54,delivered,307.91,web,paypal,express,,940,940,,standard,EST,EST
+34,40,2024-10-21 00:00:00,20:04:28,2024-10-21T20:04:28,delivered,284.25,web,debit_card,economy,,154,154,,standard,CST,CST
+35,61,2024-09-08 00:00:00,13:11:57,2024-09-08T13:11:57,delivered,237.19,mobile_app,credit_card,economy,,501,501,,standard,MST,MST
+36,100,2024-09-27 00:00:00,14:45:28,2024-09-27T14:45:28,delivered,5222.46,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+37,48,2025-07-23 00:00:00,09:05:51,2025-07-23T09:05:51,delivered,120.52,web,credit_card,express,,837,837,Call before delivery,medium,EST,EST
+38,88,2025-07-04 00:00:00,16:43:54,2025-07-04T16:43:54,delivered,534.92,web,credit_card,standard,,555,958,,standard,CST,CST
+39,66,2024-11-29 00:00:00,07:20:42,2024-11-29T07:20:42,delivered,403.79,mobile_app,paypal,economy,,185,185,,standard,EST,EST
+40,72,2024-10-24 00:00:00,15:22:45,2024-10-24T15:22:45,delivered,1599.72,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+41,99,2024-11-19 00:00:00,16:04:35,2024-11-19T16:04:35,delivered,480.91,web,debit_card,standard,,678,137,,standard,CST,CST
+42,47,2025-07-20 00:00:00,13:34:18,2025-07-20T13:34:18,delivered,90.62,api,credit_card,economy,,542,542,,standard,EST,EST
+43,29,2025-02-06 00:00:00,16:57:19,2025-02-06T16:57:19,delivered,183.13,web,credit_card,standard,,475,475,,standard,EST,EST
+44,39,2025-01-26 00:00:00,21:54:10,2025-01-26T21:54:10,delivered,540.67,mobile_web,credit_card,standard,,355,355,,standard,EST,EST
+45,53,2025-05-28 00:00:00,07:45:59,2025-05-28T07:45:59,delivered,314.64,web,apple_pay,standard,,630,630,Deliver to back door,standard,PST,PST
+46,97,2025-05-06 00:00:00,19:44:40,2025-05-06T19:44:40,shipped,825.73,web,apple_pay,standard,,35,35,,standard,CST,CST
+47,82,2025-09-03 00:00:00,14:11:50,2025-09-03T14:11:50,shipped,385.0,web,paypal,economy,,46,46,,standard,EST,EST
+48,81,2025-05-12 00:00:00,10:23:32,2025-05-12T10:23:32,delivered,916.06,web,credit_card,economy,,516,240,,standard,EST,EST
+49,14,2024-10-06 00:00:00,16:14:07,2024-10-06T16:14:07,delivered,5026.05,mobile_app,credit_card,economy,,689,243,,standard,CST,CST
+50,26,2025-04-18 00:00:00,18:12:50,2025-04-18T18:12:50,delivered,1974.65,web,credit_card,standard,,308,308,,standard,EST,EST
+51,65,2025-04-19 00:00:00,12:08:15,2025-04-19T12:08:15,delivered,317.53,mobile_web,credit_card,economy,,696,696,,standard,PST,PST
+52,88,2024-12-13 00:00:00,17:50:31,2024-12-13T17:50:31,delivered,4624.38,mobile_app,credit_card,standard,,805,805,,standard,PST,PST
+53,56,2025-08-26 00:00:00,09:01:23,2025-08-26T09:01:23,delivered,42.82,api,credit_card,standard,,551,551,,standard,PST,PST
+54,11,2025-07-16 00:00:00,08:35:36,2025-07-16T08:35:36,delivered,701.17,web,debit_card,standard,,937,937,,standard,EST,EST
+55,85,2024-10-03 00:00:00,16:23:29,2024-10-03T16:23:29,delivered,372.38,mobile_web,credit_card,economy,,262,262,,standard,EST,EST
+56,86,2024-09-12 00:00:00,16:51:35,2024-09-12T16:51:35,delivered,591.66,mobile_web,credit_card,express,,742,53,,standard,CST,CST
+57,29,2024-09-29 00:00:00,17:08:39,2024-09-29T17:08:39,delivered,251.63,mobile_web,credit_card,express,,193,602,,medium,CST,CST
+58,77,2024-11-19 00:00:00,18:56:05,2024-11-19T18:56:05,delivered,1615.51,web,credit_card,standard,,341,341,,standard,CST,CST
+59,28,2025-08-20 00:00:00,22:04:19,2025-08-20T22:04:19,delivered,2959.79,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+60,91,2025-05-12 00:00:00,16:25:45,2025-05-12T16:25:45,delivered,325.84,mobile_web,credit_card,standard,,246,246,,standard,MST,MST
+61,15,2025-02-23 00:00:00,13:46:30,2025-02-23T13:46:30,delivered,706.06,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+62,44,2025-07-15 00:00:00,18:33:26,2025-07-15T18:33:26,delivered,2003.9,web,credit_card,standard,,780,937,,standard,PST,PST
+63,95,2024-10-24 00:00:00,12:49:26,2024-10-24T12:49:26,delivered,233.57,mobile_web,credit_card,standard,SAVE20,17,17,,standard,EST,EST
+64,23,2024-10-09 00:00:00,15:52:36,2024-10-09T15:52:36,delivered,185.87,mobile_web,paypal,economy,,338,338,,standard,EST,EST
+65,46,2025-08-21 00:00:00,09:04:08,2025-08-21T09:04:08,delivered,3884.51,mobile_app,debit_card,economy,,346,346,,standard,MST,MST
+66,35,2025-07-30 00:00:00,06:20:41,2025-07-30T06:20:41,delivered,1346.05,mobile_app,credit_card,standard,,173,173,,standard,CST,CST
+67,3,2025-07-23 00:00:00,21:04:28,2025-07-23T21:04:28,delivered,2774.04,web,credit_card,standard,,911,911,,standard,EST,EST
+68,6,2025-07-15 00:00:00,19:29:43,2025-07-15T19:29:43,delivered,851.65,mobile_app,credit_card,standard,WELCOME10,685,685,,high,PST,PST
+69,51,2025-01-10 00:00:00,17:33:22,2025-01-10T17:33:22,returned,1386.61,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+70,24,2024-10-21 00:00:00,14:08:56,2024-10-21T14:08:56,delivered,6525.24,web,credit_card,standard,SUMMER25,632,676,,medium,PST,PST
+71,100,2024-09-20 00:00:00,11:53:49,2024-09-20T11:53:49,shipped,653.33,mobile_web,credit_card,express,,740,740,Fragile - handle with care,medium,Other,Other
+72,38,2025-09-04 00:00:00,11:35:40,2025-09-04T11:35:40,shipped,308.97,mobile_web,debit_card,economy,SUMMER25,826,184,,standard,EST,EST
+73,3,2025-03-02 00:00:00,12:37:11,2025-03-02T12:37:11,delivered,535.14,web,paypal,express,SAVE20,259,274,,medium,EST,EST
+74,94,2024-09-23 00:00:00,16:49:08,2024-09-23T16:49:08,delivered,869.42,web,credit_card,standard,,250,232,,standard,MST,MST
+75,84,2024-11-08 00:00:00,17:27:32,2024-11-08T17:27:32,delivered,119.05,mobile_app,credit_card,economy,SUMMER25,96,96,,standard,EST,EST
+76,65,2025-08-28 00:00:00,17:58:55,2025-08-28T17:58:55,delivered,99.88,web,apple_pay,economy,,85,85,,standard,CST,CST
+77,80,2025-04-14 00:00:00,13:03:53,2025-04-14T13:03:53,delivered,1498.74,mobile_app,credit_card,economy,,98,942,,standard,EST,EST
+78,14,2025-02-19 00:00:00,21:07:33,2025-02-19T21:07:33,returned,226.53,api,credit_card,standard,,909,909,,standard,CST,CST
+79,29,2025-07-20 00:00:00,18:09:19,2025-07-20T18:09:19,delivered,253.33,mobile_app,credit_card,standard,,557,557,,standard,EST,EST
+80,83,2025-06-12 00:00:00,16:10:10,2025-06-12T16:10:10,returned,487.75,mobile_web,credit_card,economy,,985,985,,standard,CST,CST
+81,70,2025-02-04 00:00:00,16:20:59,2025-02-04T16:20:59,delivered,20.46,web,paypal,economy,,307,307,,standard,CST,CST
+82,14,2025-03-15 00:00:00,14:45:14,2025-03-15T14:45:14,delivered,806.91,web,credit_card,express,,340,340,,medium,PST,PST
+83,71,2024-09-15 00:00:00,12:22:33,2024-09-15T12:22:33,delivered,4271.46,mobile_web,credit_card,economy,,764,55,,standard,MST,MST
+84,45,2025-01-30 00:00:00,14:57:18,2025-01-30T14:57:18,delivered,379.87,web,credit_card,standard,NEWUSER,978,978,,standard,EST,EST
+85,1,2025-05-27 00:00:00,18:54:05,2025-05-27T18:54:05,delivered,76.7,mobile_app,credit_card,express,,462,462,,medium,PST,PST
+86,8,2025-02-16 00:00:00,20:16:12,2025-02-16T20:16:12,delivered,1243.07,web,credit_card,economy,,677,677,,standard,MST,MST
+87,26,2024-11-10 00:00:00,10:35:17,2024-11-10T10:35:17,delivered,389.16,mobile_web,paypal,standard,,275,275,,standard,MST,MST
+88,84,2025-01-19 00:00:00,14:08:40,2025-01-19T14:08:40,delivered,32.67,web,credit_card,standard,,110,110,,standard,EST,EST
+89,55,2024-11-26 00:00:00,07:39:34,2024-11-26T07:39:34,delivered,73.41,web,credit_card,economy,,90,90,,standard,CST,CST
+90,73,2025-08-22 00:00:00,19:05:32,2025-08-22T19:05:32,delivered,233.42,mobile_web,credit_card,economy,,568,568,Leave in mailbox,standard,CST,CST
+91,53,2024-11-15 00:00:00,17:41:10,2024-11-15T17:41:10,delivered,2682.75,web,paypal,standard,,398,398,,medium,CST,CST
+92,12,2024-12-19 00:00:00,15:37:37,2024-12-19T15:37:37,delivered,277.7,web,paypal,standard,,534,534,,standard,PST,PST
+93,29,2024-12-21 00:00:00,20:09:10,2024-12-21T20:09:10,delivered,87.53,mobile_app,paypal,standard,,65,65,,standard,CST,CST
+94,31,2025-02-24 00:00:00,15:39:46,2025-02-24T15:39:46,delivered,175.67,web,debit_card,standard,,967,967,,standard,EST,EST
+95,5,2025-08-13 00:00:00,15:57:38,2025-08-13T15:57:38,delivered,2557.61,mobile_web,apple_pay,economy,,312,312,,standard,EST,EST
+96,42,2024-10-31 00:00:00,11:21:53,2024-10-31T11:21:53,delivered,527.65,web,credit_card,standard,,451,451,,standard,MST,MST
+97,80,2024-09-17 00:00:00,15:59:36,2024-09-17T15:59:36,delivered,29.29,mobile_web,credit_card,economy,,329,329,,standard,EST,EST
+98,46,2025-04-30 00:00:00,14:02:52,2025-04-30T14:02:52,delivered,221.16,mobile_web,debit_card,express,,327,327,,standard,EST,EST
+99,12,2025-05-02 00:00:00,17:55:01,2025-05-02T17:55:01,delivered,1410.34,mobile_web,credit_card,standard,,386,386,,standard,CST,CST
+100,91,2025-05-01 00:00:00,17:05:02,2025-05-01T17:05:02,delivered,377.01,web,credit_card,express,,559,559,,standard,EST,EST
+101,60,2024-12-08 00:00:00,19:41:49,2024-12-08T19:41:49,delivered,784.67,web,credit_card,economy,,215,215,,standard,MST,MST
+102,2,2025-05-13 00:00:00,14:16:41,2025-05-13T14:16:41,delivered,302.49,web,debit_card,standard,,419,419,,standard,MST,MST
+103,52,2024-12-27 00:00:00,17:13:49,2024-12-27T17:13:49,delivered,146.7,web,credit_card,express,,434,434,,high,CST,CST
+104,25,2025-03-16 00:00:00,15:36:26,2025-03-16T15:36:26,delivered,1040.89,web,credit_card,standard,,519,891,,high,EST,EST
+105,15,2025-02-11 00:00:00,19:39:40,2025-02-11T19:39:40,delivered,441.76,web,debit_card,economy,,917,609,,standard,MST,MST
+106,43,2025-08-12 00:00:00,17:01:31,2025-08-12T17:01:31,delivered,484.69,web,paypal,express,,364,364,,standard,EST,EST
+107,62,2025-04-05 00:00:00,11:56:40,2025-04-05T11:56:40,delivered,1326.13,mobile_app,credit_card,economy,,991,991,,standard,PST,PST
+108,25,2025-03-09 00:00:00,20:34:18,2025-03-09T20:34:18,delivered,855.9,web,credit_card,economy,FREESHIP,765,765,,standard,PST,PST
+109,42,2024-09-27 00:00:00,17:19:30,2024-09-27T17:19:30,delivered,795.39,mobile_app,paypal,express,,791,791,,standard,MST,MST
+110,67,2024-10-08 00:00:00,06:15:51,2024-10-08T06:15:51,delivered,6496.52,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+111,9,2024-12-21 00:00:00,16:51:43,2024-12-21T16:51:43,delivered,59.67,web,debit_card,standard,,320,320,,standard,EST,EST
+112,98,2025-01-30 00:00:00,21:25:19,2025-01-30T21:25:19,delivered,94.57,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+113,7,2024-10-27 00:00:00,16:29:04,2024-10-27T16:29:04,delivered,1038.44,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+114,53,2025-02-13 00:00:00,14:44:03,2025-02-13T14:44:03,delivered,1034.42,mobile_web,credit_card,economy,,529,529,,standard,EST,EST
+115,51,2024-11-20 00:00:00,17:10:28,2024-11-20T17:10:28,delivered,923.13,mobile_app,credit_card,standard,,415,415,,standard,EST,EST
+116,99,2025-05-11 00:00:00,15:26:30,2025-05-11T15:26:30,delivered,2637.41,web,credit_card,standard,,905,905,,medium,PST,PST
+117,56,2025-08-13 00:00:00,16:29:13,2025-08-13T16:29:13,delivered,274.46,mobile_app,credit_card,standard,,771,771,,standard,PST,PST
+118,40,2025-07-10 00:00:00,21:21:38,2025-07-10T21:21:38,delivered,209.26,web,apple_pay,standard,,375,375,,standard,Other,Other
+119,48,2025-03-27 00:00:00,14:09:20,2025-03-27T14:09:20,delivered,1837.45,web,paypal,standard,,655,655,,medium,CST,CST
+120,64,2024-12-09 00:00:00,21:55:45,2024-12-09T21:55:45,delivered,483.17,mobile_app,credit_card,standard,FREESHIP,633,633,,standard,EST,EST
+121,99,2025-05-06 00:00:00,20:20:46,2025-05-06T20:20:46,delivered,1180.9,web,credit_card,express,,689,689,,medium,EST,EST
+122,26,2025-07-12 00:00:00,11:55:22,2025-07-12T11:55:22,delivered,2255.79,web,credit_card,economy,,524,524,,standard,EST,EST
+123,2,2025-04-03 00:00:00,08:25:08,2025-04-03T08:25:08,delivered,224.69,mobile_web,paypal,standard,,551,551,,standard,CST,CST
+124,79,2025-07-09 00:00:00,09:48:23,2025-07-09T09:48:23,delivered,537.0,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+125,35,2024-09-11 00:00:00,05:32:35,2024-09-11T05:32:35,delivered,1340.67,web,apple_pay,express,,497,497,,standard,MST,MST
+126,74,2025-01-30 00:00:00,09:06:20,2025-01-30T09:06:20,delivered,687.79,mobile_app,credit_card,economy,,702,702,,standard,PST,PST
+127,63,2025-07-04 00:00:00,17:15:29,2025-07-04T17:15:29,delivered,657.0,web,credit_card,standard,,815,815,,standard,PST,PST
+128,78,2025-06-08 00:00:00,17:07:17,2025-06-08T17:07:17,delivered,638.64,mobile_web,paypal,express,,469,469,,medium,PST,PST
+129,74,2025-01-21 00:00:00,13:15:09,2025-01-21T13:15:09,delivered,119.22,web,credit_card,economy,,275,275,,standard,CST,CST
+130,34,2025-03-09 00:00:00,19:06:03,2025-03-09T19:06:03,delivered,305.0,mobile_app,paypal,standard,,560,560,Gift message: Happy Birthday!,standard,PST,PST
+131,5,2025-04-03 00:00:00,06:18:24,2025-04-03T06:18:24,delivered,1000.24,mobile_web,debit_card,economy,,896,461,,standard,EST,EST
+132,55,2025-07-04 00:00:00,19:55:39,2025-07-04T19:55:39,delivered,253.33,web,debit_card,economy,WELCOME10,243,243,,standard,EST,EST
+133,82,2025-03-11 00:00:00,13:26:15,2025-03-11T13:26:15,delivered,376.84,web,debit_card,economy,,439,439,,standard,PST,PST
+134,18,2025-01-15 00:00:00,10:55:57,2025-01-15T10:55:57,delivered,371.49,mobile_app,paypal,express,,360,360,,high,MST,MST
+135,78,2025-08-24 00:00:00,17:10:52,2025-08-24T17:10:52,delivered,302.5,mobile_app,credit_card,standard,,587,587,,standard,PST,PST
+136,47,2025-04-11 00:00:00,17:20:59,2025-04-11T17:20:59,delivered,894.33,mobile_app,debit_card,express,,986,986,,standard,MST,MST
+137,70,2025-03-18 00:00:00,19:36:46,2025-03-18T19:36:46,delivered,534.35,mobile_web,credit_card,express,,719,256,,standard,PST,PST
+138,64,2025-01-06 00:00:00,18:20:12,2025-01-06T18:20:12,delivered,143.22,web,credit_card,standard,,403,403,,standard,EST,EST
+139,82,2025-02-01 00:00:00,18:48:10,2025-02-01T18:48:10,delivered,1354.88,mobile_web,paypal,standard,,649,649,,standard,EST,EST
+140,7,2024-12-18 00:00:00,13:31:32,2024-12-18T13:31:32,delivered,963.39,web,debit_card,standard,,899,899,,standard,MST,MST
+141,78,2024-11-12 00:00:00,11:29:31,2024-11-12T11:29:31,delivered,154.96,mobile_app,paypal,economy,SUMMER25,996,996,,standard,PST,PST
+142,46,2024-09-14 00:00:00,18:56:19,2024-09-14T18:56:19,delivered,233.43,mobile_app,debit_card,standard,NEWUSER,992,992,,standard,EST,EST
+143,30,2025-01-05 00:00:00,18:31:01,2025-01-05T18:31:01,delivered,40.43,mobile_web,debit_card,standard,,592,592,,standard,EST,EST
+144,5,2025-04-23 00:00:00,22:05:25,2025-04-23T22:05:25,delivered,932.73,mobile_app,credit_card,express,,48,48,,standard,EST,EST
+145,20,2024-11-28 00:00:00,14:32:29,2024-11-28T14:32:29,delivered,140.24,mobile_web,apple_pay,standard,SAVE20,1,439,,standard,MST,MST
+146,5,2024-09-15 00:00:00,14:15:13,2024-09-15T14:15:13,delivered,1023.72,web,paypal,standard,SUMMER25,896,281,,medium,EST,EST
+147,94,2025-08-17 00:00:00,18:37:22,2025-08-17T18:37:22,delivered,34.36,api,credit_card,economy,SUMMER25,170,170,,standard,EST,EST
+148,52,2025-07-15 00:00:00,13:03:03,2025-07-15T13:03:03,delivered,693.96,mobile_web,credit_card,economy,,94,94,,standard,MST,MST
+149,99,2025-07-03 00:00:00,20:18:31,2025-07-03T20:18:31,returned,3264.77,web,apple_pay,standard,,232,232,,standard,CST,CST
+150,55,2024-12-22 00:00:00,19:38:56,2024-12-22T19:38:56,shipped,184.8,mobile_web,credit_card,express,,881,881,,medium,Other,Other
+151,26,2024-09-26 00:00:00,15:53:41,2024-09-26T15:53:41,delivered,2047.71,web,paypal,economy,,105,105,,standard,EST,EST
+152,76,2025-07-15 00:00:00,18:43:30,2025-07-15T18:43:30,delivered,30.96,web,paypal,economy,,896,896,,standard,Other,Other
+153,20,2025-03-06 00:00:00,18:18:34,2025-03-06T18:18:34,delivered,56.38,web,apple_pay,standard,,451,451,Leave with neighbor if not home,medium,PST,PST
+154,36,2025-03-28 00:00:00,09:00:54,2025-03-28T09:00:54,delivered,1059.62,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+155,79,2025-01-20 00:00:00,20:06:27,2025-01-20T20:06:27,delivered,258.8,mobile_app,paypal,standard,SUMMER25,987,987,,medium,EST,EST
+156,87,2025-06-28 00:00:00,15:08:56,2025-06-28T15:08:56,delivered,170.45,web,credit_card,economy,,616,616,,standard,EST,EST
+157,34,2025-04-18 00:00:00,19:16:46,2025-04-18T19:16:46,delivered,1863.38,mobile_app,credit_card,standard,,675,211,,medium,EST,EST
+158,13,2024-12-03 00:00:00,13:23:48,2024-12-03T13:23:48,delivered,216.57,mobile_app,debit_card,economy,,56,56,,standard,MST,MST
+159,37,2024-11-04 00:00:00,20:25:23,2024-11-04T20:25:23,delivered,101.81,mobile_web,paypal,economy,,654,654,,standard,CST,CST
+160,89,2024-10-12 00:00:00,14:02:25,2024-10-12T14:02:25,delivered,9233.19,web,debit_card,standard,,136,136,,standard,CST,CST
+161,96,2024-12-09 00:00:00,03:03:36,2024-12-09T03:03:36,delivered,638.82,web,credit_card,economy,,483,789,,standard,EST,EST
+162,57,2025-05-17 00:00:00,20:35:12,2025-05-17T20:35:12,delivered,171.1,web,debit_card,economy,SAVE20,972,972,Please leave package at front door,standard,PST,PST
+163,50,2024-12-06 00:00:00,09:23:35,2024-12-06T09:23:35,delivered,979.14,web,credit_card,economy,,719,719,,standard,MST,MST
+164,44,2024-12-16 00:00:00,13:18:04,2024-12-16T13:18:04,delivered,784.72,mobile_app,debit_card,standard,,81,81,,standard,MST,MST
+165,24,2025-03-30 00:00:00,21:24:32,2025-03-30T21:24:32,delivered,37.92,mobile_web,credit_card,standard,,650,650,,standard,EST,EST
+166,64,2025-07-18 00:00:00,21:28:48,2025-07-18T21:28:48,delivered,513.06,mobile_web,credit_card,standard,,977,60,,medium,CST,CST
+167,89,2025-07-08 00:00:00,16:35:17,2025-07-08T16:35:17,delivered,765.72,mobile_app,credit_card,standard,NEWUSER,317,317,,standard,EST,EST
+168,95,2025-08-26 00:00:00,17:52:39,2025-08-26T17:52:39,delivered,2205.24,web,apple_pay,economy,SAVE20,168,168,,standard,EST,EST
+169,48,2025-06-17 00:00:00,15:43:39,2025-06-17T15:43:39,delivered,1144.96,mobile_web,debit_card,standard,,381,381,,standard,CST,CST
+170,67,2024-09-25 00:00:00,13:07:08,2024-09-25T13:07:08,delivered,1015.89,mobile_app,credit_card,economy,,31,31,,standard,EST,EST
+171,35,2025-06-27 00:00:00,13:06:25,2025-06-27T13:06:25,delivered,249.97,web,credit_card,economy,,643,643,,standard,PST,PST
+172,11,2024-11-28 00:00:00,17:23:50,2024-11-28T17:23:50,delivered,202.75,mobile_app,credit_card,economy,,377,377,,standard,Other,Other
+173,55,2025-04-15 00:00:00,18:21:35,2025-04-15T18:21:35,delivered,795.95,web,apple_pay,standard,,759,759,,medium,CST,CST
+174,94,2025-07-29 00:00:00,18:23:48,2025-07-29T18:23:48,returned,1049.04,mobile_app,apple_pay,standard,,484,484,,medium,EST,EST
+175,56,2025-07-10 00:00:00,18:09:12,2025-07-10T18:09:12,delivered,849.75,mobile_app,apple_pay,economy,,230,230,Deliver to back door,standard,MST,MST
+176,78,2025-02-01 00:00:00,16:38:32,2025-02-01T16:38:32,delivered,66.02,mobile_app,debit_card,standard,,382,382,,standard,EST,EST
+177,100,2025-01-19 00:00:00,15:32:02,2025-01-19T15:32:02,delivered,795.98,web,apple_pay,standard,,48,71,,standard,PST,PST
+178,70,2025-09-02 00:00:00,08:02:02,2025-09-02T08:02:02,delivered,421.91,mobile_app,credit_card,standard,,319,319,,standard,CST,CST
+179,38,2025-07-26 00:00:00,16:08:45,2025-07-26T16:08:45,shipped,897.75,mobile_app,credit_card,economy,,312,312,,standard,Other,Other
+180,42,2025-07-29 00:00:00,15:21:51,2025-07-29T15:21:51,delivered,1513.95,web,paypal,economy,,795,795,,standard,Other,Other
+181,14,2024-11-10 00:00:00,20:30:33,2024-11-10T20:30:33,delivered,22.83,mobile_app,credit_card,express,,25,25,Deliver to back door,medium,EST,EST
+182,87,2024-11-11 00:00:00,14:29:09,2024-11-11T14:29:09,delivered,73.41,mobile_app,credit_card,standard,,2,2,,standard,MST,MST
+183,81,2024-12-04 00:00:00,10:38:57,2024-12-04T10:38:57,delivered,3256.33,mobile_app,credit_card,economy,,244,244,,standard,EST,EST
+184,82,2025-04-22 00:00:00,10:32:08,2025-04-22T10:32:08,delivered,717.16,mobile_app,paypal,standard,FREESHIP,944,944,,standard,CST,CST
+185,40,2025-01-05 00:00:00,18:20:59,2025-01-05T18:20:59,delivered,835.83,mobile_web,credit_card,express,,766,766,,medium,EST,EST
+186,58,2025-07-14 00:00:00,17:39:20,2025-07-14T17:39:20,delivered,122.23,web,credit_card,standard,,582,582,,standard,CST,CST
+187,88,2025-06-17 00:00:00,09:10:25,2025-06-17T09:10:25,delivered,3405.18,mobile_web,credit_card,economy,,949,718,,standard,EST,EST
+188,22,2025-06-01 00:00:00,23:39:47,2025-06-01T23:39:47,delivered,1114.04,web,credit_card,standard,,967,967,,standard,CST,CST
+189,99,2025-01-21 00:00:00,17:19:37,2025-01-21T17:19:37,delivered,925.62,mobile_app,credit_card,standard,,478,478,,standard,EST,EST
+190,45,2025-08-24 00:00:00,23:21:32,2025-08-24T23:21:32,delivered,1305.84,mobile_app,apple_pay,standard,,475,475,,standard,MST,MST
+191,75,2025-04-21 00:00:00,19:32:34,2025-04-21T19:32:34,delivered,1409.93,web,paypal,economy,,714,714,,standard,MST,MST
+192,6,2024-09-14 00:00:00,17:31:45,2024-09-14T17:31:45,delivered,166.7,mobile_web,credit_card,express,SUMMER25,365,365,,standard,PST,PST
+193,46,2025-06-04 00:00:00,09:36:19,2025-06-04T09:36:19,returned,189.51,mobile_app,credit_card,economy,,179,179,,standard,MST,MST
+194,86,2025-06-03 00:00:00,09:30:52,2025-06-03T09:30:52,delivered,1252.2,mobile_app,credit_card,express,,474,474,,standard,EST,EST
+195,36,2025-01-18 00:00:00,22:01:23,2025-01-18T22:01:23,delivered,886.85,mobile_app,apple_pay,economy,SAVE20,844,844,,standard,Other,Other
+196,8,2025-04-12 00:00:00,14:21:43,2025-04-12T14:21:43,delivered,172.88,web,debit_card,express,NEWUSER,833,833,,standard,PST,PST
+197,10,2025-04-10 00:00:00,14:07:26,2025-04-10T14:07:26,delivered,46.93,web,credit_card,express,,95,850,,standard,PST,PST
+198,43,2024-10-29 00:00:00,18:37:19,2024-10-29T18:37:19,delivered,424.12,mobile_web,paypal,economy,,947,947,,standard,CST,CST
+199,41,2025-04-10 00:00:00,21:50:57,2025-04-10T21:50:57,delivered,279.4,web,credit_card,express,SUMMER25,363,363,,medium,CST,CST
+200,26,2024-11-16 00:00:00,22:46:55,2024-11-16T22:46:55,delivered,1100.52,mobile_app,credit_card,economy,,632,632,Rush delivery needed,standard,EST,EST
+201,1,2025-06-12,18:54:05,2025-06-12T00:00:00,delivered,3308.74,mobile_app,credit_card,express,,462,462,,medium,PST,PST
+202,1,2025-06-14,18:54:05,2025-06-14T00:00:00,delivered,731.07,mobile_app,credit_card,express,,462,462,,medium,PST,PST
+203,1,2025-05-30,18:54:05,2025-05-30T00:00:00,delivered,596.23,mobile_app,credit_card,express,,462,462,,medium,PST,PST
+204,1,2025-06-01,18:54:05,2025-06-01T00:00:00,delivered,1206.69,mobile_app,credit_card,express,,462,462,,medium,PST,PST
+205,2,2025-06-11,14:16:41,2025-06-11T00:00:00,delivered,1086.88,web,debit_card,standard,,419,419,,standard,MST,MST
+206,2,2025-05-21,14:16:41,2025-05-21T00:00:00,delivered,1443.93,web,debit_card,standard,,419,419,,standard,MST,MST
+207,2,2025-06-08,14:16:41,2025-06-08T00:00:00,delivered,1232.18,web,debit_card,standard,,419,419,,standard,MST,MST
+208,2,2025-05-14,14:16:41,2025-05-14T00:00:00,delivered,917.74,web,debit_card,standard,,419,419,,standard,MST,MST
+209,2,2025-06-08,14:16:41,2025-06-08T00:00:00,delivered,350.07,web,debit_card,standard,,419,419,,standard,MST,MST
+210,2,2025-05-29,14:16:41,2025-05-29T00:00:00,delivered,1662.31,web,debit_card,standard,,419,419,,standard,MST,MST
+211,2,2025-05-29,14:16:41,2025-05-29T00:00:00,delivered,892.58,web,debit_card,standard,,419,419,,standard,MST,MST
+212,3,2025-08-09,21:04:28,2025-08-09T00:00:00,delivered,141.85,web,credit_card,standard,,911,911,,standard,EST,EST
+213,3,2025-08-01,21:04:28,2025-08-01T00:00:00,delivered,1390.56,web,credit_card,standard,,911,911,,standard,EST,EST
+214,3,2025-08-03,21:04:28,2025-08-03T00:00:00,delivered,312.38,web,credit_card,standard,,911,911,,standard,EST,EST
+215,3,2025-07-24,21:04:28,2025-07-24T00:00:00,delivered,1836.09,web,credit_card,standard,,911,911,,standard,EST,EST
+216,3,2025-08-17,21:04:28,2025-08-17T00:00:00,delivered,1397.77,web,credit_card,standard,,911,911,,standard,EST,EST
+217,3,2025-08-18,21:04:28,2025-08-18T00:00:00,delivered,65.84,web,credit_card,standard,,911,911,,standard,EST,EST
+218,5,2025-02-01,17:23:24,2025-02-01T00:00:00,delivered,126.5,api,debit_card,economy,,405,978,,standard,EST,EST
+219,5,2025-01-28,17:23:24,2025-01-28T00:00:00,delivered,282.26,api,debit_card,economy,,405,978,,standard,EST,EST
+220,5,2025-01-24,17:23:24,2025-01-24T00:00:00,delivered,543.53,api,debit_card,economy,,405,978,,standard,EST,EST
+221,5,2025-01-28,17:23:24,2025-01-28T00:00:00,delivered,382.88,api,debit_card,economy,,405,978,,standard,EST,EST
+222,5,2025-02-16,17:23:24,2025-02-16T00:00:00,delivered,189.12,api,debit_card,economy,,405,978,,standard,EST,EST
+223,5,2025-02-13,17:23:24,2025-02-13T00:00:00,delivered,370.42,api,debit_card,economy,,405,978,,standard,EST,EST
+224,6,2025-04-26,18:33:24,2025-04-26T00:00:00,delivered,949.72,web,debit_card,standard,,776,776,,standard,CST,CST
+225,6,2025-05-03,18:33:24,2025-05-03T00:00:00,delivered,1054.44,web,debit_card,standard,,776,776,,standard,CST,CST
+226,6,2025-05-07,18:33:24,2025-05-07T00:00:00,delivered,293.43,web,debit_card,standard,,776,776,,standard,CST,CST
+227,7,2024-11-02,16:29:04,2024-11-02T00:00:00,delivered,3328.09,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+228,7,2024-11-15,16:29:04,2024-11-15T00:00:00,delivered,909.99,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+229,7,2024-11-20,16:29:04,2024-11-20T00:00:00,delivered,1213.13,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+230,7,2024-11-26,16:29:04,2024-11-26T00:00:00,delivered,157.78,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+231,7,2024-11-19,16:29:04,2024-11-19T00:00:00,delivered,375.48,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+232,7,2024-11-15,16:29:04,2024-11-15T00:00:00,delivered,411.25,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+233,7,2024-11-15,16:29:04,2024-11-15T00:00:00,delivered,301.86,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+234,7,2024-11-23,16:29:04,2024-11-23T00:00:00,delivered,869.43,mobile_app,apple_pay,standard,,870,870,,medium,EST,EST
+235,11,2025-08-03,08:35:36,2025-08-03T00:00:00,delivered,3221.16,web,debit_card,standard,,937,937,,standard,EST,EST
+236,11,2025-08-01,08:35:36,2025-08-01T00:00:00,delivered,1134.61,web,debit_card,standard,,937,937,,standard,EST,EST
+237,11,2025-07-18,08:35:36,2025-07-18T00:00:00,delivered,1122.8,web,debit_card,standard,,937,937,,standard,EST,EST
+238,11,2025-07-24,08:35:36,2025-07-24T00:00:00,delivered,371.25,web,debit_card,standard,,937,937,,standard,EST,EST
+239,11,2025-08-01,08:35:36,2025-08-01T00:00:00,delivered,500.07,web,debit_card,standard,,937,937,,standard,EST,EST
+240,13,2024-11-07,13:28:02,2024-11-07T00:00:00,delivered,584.18,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+241,13,2024-11-11,13:28:02,2024-11-11T00:00:00,delivered,246.65,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+242,13,2024-11-30,13:28:02,2024-11-30T00:00:00,delivered,1030.53,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+243,13,2024-11-28,13:28:02,2024-11-28T00:00:00,delivered,77.1,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+244,13,2024-11-01,13:28:02,2024-11-01T00:00:00,delivered,521.58,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+245,13,2024-11-23,13:28:02,2024-11-23T00:00:00,delivered,1742.77,mobile_app,debit_card,economy,,791,698,,standard,CST,CST
+246,15,2025-02-27,13:46:30,2025-02-27T00:00:00,delivered,20.1,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+247,15,2025-03-23,13:46:30,2025-03-23T00:00:00,delivered,1122.75,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+248,15,2025-02-26,13:46:30,2025-02-26T00:00:00,delivered,107.33,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+249,15,2025-03-17,13:46:30,2025-03-17T00:00:00,delivered,3934.28,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+250,15,2025-02-27,13:46:30,2025-02-27T00:00:00,delivered,15149.47,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+251,15,2025-03-06,13:46:30,2025-03-06T00:00:00,delivered,2998.86,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+252,15,2025-03-01,13:46:30,2025-03-01T00:00:00,delivered,1162.62,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+253,15,2025-03-09,13:46:30,2025-03-09T00:00:00,delivered,883.72,mobile_app,apple_pay,standard,,268,268,,medium,EST,EST
+254,17,2025-06-04,22:23:28,2025-06-04T00:00:00,delivered,948.6,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+255,17,2025-06-11,22:23:28,2025-06-11T00:00:00,delivered,862.73,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+256,17,2025-06-23,22:23:28,2025-06-23T00:00:00,delivered,315.32,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+257,17,2025-06-05,22:23:28,2025-06-05T00:00:00,delivered,219.38,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+258,17,2025-06-12,22:23:28,2025-06-12T00:00:00,delivered,775.25,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+259,17,2025-06-06,22:23:28,2025-06-06T00:00:00,delivered,163.81,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+260,17,2025-06-16,22:23:28,2025-06-16T00:00:00,delivered,205.75,web,apple_pay,standard,HOLIDAY15,484,484,,standard,PST,PST
+261,20,2025-07-26,13:01:09,2025-07-26T00:00:00,delivered,640.4,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+262,20,2025-08-13,13:01:09,2025-08-13T00:00:00,delivered,157.78,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+263,20,2025-08-19,13:01:09,2025-08-19T00:00:00,delivered,764.5,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+264,20,2025-07-27,13:01:09,2025-07-27T00:00:00,delivered,1529.48,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+265,20,2025-08-05,13:01:09,2025-08-05T00:00:00,delivered,142.62,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+266,20,2025-08-14,13:01:09,2025-08-14T00:00:00,delivered,400.45,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+267,20,2025-08-13,13:01:09,2025-08-13T00:00:00,delivered,978.55,mobile_app,apple_pay,standard,,209,209,,standard,EST,EST
+268,22,2025-08-06,14:01:47,2025-08-06T00:00:00,delivered,90.62,web,debit_card,standard,,872,872,,standard,EST,EST
+269,22,2025-08-04,14:01:47,2025-08-04T00:00:00,delivered,2250.2,web,debit_card,standard,,872,872,,standard,EST,EST
+270,22,2025-08-12,14:01:47,2025-08-12T00:00:00,delivered,352.84,web,debit_card,standard,,872,872,,standard,EST,EST
+271,22,2025-08-30,14:01:47,2025-08-30T00:00:00,delivered,820.87,web,debit_card,standard,,872,872,,standard,EST,EST
+272,22,2025-08-28,14:01:47,2025-08-28T00:00:00,delivered,1231.59,web,debit_card,standard,,872,872,,standard,EST,EST
+273,24,2024-10-10,17:41:17,2024-10-10T00:00:00,delivered,1771.35,web,debit_card,express,,986,297,,standard,CST,CST
+274,24,2024-10-01,17:41:17,2024-10-01T00:00:00,delivered,1793.57,web,debit_card,express,,986,297,,standard,CST,CST
+275,24,2024-09-23,17:41:17,2024-09-23T00:00:00,delivered,786.31,web,debit_card,express,,986,297,,standard,CST,CST
+276,24,2024-09-19,17:41:17,2024-09-19T00:00:00,delivered,30.71,web,debit_card,express,,986,297,,standard,CST,CST
+277,24,2024-10-12,17:41:17,2024-10-12T00:00:00,delivered,868.94,web,debit_card,express,,986,297,,standard,CST,CST
+278,24,2024-09-17,17:41:17,2024-09-17T00:00:00,delivered,489.77,web,debit_card,express,,986,297,,standard,CST,CST
+279,24,2024-10-01,17:41:17,2024-10-01T00:00:00,delivered,285.9,web,debit_card,express,,986,297,,standard,CST,CST
+280,25,2025-05-25,21:23:32,2025-05-25T00:00:00,delivered,1911.43,mobile_web,credit_card,standard,,802,593,,standard,PST,PST
+281,25,2025-05-25,21:23:32,2025-05-25T00:00:00,delivered,119.41,mobile_web,credit_card,standard,,802,593,,standard,PST,PST
+282,25,2025-05-14,21:23:32,2025-05-14T00:00:00,delivered,208.18,mobile_web,credit_card,standard,,802,593,,standard,PST,PST
+283,26,2025-05-04,18:12:50,2025-05-04T00:00:00,delivered,304.98,web,credit_card,standard,,308,308,,standard,EST,EST
+284,26,2025-05-07,18:12:50,2025-05-07T00:00:00,delivered,69.47,web,credit_card,standard,,308,308,,standard,EST,EST
+285,26,2025-05-10,18:12:50,2025-05-10T00:00:00,delivered,80.16,web,credit_card,standard,,308,308,,standard,EST,EST
+286,26,2025-05-03,18:12:50,2025-05-03T00:00:00,delivered,1006.13,web,credit_card,standard,,308,308,,standard,EST,EST
+287,26,2025-05-16,18:12:50,2025-05-16T00:00:00,delivered,449.71,web,credit_card,standard,,308,308,,standard,EST,EST
+288,26,2025-04-19,18:12:50,2025-04-19T00:00:00,delivered,873.06,web,credit_card,standard,,308,308,,standard,EST,EST
+289,26,2025-04-22,18:12:50,2025-04-22T00:00:00,delivered,1271.64,web,credit_card,standard,,308,308,,standard,EST,EST
+290,26,2025-04-24,18:12:50,2025-04-24T00:00:00,delivered,188.71,web,credit_card,standard,,308,308,,standard,EST,EST
+291,28,2025-08-23,22:04:19,2025-08-23T00:00:00,delivered,1311.8,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+292,28,2025-09-18,22:04:19,2025-09-18T00:00:00,delivered,1824.01,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+293,28,2025-08-31,22:04:19,2025-08-31T00:00:00,delivered,19.11,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+294,28,2025-09-09,22:04:19,2025-09-09T00:00:00,delivered,2418.92,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+295,28,2025-09-12,22:04:19,2025-09-12T00:00:00,delivered,331.26,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+296,28,2025-09-10,22:04:19,2025-09-10T00:00:00,delivered,497.0,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+297,28,2025-09-18,22:04:19,2025-09-18T00:00:00,delivered,920.1,mobile_app,apple_pay,standard,,765,491,,medium,EST,EST
+298,29,2024-09-23,21:51:47,2024-09-23T00:00:00,delivered,322.24,mobile_app,credit_card,standard,,645,645,,standard,EST,EST
+299,29,2024-09-26,21:51:47,2024-09-26T00:00:00,delivered,866.09,mobile_app,credit_card,standard,,645,645,,standard,EST,EST
+300,36,2025-04-21,09:00:54,2025-04-21T00:00:00,delivered,344.56,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+301,36,2025-04-15,09:00:54,2025-04-15T00:00:00,delivered,448.54,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+302,36,2025-04-07,09:00:54,2025-04-07T00:00:00,delivered,425.75,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+303,36,2025-04-01,09:00:54,2025-04-01T00:00:00,delivered,88.3,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+304,36,2025-04-16,09:00:54,2025-04-16T00:00:00,delivered,459.71,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+305,36,2025-04-13,09:00:54,2025-04-13T00:00:00,delivered,150.25,mobile_web,credit_card,standard,,454,89,,standard,PST,PST
+306,40,2024-10-22,20:04:28,2024-10-22T00:00:00,delivered,4778.35,web,debit_card,economy,,154,154,,standard,CST,CST
+307,40,2024-10-31,20:04:28,2024-10-31T00:00:00,delivered,107.33,web,debit_card,economy,,154,154,,standard,CST,CST
+308,40,2024-11-11,20:04:28,2024-11-11T00:00:00,delivered,1687.06,web,debit_card,economy,,154,154,,standard,CST,CST
+309,40,2024-10-28,20:04:28,2024-10-28T00:00:00,delivered,2225.83,web,debit_card,economy,,154,154,,standard,CST,CST
+310,42,2024-11-06,11:21:53,2024-11-06T00:00:00,delivered,37.92,web,credit_card,standard,,451,451,,standard,MST,MST
+311,42,2024-11-03,11:21:53,2024-11-03T00:00:00,delivered,6327.0,web,credit_card,standard,,451,451,,standard,MST,MST
+312,42,2024-11-04,11:21:53,2024-11-04T00:00:00,delivered,1290.3,web,credit_card,standard,,451,451,,standard,MST,MST
+313,43,2025-08-28,17:01:31,2025-08-28T00:00:00,delivered,943.85,web,paypal,express,,364,364,,standard,EST,EST
+314,43,2025-09-03,17:01:31,2025-09-03T00:00:00,delivered,274.06,web,paypal,express,,364,364,,standard,EST,EST
+315,43,2025-09-02,17:01:31,2025-09-02T00:00:00,delivered,60.13,web,paypal,express,,364,364,,standard,EST,EST
+316,43,2025-08-18,17:01:31,2025-08-18T00:00:00,delivered,76.83,web,paypal,express,,364,364,,standard,EST,EST
+317,43,2025-08-25,17:01:31,2025-08-25T00:00:00,delivered,1270.67,web,paypal,express,,364,364,,standard,EST,EST
+318,45,2025-02-01,14:57:18,2025-02-01T00:00:00,delivered,870.88,web,credit_card,standard,NEWUSER,978,978,,standard,EST,EST
+319,45,2025-02-14,14:57:18,2025-02-14T00:00:00,delivered,51.9,web,credit_card,standard,NEWUSER,978,978,,standard,EST,EST
+320,45,2025-02-26,14:57:18,2025-02-26T00:00:00,delivered,354.97,web,credit_card,standard,NEWUSER,978,978,,standard,EST,EST
+321,45,2025-02-01,14:57:18,2025-02-01T00:00:00,delivered,80.48,web,credit_card,standard,NEWUSER,978,978,,standard,EST,EST
+322,45,2025-02-22,14:57:18,2025-02-22T00:00:00,delivered,496.53,web,credit_card,standard,NEWUSER,978,978,,standard,EST,EST
+323,46,2025-09-12,09:04:08,2025-09-12T00:00:00,delivered,265.0,mobile_app,debit_card,economy,,346,346,,standard,MST,MST
+324,46,2025-09-08,09:04:08,2025-09-08T00:00:00,delivered,80.27,mobile_app,debit_card,economy,,346,346,,standard,MST,MST
+325,47,2025-04-24,19:07:16,2025-04-24T00:00:00,delivered,1720.54,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+326,47,2025-04-07,19:07:16,2025-04-07T00:00:00,delivered,61.49,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+327,47,2025-05-02,19:07:16,2025-05-02T00:00:00,delivered,2310.28,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+328,47,2025-04-23,19:07:16,2025-04-23T00:00:00,delivered,472.74,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+329,47,2025-05-05,19:07:16,2025-05-05T00:00:00,delivered,443.48,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+330,47,2025-05-04,19:07:16,2025-05-04T00:00:00,delivered,871.8,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+331,47,2025-04-15,19:07:16,2025-04-15T00:00:00,delivered,700.1,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+332,47,2025-05-04,19:07:16,2025-05-04T00:00:00,delivered,499.5,mobile_web,credit_card,standard,FREESHIP,7,7,,standard,CST,CST
+333,49,2024-12-31,16:36:08,2024-12-31T00:00:00,delivered,2132.87,api,apple_pay,economy,,295,295,,standard,PST,PST
+334,49,2024-12-31,16:36:08,2024-12-31T00:00:00,delivered,764.31,api,apple_pay,economy,,295,295,,standard,PST,PST
+335,51,2025-01-30,17:33:22,2025-01-30T00:00:00,delivered,3645.57,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+336,51,2025-02-04,17:33:22,2025-02-04T00:00:00,delivered,43.51,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+337,51,2025-01-16,17:33:22,2025-01-16T00:00:00,delivered,821.62,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+338,51,2025-02-05,17:33:22,2025-02-05T00:00:00,delivered,6115.86,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+339,51,2025-01-12,17:33:22,2025-01-12T00:00:00,delivered,560.0,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+340,51,2025-02-01,17:33:22,2025-02-01T00:00:00,delivered,641.0,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+341,51,2025-02-06,17:33:22,2025-02-06T00:00:00,delivered,219.9,mobile_app,debit_card,standard,SUMMER25,725,725,,standard,MST,MST
+342,52,2025-01-16,17:13:49,2025-01-16T00:00:00,delivered,315.43,web,credit_card,express,,434,434,,high,CST,CST
+343,52,2025-01-26,17:13:49,2025-01-26T00:00:00,delivered,25.23,web,credit_card,express,,434,434,,high,CST,CST
+344,52,2025-01-22,17:13:49,2025-01-22T00:00:00,delivered,2701.01,web,credit_card,express,,434,434,,high,CST,CST
+345,52,2025-01-09,17:13:49,2025-01-09T00:00:00,delivered,6109.86,web,credit_card,express,,434,434,,high,CST,CST
+346,52,2025-01-14,17:13:49,2025-01-14T00:00:00,delivered,211.71,web,credit_card,express,,434,434,,high,CST,CST
+347,52,2025-01-05,17:13:49,2025-01-05T00:00:00,delivered,730.88,web,credit_card,express,,434,434,,high,CST,CST
+348,52,2025-01-26,17:13:49,2025-01-26T00:00:00,delivered,3483.79,web,credit_card,express,,434,434,,high,CST,CST
+349,52,2025-01-22,17:13:49,2025-01-22T00:00:00,delivered,1031.74,web,credit_card,express,,434,434,,high,CST,CST
+350,56,2025-09-12,09:01:23,2025-09-12T00:00:00,delivered,1059.03,api,credit_card,standard,,551,551,,standard,PST,PST
+351,56,2025-08-30,09:01:23,2025-08-30T00:00:00,delivered,426.75,api,credit_card,standard,,551,551,,standard,PST,PST
+352,56,2025-08-31,09:01:23,2025-08-31T00:00:00,delivered,36.89,api,credit_card,standard,,551,551,,standard,PST,PST
+353,56,2025-09-14,09:01:23,2025-09-14T00:00:00,delivered,565.54,api,credit_card,standard,,551,551,,standard,PST,PST
+354,56,2025-08-30,09:01:23,2025-08-30T00:00:00,delivered,233.92,api,credit_card,standard,,551,551,,standard,PST,PST
+355,56,2025-09-14,09:01:23,2025-09-14T00:00:00,delivered,1311.65,api,credit_card,standard,,551,551,,standard,PST,PST
+356,57,2025-03-08,13:11:31,2025-03-08T00:00:00,delivered,2072.79,web,credit_card,standard,,664,664,,medium,CST,CST
+357,57,2025-03-27,13:11:31,2025-03-27T00:00:00,delivered,291.52,web,credit_card,standard,,664,664,,medium,CST,CST
+358,57,2025-03-12,13:11:31,2025-03-12T00:00:00,delivered,790.65,web,credit_card,standard,,664,664,,medium,CST,CST
+359,57,2025-03-19,13:11:31,2025-03-19T00:00:00,delivered,1140.7,web,credit_card,standard,,664,664,,medium,CST,CST
+360,57,2025-03-18,13:11:31,2025-03-18T00:00:00,delivered,1593.13,web,credit_card,standard,,664,664,,medium,CST,CST
+361,57,2025-03-04,13:11:31,2025-03-04T00:00:00,delivered,94.89,web,credit_card,standard,,664,664,,medium,CST,CST
+362,57,2025-03-03,13:11:31,2025-03-03T00:00:00,delivered,555.41,web,credit_card,standard,,664,664,,medium,CST,CST
+363,57,2025-03-20,13:11:31,2025-03-20T00:00:00,delivered,232.68,web,credit_card,standard,,664,664,,medium,CST,CST
+364,60,2024-12-21,19:41:49,2024-12-21T00:00:00,delivered,6299.44,web,credit_card,economy,,215,215,,standard,MST,MST
+365,60,2024-12-19,19:41:49,2024-12-19T00:00:00,delivered,492.08,web,credit_card,economy,,215,215,,standard,MST,MST
+366,62,2025-04-29,11:56:40,2025-04-29T00:00:00,delivered,351.89,mobile_app,credit_card,economy,,991,991,,standard,PST,PST
+367,62,2025-04-14,11:56:40,2025-04-14T00:00:00,delivered,540.9,mobile_app,credit_card,economy,,991,991,,standard,PST,PST
+368,63,2025-07-15,17:15:29,2025-07-15T00:00:00,delivered,33.18,web,credit_card,standard,,815,815,,standard,PST,PST
+369,63,2025-07-14,17:15:29,2025-07-14T00:00:00,delivered,102.91,web,credit_card,standard,,815,815,,standard,PST,PST
+370,67,2024-10-24,06:15:51,2024-10-24T00:00:00,delivered,991.91,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+371,67,2024-10-30,06:15:51,2024-10-30T00:00:00,delivered,790.32,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+372,67,2024-11-05,06:15:51,2024-11-05T00:00:00,delivered,730.5,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+373,67,2024-10-18,06:15:51,2024-10-18T00:00:00,delivered,876.88,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+374,67,2024-10-23,06:15:51,2024-10-23T00:00:00,delivered,764.19,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+375,67,2024-10-19,06:15:51,2024-10-19T00:00:00,delivered,473.8,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+376,67,2024-10-22,06:15:51,2024-10-22T00:00:00,delivered,1800.82,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+377,67,2024-10-11,06:15:51,2024-10-11T00:00:00,delivered,51.6,mobile_web,credit_card,standard,,303,303,,standard,PST,PST
+378,71,2024-10-15,12:22:33,2024-10-15T00:00:00,delivered,420.29,mobile_web,credit_card,economy,,764,55,,standard,MST,MST
+379,71,2024-10-09,12:22:33,2024-10-09T00:00:00,delivered,3678.15,mobile_web,credit_card,economy,,764,55,,standard,MST,MST
+380,71,2024-10-02,12:22:33,2024-10-02T00:00:00,delivered,1063.93,mobile_web,credit_card,economy,,764,55,,standard,MST,MST
+381,72,2024-10-26,15:22:45,2024-10-26T00:00:00,delivered,3962.33,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+382,72,2024-10-30,15:22:45,2024-10-30T00:00:00,delivered,2385.19,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+383,72,2024-11-16,15:22:45,2024-11-16T00:00:00,delivered,616.85,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+384,72,2024-10-29,15:22:45,2024-10-29T00:00:00,delivered,410.55,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+385,72,2024-11-10,15:22:45,2024-11-10T00:00:00,delivered,1236.01,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+386,72,2024-10-25,15:22:45,2024-10-25T00:00:00,delivered,1329.49,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+387,72,2024-11-22,15:22:45,2024-11-22T00:00:00,delivered,1202.85,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+388,72,2024-11-20,15:22:45,2024-11-20T00:00:00,delivered,8548.45,mobile_app,credit_card,express,,913,913,,medium,EST,EST
+389,74,2024-11-12,18:08:54,2024-11-12T00:00:00,delivered,828.18,web,paypal,express,,940,940,,standard,EST,EST
+390,74,2024-11-09,18:08:54,2024-11-09T00:00:00,delivered,237.3,web,paypal,express,,940,940,,standard,EST,EST
+391,75,2025-05-03,19:32:34,2025-05-03T00:00:00,delivered,2040.83,web,paypal,economy,,714,714,,standard,MST,MST
+392,75,2025-05-08,19:32:34,2025-05-08T00:00:00,delivered,968.84,web,paypal,economy,,714,714,,standard,MST,MST
+393,75,2025-05-21,19:32:34,2025-05-21T00:00:00,delivered,745.27,web,paypal,economy,,714,714,,standard,MST,MST
+394,75,2025-04-22,19:32:34,2025-04-22T00:00:00,delivered,405.73,web,paypal,economy,,714,714,,standard,MST,MST
+395,76,2025-08-04,18:43:30,2025-08-04T00:00:00,delivered,175.67,web,paypal,economy,,896,896,,standard,Other,Other
+396,76,2025-08-12,18:43:30,2025-08-12T00:00:00,delivered,326.37,web,paypal,economy,,896,896,,standard,Other,Other
+397,76,2025-08-02,18:43:30,2025-08-02T00:00:00,delivered,163.23,web,paypal,economy,,896,896,,standard,Other,Other
+398,76,2025-07-21,18:43:30,2025-07-21T00:00:00,delivered,882.86,web,paypal,economy,,896,896,,standard,Other,Other
+399,76,2025-07-24,18:43:30,2025-07-24T00:00:00,delivered,749.05,web,paypal,economy,,896,896,,standard,Other,Other
+400,77,2025-01-01,10:48:04,2025-01-01T00:00:00,delivered,3889.81,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+401,77,2025-01-11,10:48:04,2025-01-11T00:00:00,delivered,477.95,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+402,77,2025-01-26,10:48:04,2025-01-26T00:00:00,delivered,893.95,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+403,77,2025-01-05,10:48:04,2025-01-05T00:00:00,delivered,1287.28,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+404,77,2025-01-19,10:48:04,2025-01-19T00:00:00,delivered,1654.7,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+405,77,2025-01-05,10:48:04,2025-01-05T00:00:00,delivered,257.43,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+406,77,2025-01-12,10:48:04,2025-01-12T00:00:00,delivered,869.88,mobile_app,credit_card,standard,,417,417,,standard,PST,PST
+407,79,2025-08-03,09:48:23,2025-08-03T00:00:00,delivered,3349.32,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+408,79,2025-07-31,09:48:23,2025-07-31T00:00:00,delivered,839.23,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+409,79,2025-08-08,09:48:23,2025-08-08T00:00:00,delivered,936.69,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+410,79,2025-07-15,09:48:23,2025-07-15T00:00:00,delivered,1405.68,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+411,79,2025-07-10,09:48:23,2025-07-10T00:00:00,delivered,489.89,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+412,79,2025-07-29,09:48:23,2025-07-29T00:00:00,delivered,589.35,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+413,79,2025-07-19,09:48:23,2025-07-19T00:00:00,delivered,338.22,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+414,79,2025-08-01,09:48:23,2025-08-01T00:00:00,delivered,39.44,mobile_web,debit_card,economy,,144,144,,standard,Other,Other
+415,83,2025-07-11,16:10:10,2025-07-11T00:00:00,delivered,514.73,mobile_web,credit_card,economy,,985,985,,standard,CST,CST
+416,83,2025-06-24,16:10:10,2025-06-24T00:00:00,delivered,453.4,mobile_web,credit_card,economy,,985,985,,standard,CST,CST
+417,83,2025-06-19,16:10:10,2025-06-19T00:00:00,delivered,938.26,mobile_web,credit_card,economy,,985,985,,standard,CST,CST
+418,83,2025-07-04,16:10:10,2025-07-04T00:00:00,delivered,1086.62,mobile_web,credit_card,economy,,985,985,,standard,CST,CST
+419,83,2025-07-02,16:10:10,2025-07-02T00:00:00,delivered,206.99,mobile_web,credit_card,economy,,985,985,,standard,CST,CST
+420,86,2024-09-13,16:51:35,2024-09-13T00:00:00,delivered,797.73,mobile_web,credit_card,express,,742,53,,standard,CST,CST
+421,86,2024-10-04,16:51:35,2024-10-04T00:00:00,delivered,404.36,mobile_web,credit_card,express,,742,53,,standard,CST,CST
+422,88,2025-07-16,16:43:54,2025-07-16T00:00:00,delivered,274.31,web,credit_card,standard,,555,958,,standard,CST,CST
+423,88,2025-07-24,16:43:54,2025-07-24T00:00:00,delivered,1603.58,web,credit_card,standard,,555,958,,standard,CST,CST
+424,88,2025-07-14,16:43:54,2025-07-14T00:00:00,delivered,961.0,web,credit_card,standard,,555,958,,standard,CST,CST
+425,88,2025-07-20,16:43:54,2025-07-20T00:00:00,delivered,334.25,web,credit_card,standard,,555,958,,standard,CST,CST
+426,88,2025-07-13,16:43:54,2025-07-13T00:00:00,delivered,34.96,web,credit_card,standard,,555,958,,standard,CST,CST
+427,88,2025-08-01,16:43:54,2025-08-01T00:00:00,delivered,742.38,web,credit_card,standard,,555,958,,standard,CST,CST
+428,88,2025-07-25,16:43:54,2025-07-25T00:00:00,delivered,2369.55,web,credit_card,standard,,555,958,,standard,CST,CST
+429,88,2025-08-02,16:43:54,2025-08-02T00:00:00,delivered,1267.29,web,credit_card,standard,,555,958,,standard,CST,CST
+430,89,2024-10-17,14:02:25,2024-10-17T00:00:00,delivered,85.86,web,debit_card,standard,,136,136,,standard,CST,CST
+431,89,2024-10-20,14:02:25,2024-10-20T00:00:00,delivered,203.74,web,debit_card,standard,,136,136,,standard,CST,CST
+432,89,2024-11-07,14:02:25,2024-11-07T00:00:00,delivered,209.04,web,debit_card,standard,,136,136,,standard,CST,CST
+433,98,2025-02-12,21:25:19,2025-02-12T00:00:00,delivered,731.29,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+434,98,2025-02-21,21:25:19,2025-02-21T00:00:00,delivered,408.15,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+435,98,2025-01-31,21:25:19,2025-01-31T00:00:00,delivered,696.39,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+436,98,2025-02-09,21:25:19,2025-02-09T00:00:00,delivered,206.99,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+437,98,2025-02-13,21:25:19,2025-02-13T00:00:00,delivered,653.45,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+438,98,2025-02-23,21:25:19,2025-02-23T00:00:00,delivered,37.92,mobile_app,apple_pay,standard,,740,740,,standard,PST,PST
+439,99,2024-12-08,16:04:35,2024-12-08T00:00:00,delivered,653.5,web,debit_card,standard,,678,137,,standard,CST,CST
+440,99,2024-11-30,16:04:35,2024-11-30T00:00:00,delivered,153.43,web,debit_card,standard,,678,137,,standard,CST,CST
+441,99,2024-11-27,16:04:35,2024-11-27T00:00:00,delivered,398.24,web,debit_card,standard,,678,137,,standard,CST,CST
+442,99,2024-12-10,16:04:35,2024-12-10T00:00:00,delivered,4228.57,web,debit_card,standard,,678,137,,standard,CST,CST
+443,99,2024-12-19,16:04:35,2024-12-19T00:00:00,delivered,1735.13,web,debit_card,standard,,678,137,,standard,CST,CST
+444,99,2024-12-01,16:04:35,2024-12-01T00:00:00,delivered,252.23,web,debit_card,standard,,678,137,,standard,CST,CST
+445,99,2024-12-17,16:04:35,2024-12-17T00:00:00,delivered,313.22,web,debit_card,standard,,678,137,,standard,CST,CST
+446,100,2024-10-26,14:45:28,2024-10-26T00:00:00,delivered,1048.64,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+447,100,2024-10-07,14:45:28,2024-10-07T00:00:00,delivered,132.93,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+448,100,2024-10-02,14:45:28,2024-10-02T00:00:00,delivered,394.5,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+449,100,2024-10-21,14:45:28,2024-10-21T00:00:00,delivered,380.32,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+450,100,2024-10-22,14:45:28,2024-10-22T00:00:00,delivered,5120.24,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+451,100,2024-10-19,14:45:28,2024-10-19T00:00:00,delivered,307.06,mobile_web,credit_card,standard,,468,468,,high,CST,CST
+452,100,2024-10-18,14:45:28,2024-10-18T00:00:00,delivered,261.82,mobile_web,credit_card,standard,,468,468,,high,CST,CST

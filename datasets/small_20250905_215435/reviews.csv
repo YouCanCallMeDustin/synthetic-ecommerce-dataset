@@ -1,0 +1,101 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,74,10,2.3,Poor quality. The Trefoil T-Shirt ripped after just one wash.,2025-09-01
+2,58,60,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-01-04
+3,82,76,3.9,Average Beats Studio3. Not bad but not great either. Would consider other options next time.,2024-10-25
+4,65,8,5.0,Perfect! The Foaming Facial Cleanser exceeded my expectations and arrived quickly.,2025-02-01
+5,22,21,4.6,"Perfect! Fast shipping, great packaging, and the Alpha 7R V exceeded my expectations.",2025-08-04
+6,67,37,5.0,Beautiful Gazelle! The color and fit are perfect. Will definitely buy again.,2025-07-26
+7,36,17,5.0,Absolutely love this Barbie Fashionista Doll! The quality is outstanding and it works exactly as described.,2025-04-12
+8,65,83,3.8,Decent quality for the price. The PlayStation 5 Digital is okay but could be better.,2025-02-14
+9,22,85,5.0,"Perfect! Fast shipping, great packaging, and the BILLY Bookcase exceeded my expectations.",2025-01-23
+10,73,6,5.0,Perfect fit and great quality! The Blazer Mid looks exactly like the picture.,2025-04-04
+11,83,99,5.0,Beautiful Adicolor Backpack! The color and fit are perfect. Will definitely buy again.,2025-05-27
+12,54,80,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-11-10
+13,38,83,5.0,Worth every penny. The PlayStation 5 Digital is exactly what I needed and works flawlessly.,2025-06-27
+14,39,59,2.1,Waste of money. The Ultraboost 22 is poorly made and uncomfortable.,2025-03-05
+15,54,62,4.3,Decent Dri-FIT T-Shirt. The material is okay but not as soft as I expected.,2025-06-30
+16,41,92,4.9,"Perfect! Fast shipping, great packaging, and the Galaxy Buds2 Pro exceeded my expectations.",2024-10-02
+17,52,17,5.0,Absolutely love this Barbie Fashionista Doll! The quality is outstanding and it works exactly as described.,2024-09-10
+18,41,31,4.2,"Decent quality for the price. The iPad Pro 12.9"" is okay but could be better.",2025-04-20
+19,19,13,2.9,Would not recommend. The FX30 is cheaply made and doesn't last.,2024-09-30
+20,54,32,5.0,"Perfect! Fast shipping, great packaging, and the Galaxy Tab S9 exceeded my expectations.",2024-09-09
+21,74,93,4.7,Excellent Niacinamide 10% + Zinc 1%! Great value for money and the results are outstanding.,2024-12-14
+22,66,60,4.3,"Good Galaxy Tab S9+, works as expected. Nothing extraordinary but gets the job done.",2024-11-26
+23,12,51,4.9,Best home purchase I've made in years. Highly recommend to anyone looking for quality.,2024-09-19
+24,75,46,1.3,Would not recommend. The Lightning to USB-C Cable is cheaply made and doesn't last.,2025-08-28
+25,84,87,4.5,"Good PlayStation 5, works as expected. Nothing extraordinary but gets the job done.",2024-09-27
+26,56,18,5.0,Worth every penny. The Galaxy S24 Ultra is exactly what I needed and works flawlessly.,2025-07-07
+27,47,6,4.5,"Love this Blazer Mid! Comfortable, stylish, and true to size.",2025-02-05
+28,47,71,3.3,Average Galaxy Book4 Pro. Not bad but not great either. Would consider other options next time.,2025-03-19
+29,98,71,3.9,Works well enough. The Galaxy Book4 Pro is functional but has some minor issues.,2024-12-24
+30,16,17,5.0,"Perfect! Fast shipping, great packaging, and the Barbie Fashionista Doll exceeded my expectations.",2025-05-06
+31,72,47,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-06-07
+32,52,65,1.0,"Poor quality. The MacBook Pro 14"" broke after just a few weeks of use.",2025-03-17
+33,61,67,4.5,Amazing product! Great value for money and the quality is top-notch.,2025-06-28
+34,18,42,5.0,Worth every penny. The iPad is exactly what I needed and works flawlessly.,2025-02-12
+35,79,95,5.0,Beautiful Gym Bag! The color and fit are perfect. Will definitely buy again.,2025-02-15
+36,66,69,4.5,Worth every penny. The Monopoly Classic is exactly what I needed and works flawlessly.,2025-06-03
+37,3,48,4.1,Average Vice Lipstick. Not bad but not great either. Would consider other options.,2025-02-07
+38,75,40,5.0,Absolutely love this Tech 2.0 T-Shirt! The quality is outstanding and it works exactly as described.,2024-10-06
+39,77,61,3.6,Works well enough. The AirPods Max is functional but has some minor issues.,2025-05-10
+40,74,30,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-03-31
+41,68,81,5.0,Excellent Eyeshadow Primer Potion! Great value for money and the results are outstanding.,2025-03-31
+42,19,88,3.5,"Good iPhone 15 Pro, works as expected. Nothing extraordinary but gets the job done.",2025-05-01
+43,25,3,4.4,Average Galaxy Tab A8. Not bad but not great either. Would consider other options next time.,2024-11-02
+44,89,27,4.7,Great Superstar! Fits perfectly and the material is soft and comfortable.,2024-12-20
+45,95,94,2.1,Had issues with this WH-1000XM4 from day one. Customer service was not helpful.,2024-10-06
+46,72,42,5.0,Worth every penny. The iPad is exactly what I needed and works flawlessly.,2025-01-02
+47,41,23,4.5,Works well enough. The HEMNES Dresser is functional but has some minor issues.,2024-10-04
+48,46,87,5.0,"Perfect! Fast shipping, great packaging, and the PlayStation 5 exceeded my expectations.",2025-03-21
+49,79,62,3.2,Average Dri-FIT T-Shirt. Nothing special but it serves its purpose.,2025-08-27
+50,39,29,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2024-11-21
+51,91,27,5.0,Great Superstar! Fits perfectly and the material is soft and comfortable.,2025-07-14
+52,45,72,5.0,"Perfect! Fast shipping, great packaging, and the iPad mini exceeded my expectations.",2024-11-03
+53,37,16,5.0,Great Swoosh Cap! Fits perfectly and the material is soft and comfortable.,2025-03-31
+54,45,99,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2025-01-08
+55,92,11,4.4,It's fine. The Trefoil Socks fits okay but the color is slightly different than pictured.,2025-02-02
+56,96,62,3.7,It's fine. The Dri-FIT T-Shirt fits okay but the color is slightly different than pictured.,2025-04-19
+57,72,90,3.1,Works okay. The Great Lash Mascara is functional but has some minor issues.,2025-05-08
+58,31,32,2.8,Had issues with this Galaxy Tab S9 from day one. Customer service was not helpful.,2025-06-27
+59,82,30,2.4,Not worth the money. The Galaxy S24+ doesn't work as advertised.,2025-07-25
+60,13,88,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-05-14
+61,21,53,5.0,Worth every penny. The Apple Watch Band is exactly what I needed and works flawlessly.,2025-05-26
+62,62,84,3.9,It's fine. Does what it's supposed to do but I've seen better in this price range.,2025-05-11
+63,37,83,2.7,Would not recommend. The PlayStation 5 Digital is cheaply made and doesn't last.,2024-09-29
+64,30,69,5.0,Absolutely love this Monopoly Classic! The quality is outstanding and it works exactly as described.,2025-01-02
+65,23,54,5.0,Amazing Studio Moisture Cream! The quality is fantastic and it works exactly as described.,2025-06-02
+66,51,101,4.8,Perfect! The Prep + Prime Fix+ exceeded my expectations and arrived quickly.,2025-02-20
+67,5,2,3.5,It's fine. Does what it's supposed to do but I've seen better in this price range.,2025-06-14
+68,37,59,5.0,Great Ultraboost 22! Fits perfectly and the material is soft and comfortable.,2025-07-29
+69,18,65,4.2,"Good MacBook Pro 14"", works as expected. Nothing extraordinary but gets the job done.",2024-12-05
+70,43,21,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2024-09-26
+71,2,95,4.3,Decent Gym Bag. The material is okay but not as soft as I expected.,2024-12-07
+72,23,79,5.0,Great Primeblue Hoodie! Fits perfectly and the material is soft and comfortable.,2024-10-07
+73,66,42,2.6,Had issues with this iPad from day one. Customer service was not helpful.,2025-08-29
+74,18,62,4.2,It's fine. The Dri-FIT T-Shirt fits okay but the color is slightly different than pictured.,2025-02-19
+75,50,31,4.2,It's fine. Does what it's supposed to do but I've seen better in this price range.,2024-10-19
+76,39,75,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2025-02-27
+77,89,31,2.1,"Poor quality. The iPad Pro 12.9"" broke after just a few weeks of use.",2025-04-29
+78,21,52,5.0,Perfect! The Eyeshadow Palette exceeded my expectations and arrived quickly.,2025-04-28
+79,89,16,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2024-09-25
+80,79,29,3.1,Decent Water Bottle. The material is okay but not as soft as I expected.,2025-01-02
+81,59,96,5.0,Beautiful React Element 55! The color and fit are perfect. Will definitely buy again.,2025-05-20
+82,61,97,4.6,Love this Studio Fix Foundation! Great pigmentation and long-lasting wear.,2025-06-19
+83,98,32,5.0,Absolutely love this Galaxy Tab S9! The quality is outstanding and it works exactly as described.,2025-05-17
+84,68,58,4.3,Works well enough. The DualSense Controller is functional but has some minor issues.,2025-06-18
+85,15,8,5.0,Love this Foaming Facial Cleanser! Great pigmentation and long-lasting wear.,2024-11-11
+86,74,69,2.3,Would not recommend. The Monopoly Classic is cheaply made and doesn't last.,2024-10-20
+87,57,15,5.0,Worth every penny. The iPhone 14 is exactly what I needed and works flawlessly.,2024-09-08
+88,12,66,4.1,Decent quality for the price. The iPad Air is okay but could be better.,2025-06-05
+89,66,54,4.1,Average Studio Moisture Cream. Not bad but not great either. Would consider other options.,2024-10-27
+90,87,104,4.0,It's fine. Does what it's supposed to do but I've seen better in this price range.,2025-06-03
+91,1,96,3.1,Good quality but the React Element 55 is a bit overpriced for what you get.,2024-09-08
+92,45,90,2.9,Disappointed with this Great Lash Mascara. Quality is not what I expected.,2024-11-06
+93,61,5,3.2,Decent quality for the price. The Galaxy Buds FE is okay but could be better.,2025-03-15
+94,99,83,5.0,Worth every penny. The PlayStation 5 Digital is exactly what I needed and works flawlessly.,2025-01-16
+95,48,49,4.8,Excellent Naked Eyeshadow Palette! Great value for money and the results are outstanding.,2025-03-26
+96,49,11,5.0,Beautiful Trefoil Socks! The color and fit are perfect. Will definitely buy again.,2025-03-23
+97,18,84,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-07-05
+98,51,68,2.9,Disappointed with this WH-1000XM5. Quality is not what I expected for the price.,2025-07-20
+99,97,3,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-06-10
+100,55,69,4.2,Average Monopoly Classic. Not bad but not great either. Would consider other options next time.,2024-12-13

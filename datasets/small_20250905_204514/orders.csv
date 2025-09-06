@@ -1,0 +1,11 @@
+order_id,user_id,order_date,status,total_amount
+1,8,2025-07-24,delivered,356.36
+2,7,2025-04-02,delivered,367.21
+3,9,2025-06-04,shipped,387.92
+4,8,2024-12-30,delivered,46.28
+5,5,2025-04-29,shipped,185.65
+6,2,2025-07-14,returned,66.78
+7,5,2025-05-15,delivered,432.92
+8,8,2025-03-28,shipped,315.42
+9,10,2024-09-07,pending,172.14
+10,9,2025-05-21,delivered,41.14

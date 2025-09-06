@@ -1,0 +1,76 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,13,23,4.0,I've been using this Chanel Conditioner for months and still love it.,2025-05-29
+2,49,18,3.0,This Urban Decay Face Mask - White doesn't absorb well. Leaves a greasy residue.,2024-09-06
+3,2,13,3.1,I'm dissatisfied with this Neutrogena Hair Dye - Gold. It's not meeting my needs.,2025-08-16
+4,5,2,3.8,Not happy with this Wayfair Dresser. Poor quality and doesn't meet expectations.,2025-06-22
+5,44,9,3.5,This Wilson Running Shoes - Yellow is not durable enough for sports use. Breaks easily.,2025-08-04
+6,27,21,3.9,I'm frustrated with this HP AirPods Pro - White. It doesn't work as intended.,2025-06-30
+7,32,2,4.0,This Wayfair Dresser is well-designed and practical. Great addition to my home.,2025-08-13
+8,21,27,4.4,Excellent purchase! This Sony WH-1000XM5 - Beige works better than I could have hoped.,2024-10-15
+9,8,25,3.9,This Yeti Bike Computer - Red is not worth the price. Poor quality and doesn't work.,2025-07-03
+10,38,9,4.4,This Wilson Running Shoes - Yellow is fantastic! Great performance and excellent quality.,2025-02-16
+11,8,1,4.1,Excellent purchase! This Sony Bluetooth Speaker - Orange works better than I could have hoped.,2024-11-27
+12,50,11,2.4,Poor quality Hasbro Bike. Cheap materials and doesn't work properly.,2024-11-11
+13,3,3,3.2,This Art Supplies - Gray is not recommended for kids. Too many safety issues.,2025-07-13
+14,44,20,3.9,The construction of this Hockey Stick is weak and unreliable.,2025-06-01
+15,3,30,3.0,The build quality of this Samsung Galaxy S24 - Navy is shockingly poor.,2025-03-24
+16,22,23,4.5,The results from this Chanel Conditioner are noticeable and long-lasting.,2025-03-03
+17,6,26,5.0,This Setting Powder - Navy is gentle enough for daily use and very effective.,2024-09-23
+18,2,4,5.0,This Spalding Tennis Racket is outstanding! Great quality and exactly what I needed.,2025-04-08
+19,23,18,3.8,This Urban Decay Face Mask - White is not suitable for daily use. Too strong.,2024-12-09
+20,44,23,5.0,I'm delighted with this Chanel Conditioner. It's become my go-to choice.,2025-08-26
+21,2,6,4.1,This Too Faced Mascara - Blue is perfect for my skin concerns. Exactly what I needed.,2025-07-30
+22,38,3,3.7,I'm disappointed with the overall quality of this Art Supplies - Gray.,2024-10-21
+23,17,22,3.5,This West Elm Pendant Light - Red is not worth the price. Poor quality and design.,2025-02-28
+24,35,11,3.8,This Hasbro Bike is not well-made. Construction is poor and weak.,2024-10-25
+25,34,15,3.7,Poor quality Plant Stand - Green. Cheap materials and poor construction.,2025-07-12
+26,23,22,4.1,Excellent West Elm Pendant Light - Red! High quality and perfect for the intended use.,2025-03-03
+27,30,28,4.1,I love how this Electronic Keyboard - Pink encourages creativity and imagination.,2025-05-21
+28,8,5,4.0,This Hand Cream is fantastic! Gentle on skin and very effective.,2025-03-29
+29,22,20,4.3,The craftsmanship of this Hockey Stick is impressive. Very well made.,2025-04-09
+30,44,10,5.0,I'm impressed with how well this Brooks Ski Goggles holds up during intense use.,2025-04-23
+31,36,12,4.8,This New Balance Running Watch is fantastic! Great performance and excellent quality.,2025-01-05
+32,5,15,2.8,The design of this Plant Stand - Green is impractical and uncomfortable.,2025-06-24
+33,13,17,2.0,Terrible Disney Language Learning. Cheap materials and poor construction.,2025-08-16
+34,29,10,4.7,I've been using this Brooks Ski Goggles for months and it's still in perfect condition.,2025-02-22
+35,31,6,2.9,The ingredients in this Too Faced Mascara - Blue seem low-quality and ineffective.,2025-04-29
+36,47,18,3.8,This Urban Decay Face Mask - White is not gentle enough. Caused skin sensitivity.,2025-07-17
+37,16,13,3.1,The formula of this Neutrogena Hair Dye - Gold is not effective. No improvement seen.,2025-06-10
+38,42,3,2.6,The functionality of this Art Supplies - Gray is limited and disappointing.,2025-08-16
+39,30,30,4.4,This Samsung Galaxy S24 - Navy has become my go-to choice. Highly recommended!,2025-03-19
+40,16,24,4.6,I'm amazed by the comfort and quality of this H&M Running Shoes.,2025-02-16
+41,12,10,3.5,Regret buying this Brooks Ski Goggles. It's poorly made and doesn't function properly.,2025-07-23
+42,17,30,1.9,This Samsung Galaxy S24 - Navy is not worth the money. Poor value for the price.,2025-08-22
+43,16,14,3.6,This Cardigan (Large) is not suitable for the intended purpose. Poor design.,2025-04-04
+44,12,6,4.3,This Too Faced Mascara - Blue is worth every penny. The results speak for themselves.,2025-02-24
+45,8,3,2.8,This Art Supplies - Gray is terrible quality. Broke quickly and poor design.,2025-08-18
+46,20,16,4.1,Excellent L'Oréal Toner - Yellow! Great quality and I can see the difference already.,2024-11-04
+47,3,7,4.0,This West Elm Office Chair is well-designed and practical. Great addition to my home.,2025-06-19
+48,16,20,4.5,This Hockey Stick is fantastic! Well-made and perfect for sports activities.,2025-08-04
+49,30,14,4.1,I'm completely satisfied with this Cardigan (Large). Quality is outstanding.,2025-03-07
+50,45,9,3.2,The design of this Wilson Running Shoes - Yellow is flawed and impractical.,2025-02-25
+51,23,15,5.0,Love this Plant Stand - Green! Well-made and looks great in my space.,2024-12-13
+52,28,21,3.9,The battery life of this HP AirPods Pro - White is terrible. Dies too quickly.,2025-06-22
+53,40,3,4.0,I'm so glad I purchased this Art Supplies - Gray. It's perfect for my child.,2024-12-09
+54,5,2,3.3,This Wayfair Dresser is not as described. Poor quality and doesn't work properly.,2025-07-27
+55,20,27,3.6,The build quality of this Sony WH-1000XM5 - Beige is shockingly poor.,2025-05-09
+56,40,2,3.3,This Wayfair Dresser is not well-constructed. Poor quality control.,2024-12-20
+57,44,3,3.9,The design of this Art Supplies - Gray is flawed and unsafe.,2025-06-28
+58,1,18,5.0,This Urban Decay Face Mask - White is incredible! Works better than expected and great quality.,2025-07-03
+59,30,14,2.9,This Cardigan (Large) doesn't fit well at all. The sizing is completely off.,2025-03-25
+60,21,20,2.7,The construction of this Hockey Stick is weak. Poor workmanship.,2025-03-11
+61,20,18,5.0,The packaging of this Urban Decay Face Mask - White is practical and the product is great.,2025-05-05
+62,6,10,3.8,Very disappointed with this Brooks Ski Goggles. It's flimsy and overpriced.,2024-12-05
+63,22,25,3.5,I'm not satisfied with this Yeti Bike Computer - Red. It's poorly made.,2024-12-19
+64,18,2,4.8,Perfect Wayfair Dresser! Great quality and exactly as described.,2025-02-21
+65,8,25,3.5,The functionality of this Yeti Bike Computer - Red is limited and disappointing.,2024-10-04
+66,39,29,5.0,I'm so glad I purchased this Microscope. It's perfect for my child.,2025-06-08
+67,32,22,4.5,I'm so happy with this West Elm Pendant Light - Red! It fits perfectly in my home.,2024-12-23
+68,33,1,3.6,This Sony Bluetooth Speaker - Orange is poorly engineered. Design flaws are obvious.,2024-12-04
+69,16,4,5.0,This Spalding Tennis Racket is outstanding! Great quality and exactly what I needed.,2024-12-18
+70,12,14,3.5,This Cardigan (Large) is a waste of money. Doesn't look like the picture at all.,2025-01-12
+71,38,1,4.6,Perfect Sony Bluetooth Speaker - Orange! Easy to set up and works exactly as advertised.,2025-01-06
+72,34,14,4.2,I'm completely satisfied with this Cardigan (Large). Quality is outstanding.,2025-08-16
+73,14,16,5.0,I love how this L'Oréal Toner - Yellow makes my skin feel. Soft and smooth.,2025-04-01
+74,36,22,5.0,The craftsmanship of this West Elm Pendant Light - Red is top-notch. Very well made.,2024-10-05
+75,33,14,4.0,The material of this Cardigan (Large) is top-notch. Feels luxurious to wear.,2024-10-27

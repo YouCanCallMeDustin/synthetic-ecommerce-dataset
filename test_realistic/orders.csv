@@ -1,0 +1,11 @@
+order_id,user_id,order_date,status,total_amount
+1,84572,2025-05-06,delivered,43.49
+2,64348,2025-02-05,cancelled,90.79
+3,83358,2024-10-04,delivered,18.99
+4,83358,2024-10-29,delivered,19.0
+5,64348,2025-05-03,delivered,18.0
+6,99872,2025-04-23,returned,15.0
+7,66541,2024-12-02,delivered,15.95
+8,83358,2024-09-22,delivered,85.49
+9,68540,2024-10-01,delivered,74.0
+10,87314,2024-10-01,returned,15.99

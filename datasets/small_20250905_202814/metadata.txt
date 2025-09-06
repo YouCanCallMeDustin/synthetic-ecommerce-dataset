@@ -1,0 +1,17 @@
+Dataset Generation Metadata
+==========================
+Generated: 2025-09-05T20:28:14.466241
+Size Category: small
+
+Parameters:
+  Users: 200
+  Products: 200
+  Orders: 200
+  Reviews: 200
+
+File Sizes:
+  users.csv: 26,070 bytes
+  products.csv: 9,215 bytes
+  orders.csv: 7,077 bytes
+  order_items.csv: 5,789 bytes
+  reviews.csv: 20,587 bytes

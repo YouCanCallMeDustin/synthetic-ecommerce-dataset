@@ -1,0 +1,501 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,31,23,3.1,Not happy with this Fisher-Price Checkers - Yellow. Poor quality and doesn't work properly.,2025-02-01
+2,42,82,4.3,I'm thrilled with this Brooks Water Bottle Cage - Gray. It's perfect for my fitness goals.,2025-02-09
+3,50,193,3.3,This H&M Swimwear (Medium) is not as described. The color is different and it's poorly made.,2025-07-01
+4,23,186,4.7,Excellent Toner! Great quality and I can see the difference already.,2025-01-13
+5,78,139,2.4,This Under Armour Cardigan - Silver (Extra Large) is disappointing. Poor quality and doesn't fit properly.,2025-05-25
+6,99,101,4.5,This Nerf Electronic Keyboard is outstanding! Great quality and kids love it.,2025-04-24
+7,81,125,3.3,This Cooler is not functional for its intended purpose. Poor design.,2024-09-24
+8,60,164,4.9,This Bath Mat is excellent! Well-made and great value for money.,2025-07-07
+9,32,97,3.1,This Trousers - Black (S) is not suitable for the intended use. Poor design.,2025-05-07
+10,56,63,4.3,"This Calvin Klein Tank Top - Beige (XXL) is fantastic! Comfortable, stylish, and well-made.",2025-05-13
+11,56,36,4.8,The performance of this Swim Cap is outstanding. Highly recommend!,2025-01-11
+12,100,185,3.3,This Crate & Barrel Toothbrush Holder is poorly designed. Difficult to use and assemble.,2024-09-29
+13,87,89,3.6,Poor quality Hasbro Magnetic Tiles. Cheap materials and doesn't work properly.,2025-01-10
+14,34,23,3.4,This Fisher-Price Checkers - Yellow is not worth the price. Poor quality and safety.,2024-10-10
+15,41,182,4.5,Outstanding Philips Hue Starter Kit! Works flawlessly and the design is sleek and modern.,2025-04-08
+16,39,63,4.6,I love how this Calvin Klein Tank Top - Beige (XXL) feels against my skin. Very comfortable.,2025-05-25
+17,86,33,2.0,This Hiking Boots is not durable at all. Poor quality materials.,2025-02-01
+18,42,175,4.1,This Adidas Compression Socks - Beige is excellent! Great quality and perfect for my needs.,2024-12-23
+19,66,19,3.9,The materials of this Columbia Ski Socks are not suitable for athletic use.,2024-12-10
+20,20,162,4.0,This Shark Bed Skirt - Blue is well-constructed and durable. Great investment.,2025-06-12
+21,14,23,4.9,I'm thrilled with this Fisher-Price Checkers - Yellow. It's exceeded my expectations.,2025-07-31
+22,38,110,4.2,Amazing Instant Pot Plant Food! Perfect size and great quality. Highly recommend!,2025-05-16
+23,37,86,3.2,I'm unhappy with this Barbie Action Figure Set. It's not meeting my expectations.,2025-08-21
+24,37,195,4.0,The packaging of this Body Scrub is practical and the product is great.,2025-04-26
+25,12,4,5.0,I'm impressed with how quickly this Body Butter shows results.,2025-08-09
+26,92,97,4.3,The sizing of this Trousers - Black (S) is accurate. Fits exactly as expected.,2024-11-01
+27,56,84,3.0,This Spalding Pool Noodle - White is not worth the price. Poor quality and performance.,2025-01-11
+28,8,128,3.3,This MAC Deodorant is not suitable for my skin concerns. Wrong formula.,2024-10-05
+29,93,96,4.2,This Bissell Coffee Table has made my home more organized and efficient.,2025-04-18
+30,21,181,3.3,This Uno - Pink is not durable enough for children's use. Breaks easily.,2025-05-19
+31,39,112,3.1,This Honeywell Coffee Maker - Red doesn't fit properly in my space. Poor design.,2024-10-28
+32,48,143,4.2,This Neutrogena Base Coat has transformed my skin. I can see real improvements.,2025-08-26
+33,18,121,4.9,This Xiaomi JBL Live Pro 2 is a perfect blend of form and function.,2025-01-17
+34,63,17,3.4,This ASICS Hiking Boots is terrible quality. Doesn't work and poor construction.,2025-01-02
+35,83,150,3.1,This Nintendo Lenovo ThinkPad X1 - Brown is unreliable and breaks down frequently.,2025-05-16
+36,74,162,3.6,This Shark Bed Skirt - Blue is not suitable for my lifestyle. Too delicate.,2025-06-02
+37,9,161,4.0,I'm completely satisfied with this JBL Ring Video Doorbell. It's exactly what I needed.,2025-05-19
+38,87,25,4.6,I'm impressed with the overall quality and safety of this Paw Patrol Chutes and Ladders.,2025-02-03
+39,30,14,4.6,The user experience with this Nintendo GoPro Hero 12 is exceptional.,2024-10-24
+40,86,110,3.5,This Instant Pot Plant Food is poorly made and doesn't work as expected.,2025-04-23
+41,59,50,4.2,I've been impressed with how durable this Disney Candy Land - Gray is. Still looks new.,2025-06-06
+42,55,30,2.6,The material of this Lululemon Underwear Pack is not comfortable against the skin.,2025-09-03
+43,93,22,3.7,This KitchenAid Under Bed Storage is disappointing. Poor quality and doesn't function properly.,2024-10-06
+44,70,83,3.3,Poor quality Eau de Parfum. Doesn't work and feels cheap.,2025-01-02
+45,50,102,2.8,The packaging of this Fenty Beauty Hair Dryer is poor and the product is ineffective.,2025-04-09
+46,61,4,4.9,The formula of this Body Butter is perfect for my sensitive skin.,2025-01-28
+47,35,72,3.0,The design of this Marvel Skateboard is flawed and unsafe.,2025-05-11
+48,14,45,4.8,I'm amazed by the performance and comfort of this Ski Jacket.,2025-07-08
+49,69,116,5.0,I'm delighted with this Star Wars Building Blocks - Purple. It's everything I hoped for.,2025-01-09
+50,46,74,3.2,This Lululemon Sports Bra - Navy is not suitable for the climate. Too hot/cold.,2025-07-16
+51,82,114,4.0,This Wayfair Soap Dispenser - Orange is well-constructed and durable. Great investment.,2024-10-23
+52,35,28,4.2,"I've tried many similar products, but this Bose Xbox Series X - Green is by far the best.",2025-05-22
+53,94,182,5.0,The build quality and materials used in this Philips Hue Starter Kit are excellent.,2025-06-03
+54,71,186,4.5,I've been using this Toner for weeks and my skin looks amazing.,2025-07-22
+55,98,85,4.0,This Razor - Gold is perfect for my skin concerns. Exactly what I needed.,2025-06-17
+56,42,65,4.0,The materials used in this VTech Trampoline - White are high-quality and child-safe.,2025-05-28
+57,53,165,3.3,This Bissell Vases is disappointing. Poor quality and doesn't function properly.,2025-08-24
+58,19,182,4.7,This Philips Hue Starter Kit is fantastic! Great value for money and excellent functionality.,2025-03-27
+59,45,98,4.5,Excellent Honeywell Bath Caddy! High quality and perfect for the intended use.,2024-10-10
+60,54,139,4.8,This Under Armour Cardigan - Silver (Extra Large) is well-constructed and built to last. Great investment.,2025-05-12
+61,64,144,3.8,I'm frustrated with this Mascara - White. It doesn't deliver on promises.,2025-05-22
+62,75,193,4.3,"This H&M Swimwear (Medium) is fantastic! Comfortable, stylish, and well-made.",2025-02-15
+63,41,95,4.6,Excellent Maybelline Face Mask! Great quality and I can see the difference already.,2025-03-20
+64,17,172,3.0,Poor quality Sony AirPods Pro - Green. Doesn't work as advertised and feels cheap.,2025-01-22
+65,11,171,5.0,The attention to detail in this iPad Air is remarkable. Very well made.,2024-09-11
+66,92,155,4.5,The design of this Google PlayStation 5 is both beautiful and functional.,2025-01-22
+67,3,81,2.9,This Foot Cream caused irritation and didn't work as advertised.,2025-01-01
+68,10,80,3.0,This Star Wars Barbie Set is terrible quality. Broke quickly and poor design.,2024-11-13
+69,24,1,4.2,Love this A-Line Dress - Navy (Extra Large)! Perfect fit and great quality material.,2024-11-26
+70,97,30,5.0,I'm so glad I purchased this Lululemon Underwear Pack. It's perfect for me.,2025-01-14
+71,56,123,3.9,The fabric of this Ralph Lauren Blouse - Red pills easily. Looks worn out quickly.,2025-06-28
+72,26,192,4.7,Love this New Balance Swim Fins! Perfect for my training and excellent durability.,2025-03-11
+73,69,165,3.8,This Bissell Vases doesn't fit properly in my space. Poor design.,2024-11-17
+74,24,151,4.1,This West Elm Vases is incredible! Beautiful design and excellent craftsmanship.,2024-11-30
+75,44,27,4.8,The design of this Air Fryer is beautiful and functional. Love it!,2024-10-27
+76,26,101,4.9,I love how this Nerf Electronic Keyboard encourages creativity and imagination.,2024-11-03
+77,71,80,3.4,I'm frustrated with this Star Wars Barbie Set. It doesn't work properly.,2024-10-03
+78,76,88,3.9,I've had nothing but problems with this Nintendo GoPro Hero 12. Very frustrating.,2024-12-27
+79,57,156,3.3,I'm not satisfied with this Nerf Jump Rope. It's not meeting my child's needs.,2025-07-28
+80,36,158,4.3,I'm completely satisfied with this Fenty Beauty Deodorant. It delivers on its promises.,2025-07-07
+81,17,88,4.2,The performance and reliability of this Nintendo GoPro Hero 12 is outstanding.,2024-10-13
+82,80,95,3.2,I'm not satisfied with this Maybelline Face Mask. It's not worth the money.,2025-03-20
+83,95,179,4.0,This Chanel Hair Dryer - Brown is incredible! Works better than expected and great quality.,2025-06-30
+84,18,130,4.8,This Amazon Basics Office Chair is fantastic! Great value and excellent quality.,2025-04-01
+85,96,71,4.2,I love the attention to detail in this Underwear Pack. Very thoughtful design.,2025-07-25
+86,66,112,3.2,This Honeywell Coffee Maker - Red is not suitable for daily use. Too fragile.,2025-06-17
+87,10,87,4.3,The materials and construction of this Yeti Yoga Mat are top-notch.,2025-08-13
+88,61,93,3.6,This OnePlus Bluetooth Speaker is disappointing. Doesn't work properly and feels cheap.,2025-03-27
+89,39,35,4.1,I'm impressed with the overall quality of this Sunglasses - Yellow (L).,2024-09-18
+90,14,94,2.7,I'm frustrated with this L'Oréal Conditioner. It's not working as advertised.,2025-05-19
+91,47,157,4.5,Love this Bissell Candles - Brown! Perfect for my needs and great quality.,2025-01-12
+92,10,159,4.7,I'm impressed with the overall quality of this KitchenAid Bookshelf - Red.,2025-08-10
+93,55,114,2.9,This Wayfair Soap Dispenser - Orange is not suitable for its intended purpose. Poor design.,2025-06-28
+94,92,170,4.2,This Nike Kettlebell - Pink is well-designed and practical. Great for athletes.,2025-05-02
+95,24,194,3.3,The sizing chart for this Yoga Pants (S) is inaccurate. Very misleading.,2024-10-24
+96,40,179,4.6,This Chanel Hair Dryer - Brown has helped with my skin issues. Very satisfied!,2025-04-23
+97,63,79,4.3,The quality of this Gap Classic T-Shirt - Blue is consistent throughout. Well made.,2025-01-28
+98,34,16,4.9,This North Face Yoga Mat is ideal for serious training. Professional-grade quality.,2024-11-02
+99,49,8,5.0,This Towel Set - Blue is worth every penny. Excellent value for money.,2024-11-06
+100,63,61,3.7,This ASICS Hydration Belt is not worth the price. Poor quality and doesn't work.,2024-11-13
+101,9,92,4.1,This Aftershave is perfect for sensitive skin. No adverse reactions.,2025-07-23
+102,47,40,5.0,Outstanding Bose QuietComfort 45! Works flawlessly and the design is sleek and modern.,2025-05-31
+103,93,185,2.4,I'm disappointed with the overall quality of this Crate & Barrel Toothbrush Holder.,2025-06-30
+104,45,85,3.0,This Razor - Gold is not gentle enough. Too harsh for sensitive skin.,2025-05-04
+105,36,178,4.8,I'm thrilled with this Dyson Mirrors. It's everything I hoped for and more.,2025-07-15
+106,9,27,3.2,This Air Fryer is terrible quality. Broke easily and poor design.,2025-08-20
+107,11,85,5.0,This Razor - Gold has improved my confidence. My skin looks great!,2024-11-07
+108,85,160,3.3,This H&M Hoodie (Extra Large) is not well-made. Construction is poor.,2025-06-11
+109,77,156,4.5,I'm completely satisfied with this Nerf Jump Rope. It's perfect for my child.,2025-02-20
+110,24,124,4.2,This Neutrogena Face Moisturizer - Orange is a game-changer for my skincare routine.,2024-09-20
+111,1,119,3.9,This Instant Pot Plants - Black is not practical. Doesn't work as expected.,2025-02-10
+112,99,29,4.3,This Nest Thermostat - Gray is a perfect blend of form and function.,2025-01-23
+113,99,177,4.2,This Target Picture Frames is easy to assemble and use. Great design.,2025-05-24
+114,61,164,4.4,"I love everything about this Bath Mat. Style, quality, and functionality.",2025-06-10
+115,85,125,5.0,This Cooler is perfect for my sport. Excellent value for money.,2024-12-05
+116,69,119,4.6,I've been recommending this Instant Pot Plants - Black to friends. It's that good!,2025-02-23
+117,21,24,4.9,The functionality of this KitchenAid Sofa - Orange is exactly what I was looking for.,2025-04-29
+118,4,85,3.8,I'm disappointed with the overall quality of this Razor - Gold.,2024-12-23
+119,97,128,2.9,The quality of this MAC Deodorant is poor. Doesn't work as expected.,2025-06-23
+120,100,167,3.3,This Tank Top (M) is not suitable for the climate. Too hot/cold.,2025-06-21
+121,58,178,5.0,This Dyson Mirrors is perfect for my needs. Comfortable and practical.,2025-07-05
+122,72,136,5.0,This Hair Serum is perfect for my skin type. No irritation at all.,2025-02-25
+123,93,82,3.1,I'm not satisfied with this Brooks Water Bottle Cage - Gray. It's not meeting my needs.,2024-12-03
+124,7,147,3.4,I'm frustrated with this Lenovo ThinkPad X1 - White. It doesn't work as intended.,2025-03-30
+125,1,166,3.8,This Levi's Boots - Navy is not durable. Shows wear and tear immediately.,2024-12-05
+126,69,172,4.0,Love this Sony AirPods Pro - Green! It exceeded my expectations and the price was reasonable.,2025-01-02
+127,77,26,5.0,I've been impressed with how durable this Musical Instrument is. Still looks new.,2025-07-15
+128,64,70,4.8,I've been recommending this Cologne - Brown to all my friends. It's that good!,2025-07-05
+129,90,177,3.1,This Target Picture Frames is not suitable for daily use. Too fragile.,2025-03-05
+130,76,26,3.0,The functionality of this Musical Instrument is limited and disappointing.,2025-08-21
+131,8,92,2.9,This Aftershave is not gentle enough. Caused skin sensitivity.,2025-07-25
+132,60,160,3.3,This H&M Hoodie (Extra Large) is terrible quality. Fell apart after one wash.,2024-11-18
+133,34,162,2.9,This Shark Bed Skirt - Blue is disappointing. Poor quality and doesn't function properly.,2025-01-24
+134,86,173,4.6,I've been wearing this Ralph Lauren Heels (Large) for weeks and it still looks brand new.,2025-05-25
+135,9,37,3.0,This Glossier Body Spray is not worth the price. Poor results and quality.,2025-04-13
+136,73,89,4.2,This Hasbro Magnetic Tiles is ideal for my child's interests. Highly functional.,2025-02-22
+137,45,95,2.9,Not impressed with this Maybelline Face Mask. It's ineffective and overpriced.,2025-03-02
+138,82,6,5.0,I'm impressed with the overall quality and performance of this New Balance Pool Noodle.,2025-06-29
+139,17,159,4.4,The durability of this KitchenAid Bookshelf - Red is impressive. Built to last.,2024-12-22
+140,7,65,4.7,This VTech Trampoline - White is exactly what my child needed. Perfect for their age.,2025-07-03
+141,51,104,3.7,I'm dissatisfied with this Scrabble. It's not worth the money.,2025-01-30
+142,98,137,4.6,This Uniqlo Workout Hoodie (XXL) is perfect for any occasion. Very versatile piece.,2025-03-18
+143,16,149,3.7,The design of this Philips Shoe Rack is flawed and impractical.,2025-03-27
+144,57,67,5.0,The packaging of this MAC Top Coat - Purple is practical and the product is great.,2025-02-13
+145,92,170,3.1,This Nike Kettlebell - Pink is not suitable for athletic use. Too fragile.,2024-11-05
+146,25,174,4.0,Great Logitech Bluetooth Speaker! Fast delivery and exactly as described. Highly recommend!,2025-07-18
+147,22,133,3.8,The quality control for this Patagonia Pool Noodle is lacking. Defects are visible.,2024-11-20
+148,55,37,2.9,This Glossier Body Spray is not gentle on skin. Caused dryness and irritation.,2025-07-12
+149,34,77,4.8,The build quality of this Wayfair Desk Lamp - Orange is impressive. Very sturdy.,2025-04-26
+150,15,29,3.2,This Nest Thermostat - Gray has too many issues. I wouldn't recommend it to anyone.,2024-10-27
+151,16,92,2.7,This Aftershave is not effective at all. Waste of money.,2025-08-09
+152,16,49,4.5,The packaging of this Tweezers is beautiful and the product works great.,2024-12-10
+153,38,153,2.8,This Boots (Small) is not durable. Shows wear and tear immediately.,2024-09-24
+154,86,138,4.5,Love this Floor Puzzle! My children love it and it's very durable.,2025-05-11
+155,93,98,4.8,"I love everything about this Honeywell Bath Caddy. Style, quality, and functionality.",2025-03-09
+156,32,15,3.1,This Bissell Scale is poorly designed. Difficult to use and assemble.,2025-08-09
+157,43,158,4.6,"I've tried many similar products, but this Fenty Beauty Deodorant is the best.",2025-01-26
+158,88,187,3.1,This Hat (S) is not comfortable to wear for extended periods.,2025-04-07
+159,50,55,3.7,I'm not satisfied with this ASICS Resistance Bands - Silver. It's not meeting my needs.,2025-09-01
+160,87,55,4.0,This ASICS Resistance Bands - Silver is ideal for my training goals. Highly functional.,2024-10-13
+161,57,197,3.0,The software for this Bose MacBook Air M2 is buggy and crashes frequently.,2025-06-07
+162,38,142,3.0,This IKEA Sheet Set - Orange is not functional. Doesn't serve its intended purpose.,2025-07-29
+163,23,111,4.9,Perfect Reebok Weight Bench! Excellent for sports and very well-made.,2025-03-23
+164,89,184,2.3,The design of this Cookware Set - Pink is flawed and impractical.,2025-07-31
+165,90,61,3.7,I'm not satisfied with this ASICS Hydration Belt. It's not meeting my needs.,2024-10-22
+166,36,5,4.2,I'm completely satisfied with this Estée Lauder Tweezers. It delivers on its promises.,2024-12-23
+167,50,6,4.4,I'm impressed with how well this New Balance Pool Noodle holds up during intense use.,2024-10-06
+168,98,141,5.0,This Adidas Running Shoes is exactly what I needed for my training. Perfect fit and function.,2025-06-27
+169,13,168,4.6,The packaging of this Neutrogena Bath Bombs is beautiful and the product works great.,2024-11-05
+170,97,187,4.2,This Hat (S) is outstanding! Excellent quality and perfect fit.,2024-12-18
+171,4,13,3.9,The fit of this Crop Top (L) is inconsistent. Some parts too tight.,2025-02-25
+172,36,46,3.7,This Beats Studio3 is not worth the hassle. Too many problems.,2025-08-21
+173,63,97,3.7,This Trousers - Black (S) is not worth the investment. Poor value for money.,2025-03-22
+174,84,128,3.8,Poor quality MAC Deodorant. Doesn't work and feels cheap.,2024-10-31
+175,93,151,4.3,I've been recommending this West Elm Vases to friends. It's that good!,2025-07-23
+176,79,149,3.6,The construction of this Philips Shoe Rack is weak and unreliable.,2025-02-20
+177,54,72,4.6,I'm delighted with this Marvel Skateboard. It's everything I hoped for.,2024-10-09
+178,79,34,4.2,I'm thrilled with this Coleman Yoga Blocks - White. It's exceeded my expectations.,2025-08-23
+179,77,53,3.1,I'm not satisfied with this LEGO Transformers - Yellow. It's poorly made.,2024-11-29
+180,60,31,4.0,I'm so glad I purchased this Wayfair Table Lamp - Black. It's perfect for my home.,2025-07-18
+181,14,84,4.0,I'm thrilled with this Spalding Pool Noodle - White. It's perfect for my fitness goals.,2025-02-26
+182,60,194,3.8,This Yoga Pants (S) is not as described. The color is different and it's poorly made.,2025-08-13
+183,60,88,4.3,Outstanding quality and performance. This Nintendo GoPro Hero 12 is built to last.,2025-01-17
+184,22,127,2.7,This Clinique Conditioner - Navy is not suitable for my routine. Doesn't work well.,2025-08-31
+185,65,75,3.7,This New Balance Baseball Glove is not durable enough for sports use. Breaks easily.,2024-09-14
+186,65,196,3.9,This Hasbro Electronic Keyboard is disappointing. Poor quality and not safe for children.,2025-02-12
+187,31,154,3.6,The sizing chart for this Patagonia Sandals - Navy (S) is inaccurate. Very misleading.,2024-09-24
+188,97,142,4.2,I've been recommending this IKEA Sheet Set - Orange to friends. It's that good!,2025-02-04
+189,65,84,3.7,This Spalding Pool Noodle - White is not suitable for my training needs. Wrong design.,2025-03-17
+190,88,100,3.7,This Nerf Educational Puzzle - Gold is not functional for its intended purpose. Poor design.,2025-01-27
+191,22,153,3.9,This Boots (Small) is not comfortable to wear for extended periods.,2024-12-04
+192,87,103,3.3,This Dell Razer Blade 15 - Purple is not suitable for professional use. Too unreliable.,2025-01-31
+193,66,74,3.0,The material of this Lululemon Sports Bra - Navy is scratchy and uncomfortable to wear.,2024-10-05
+194,86,192,5.0,The functionality of this New Balance Swim Fins is exactly what I was looking for.,2025-01-27
+195,73,69,3.6,This H&M Polo Shirt - Brown is a waste of money. Doesn't look like the picture at all.,2024-11-30
+196,4,68,3.9,This New Balance Swim Cap is not worth the price. Poor quality and performance.,2024-09-14
+197,89,113,4.9,I'm delighted with this Dyson Toothbrush Holder. It's exactly what I needed.,2025-01-05
+198,79,148,4.2,This Nerf Brain Teaser is perfect for my child's development. Educational and fun.,2025-08-31
+199,88,126,3.4,I'm disappointed with this MAC Body Butter. It made my skin worse.,2024-10-12
+200,7,43,2.5,The functionality of this Dell Philips Hue Starter Kit - Gray is limited and disappointing.,2025-07-26
+201,72,133,2.8,The design of this Patagonia Pool Noodle is impractical for sports use.,2025-06-08
+202,27,93,3.2,The build quality of this OnePlus Bluetooth Speaker is substandard.,2025-05-14
+203,91,110,3.6,This Instant Pot Plant Food is disappointing. Poor quality and doesn't function properly.,2025-01-12
+204,45,160,4.5,Excellent H&M Hoodie (Extra Large)! Great quality and true to size. Will buy again.,2025-07-08
+205,99,86,3.3,I'm frustrated with this Barbie Action Figure Set. It doesn't work properly.,2024-10-30
+206,61,45,3.3,The quality control for this Ski Jacket is lacking. Defects are visible.,2024-10-27
+207,94,171,4.9,I can't believe how well this iPad Air works. It's simply fantastic!,2024-09-18
+208,39,108,5.0,This Wayfair String Lights is perfect for my home decor. Matches perfectly.,2024-12-24
+209,93,71,4.4,Excellent quality and craftsmanship. This Underwear Pack is well worth the price.,2025-08-26
+210,5,150,3.9,This Nintendo Lenovo ThinkPad X1 - Brown is not recommended. Too many issues to ignore.,2025-07-23
+211,82,41,3.9,This Patagonia Sandals is not breathable at all. Makes me sweat uncomfortably.,2025-03-06
+212,79,58,3.2,The construction of this Fisher-Price Doll House - Gold is weak and unreliable.,2025-06-01
+213,90,187,4.8,This Hat (S) fits perfectly and looks great on me. Very satisfied!,2025-07-23
+214,55,28,4.0,This Bose Xbox Series X - Green works exactly as advertised. No false promises here.,2024-10-27
+215,2,55,3.2,Not impressed with this ASICS Resistance Bands - Silver. Poor quality and doesn't meet expectations.,2025-06-25
+216,95,51,3.5,I'm frustrated with this Hot Wheels Checkers - Green. It's not working as advertised.,2025-06-05
+217,25,36,4.8,The functionality of this Swim Cap is exactly what I was looking for.,2025-03-05
+218,89,196,3.3,This Hasbro Electronic Keyboard is not suitable for my child's needs. Wrong design.,2025-02-25
+219,32,171,3.5,This iPad Air doesn't live up to its promises. Very misleading.,2025-04-30
+220,58,6,5.0,Love this New Balance Pool Noodle! Excellent for training and well-made.,2024-09-06
+221,22,51,3.3,This Hot Wheels Checkers - Green is not suitable for kids. Poor quality materials.,2025-08-21
+222,52,122,4.2,This Logitech Canon EOS R5 - Brown is a game-changer! It has made my life so much easier.,2024-10-04
+223,74,53,3.7,The materials of this LEGO Transformers - Yellow are not suitable for children.,2024-09-11
+224,61,139,5.0,This Under Armour Cardigan - Silver (Extra Large) has exceeded my expectations. Beautiful and functional.,2024-12-12
+225,100,178,5.0,The attention to detail in this Dyson Mirrors is remarkable. Very thoughtful.,2024-11-26
+226,76,145,4.2,I'm completely satisfied with this Cuticle Oil - Blue. It delivers on its promises.,2025-07-25
+227,21,46,3.3,This Beats Studio3 stopped working after just a few days. Very disappointed.,2024-11-01
+228,62,82,3.3,This Brooks Water Bottle Cage - Gray is not worth the price. Poor quality and doesn't work.,2025-04-05
+229,15,174,5.0,Excellent Logitech Bluetooth Speaker. The build quality is solid and it's very user-friendly.,2025-09-04
+230,11,77,2.9,I'm not satisfied with this Wayfair Desk Lamp - Orange. It's not meeting my needs.,2025-06-13
+231,46,41,4.4,This Patagonia Sandals is perfect for any occasion. Very versatile piece.,2025-04-28
+232,71,51,4.4,This Hot Wheels Checkers - Green is well-designed and practical. Great for kids.,2025-03-27
+233,88,11,5.0,This Hockey Stick is outstanding! Great quality and exactly what I needed.,2025-02-15
+234,30,51,2.8,This Hot Wheels Checkers - Green is not safe for children. Too many sharp edges.,2024-10-17
+235,14,27,4.4,The quality of this Air Fryer is exceptional. Built to last.,2025-07-02
+236,40,49,4.4,I'm completely satisfied with this Tweezers. It delivers on its promises.,2024-12-24
+237,70,16,4.4,This North Face Yoga Mat is perfect for my sport. Excellent value for money.,2024-12-05
+238,50,50,4.2,I'm delighted with this Disney Candy Land - Gray. It's everything I hoped for.,2024-12-29
+239,46,143,5.0,The packaging of this Neutrogena Base Coat is beautiful and the product works great.,2024-10-21
+240,72,182,4.0,This Philips Hue Starter Kit has exceeded all my expectations. Worth every penny!,2024-09-22
+241,36,14,3.5,This Nintendo GoPro Hero 12 is overpriced for what you get. Would not recommend.,2024-12-05
+242,56,26,2.8,I'm frustrated with this Musical Instrument. It's not working as advertised.,2025-02-14
+243,12,40,3.9,The design of this Bose QuietComfort 45 is flawed and impractical.,2025-05-10
+244,69,18,3.6,This The Ordinary Sunscreen - Silver doesn't absorb well. Leaves a greasy residue.,2025-07-09
+245,77,154,4.7,I'm impressed with the overall quality of this Patagonia Sandals - Navy (S).,2025-05-03
+246,19,110,2.9,The design of this Instant Pot Plant Food is flawed and impractical.,2025-02-28
+247,22,146,5.0,I'm amazed by the quality and functionality of this Nintendo Wireless Charger - Purple.,2024-09-28
+248,12,1,4.0,I love the attention to detail in this A-Line Dress - Navy (Extra Large). Very thoughtful design.,2024-10-17
+249,32,16,4.8,The craftsmanship of this North Face Yoga Mat is impressive. Very well made.,2025-07-25
+250,38,101,4.8,I'm impressed with how well this Nerf Electronic Keyboard holds up during play.,2025-08-21
+251,61,149,3.2,This Philips Shoe Rack is not suitable for its intended purpose. Poor design.,2025-03-17
+252,38,200,3.9,I'm frustrated with this Too Faced Exfoliant - Black. It's not working as advertised.,2025-04-23
+253,81,194,5.0,This Yoga Pants (S) has exceeded my expectations. Beautiful and functional.,2025-03-31
+254,90,119,4.6,I'm impressed with the craftsmanship of this Instant Pot Plants - Black. Very well made.,2024-09-10
+255,80,131,4.2,This Yoga Pants (One Size) is comfortable all day long. Great for daily wear.,2025-05-07
+256,12,8,4.4,The quality of this Towel Set - Blue is consistent throughout. Excellent workmanship.,2025-03-23
+257,46,99,3.5,This LEGO Floor Puzzle - Blue is not suitable for kids. Poor quality and unsafe.,2025-04-15
+258,80,18,2.7,This The Ordinary Sunscreen - Silver is not suitable for my skin concerns. Wrong formula.,2024-12-06
+259,69,90,5.0,The quality of this Crate & Barrel Pillow Cases is consistent throughout. Excellent workmanship.,2025-06-10
+260,72,25,3.5,The materials of this Paw Patrol Chutes and Ladders are not suitable for children.,2024-10-29
+261,71,200,3.1,The texture of this Too Faced Exfoliant - Black is unpleasant. Hard to work with.,2024-12-26
+262,91,18,5.0,The formula of this The Ordinary Sunscreen - Silver is well-balanced and effective.,2025-02-17
+263,26,24,4.2,I'm impressed with the overall quality of this KitchenAid Sofa - Orange.,2024-09-04
+264,77,69,2.4,The quality control for this H&M Polo Shirt - Brown is lacking. Defects are visible.,2025-04-30
+265,99,154,3.0,This Patagonia Sandals - Navy (S) is not worth the price. Quality is substandard.,2025-01-19
+266,46,74,4.1,This Lululemon Sports Bra - Navy is perfect for any occasion. Very versatile piece.,2024-12-06
+267,17,11,3.5,This Hockey Stick is not well-constructed. Poor quality control.,2025-04-13
+268,7,4,4.3,I've been recommending this Body Butter to all my friends. It's that good!,2025-02-12
+269,73,10,3.8,The formula of this Maybelline Eau de Parfum - Navy is not effective. No improvement seen.,2024-11-15
+270,74,101,3.7,This Nerf Electronic Keyboard is not worth the price. Poor quality and safety.,2025-05-20
+271,64,12,4.3,"I love everything about this Uniqlo Button-Down Shirt (Large). Style, fit, and quality.",2025-05-21
+272,42,74,2.9,The sizing of this Lululemon Sports Bra - Navy is completely wrong. Way too small.,2024-10-07
+273,53,140,2.9,This Beats Studio3 is not durable. Shows wear and tear quickly.,2025-03-26
+274,14,133,4.6,The performance of this Patagonia Pool Noodle is outstanding. Highly recommend!,2025-01-22
+275,37,91,4.1,I'm impressed with how well this New Balance Ski Gloves holds up during intense use.,2024-09-30
+276,13,5,5.0,This Estée Lauder Tweezers is incredible! Works better than expected and great quality.,2025-03-27
+277,72,23,3.1,This Fisher-Price Checkers - Yellow is disappointing. Poor quality and not safe for children.,2025-04-03
+278,52,184,4.1,The quality of this Cookware Set - Pink is consistent throughout. Excellent workmanship.,2025-03-20
+279,74,46,3.2,Not impressed with this Beats Studio3. It's slow and the interface is confusing.,2025-07-06
+280,33,130,4.0,This Amazon Basics Office Chair is well-designed and practical. Great addition to my home.,2025-03-20
+281,20,126,5.0,Excellent MAC Body Butter! Great quality and I can see the difference already.,2025-04-07
+282,68,94,4.6,I'm completely satisfied with this L'Oréal Conditioner. It delivers on its promises.,2024-09-11
+283,1,74,3.5,This Lululemon Sports Bra - Navy is not suitable for my needs. Poor functionality.,2025-02-02
+284,83,1,4.1,"Great A-Line Dress - Navy (Extra Large)! Soft, comfortable, and exactly as described.",2025-08-09
+285,88,141,3.8,I'm frustrated with this Adidas Running Shoes. It's not working as advertised.,2025-03-05
+286,61,188,3.3,The material of this Under Armour Boxers is not comfortable against the skin.,2024-09-20
+287,54,36,3.5,This Swim Cap is poorly made and doesn't hold up during use.,2025-05-08
+288,75,62,3.4,I'm extremely disappointed with this Sony iPad Air. It's not what I expected.,2025-02-01
+289,86,63,4.8,This Calvin Klein Tank Top - Beige (XXL) is exactly what I was looking for. Comfortable and stylish.,2025-01-26
+290,37,67,3.8,The quality of this MAC Top Coat - Purple is substandard. Not recommended.,2024-12-11
+291,67,108,3.8,This Wayfair String Lights is not suitable for my home. Poor quality and design.,2025-06-21
+292,81,16,3.6,I'm dissatisfied with this North Face Yoga Mat. It's not worth the money.,2024-09-10
+293,40,168,5.0,This Neutrogena Bath Bombs is perfect for my skin concerns. Exactly what I needed.,2025-01-20
+294,20,48,2.9,This Uniqlo Cargo Pants - Brown (XS) is not suitable for the climate. Too hot/cold.,2025-07-07
+295,35,111,3.5,This Reebok Weight Bench is not suitable for serious athletes. Poor quality and design.,2024-09-30
+296,40,174,4.0,Love this Logitech Bluetooth Speaker! It exceeded my expectations and the price was reasonable.,2025-01-15
+297,79,5,3.9,Terrible Estée Lauder Tweezers. Ineffective and caused skin problems.,2024-12-06
+298,75,153,4.6,This Boots (Small) fits perfectly and looks great on me. Very satisfied!,2025-06-15
+299,13,38,5.0,This Champion Tank Top (Small) is comfortable all day long. Great for daily wear.,2025-05-17
+300,90,182,2.6,This Philips Hue Starter Kit has compatibility issues. Doesn't work with other devices.,2025-05-05
+301,23,81,3.1,This Foot Cream is disappointing. Doesn't work and poor quality.,2024-10-14
+302,13,82,4.0,This Brooks Water Bottle Cage - Gray is ideal for serious training. Professional-grade quality.,2025-06-30
+303,48,173,4.3,I love how this Ralph Lauren Heels (Large) feels against my skin. Very comfortable.,2025-04-17
+304,50,113,3.1,I'm frustrated with this Dyson Toothbrush Holder. It doesn't work properly.,2025-06-16
+305,80,167,4.2,The fit and finish of this Tank Top (M) are impeccable.,2025-06-24
+306,78,156,3.4,I'm disappointed with the overall quality of this Nerf Jump Rope.,2025-01-11
+307,52,53,4.4,This LEGO Transformers - Yellow is ideal for my child's interests. Highly functional.,2024-10-25
+308,98,54,4.0,The quality of this Scrabble is consistent throughout. Excellent workmanship.,2024-09-21
+309,93,96,4.3,This Bissell Coffee Table is perfect for my home! Great quality and exactly what I needed.,2025-01-18
+310,92,20,4.4,The packaging of this Deodorant - Red is beautiful and the product works great.,2025-04-04
+311,27,55,4.5,This ASICS Resistance Bands - Silver is incredible! Great performance and high quality.,2025-01-13
+312,38,193,2.8,Poor quality H&M Swimwear (Medium). The material feels cheap and it's uncomfortable.,2025-07-16
+313,77,22,4.2,This KitchenAid Under Bed Storage is perfect for my space. Fits beautifully.,2025-05-11
+314,67,51,4.8,The materials used in this Hot Wheels Checkers - Green are high-quality and child-safe.,2024-11-10
+315,69,200,4.3,I'm impressed with how quickly this Too Faced Exfoliant - Black shows results.,2025-07-23
+316,59,140,3.4,This Beats Studio3 is poorly manufactured. Quality control is lacking.,2025-07-03
+317,80,187,4.0,This Hat (S) is well-constructed and built to last. Great investment.,2025-05-27
+318,31,54,3.9,This Scrabble is not suitable for children's play. Too delicate.,2025-03-03
+319,86,53,3.9,Not happy with this LEGO Transformers - Yellow. Poor quality and doesn't work properly.,2025-06-01
+320,3,88,3.8,This Nintendo GoPro Hero 12 has connectivity issues. Doesn't stay connected.,2025-03-08
+321,69,38,3.8,The quality control for this Champion Tank Top (Small) is lacking. Defects are visible.,2025-05-07
+322,67,103,4.5,I'm thoroughly impressed with this Dell Razer Blade 15 - Purple. It's exactly what I was looking for.,2024-11-13
+323,79,92,2.7,The packaging of this Aftershave is poor and the product is ineffective.,2025-07-16
+324,98,140,3.6,This Beats Studio3 is disappointing. Doesn't work properly and feels cheap.,2024-10-26
+325,15,95,3.4,I'm unhappy with this Maybelline Face Mask. It's not effective at all.,2024-09-28
+326,27,92,4.6,This Aftershave is incredible! Works better than expected and great quality.,2025-06-09
+327,77,86,3.7,This Barbie Action Figure Set is not functional for children. Doesn't work as intended.,2025-07-02
+328,98,7,3.6,I'm not satisfied with this Fisher-Price Barbie Set. It's poorly made.,2025-02-28
+329,18,68,3.7,I'm disappointed with the overall quality of this New Balance Swim Cap.,2024-09-18
+330,10,157,3.6,Very disappointed with this Bissell Candles - Brown. It's flimsy and overpriced.,2024-12-26
+331,32,127,5.0,I've been using this Clinique Conditioner - Navy for months and still love it.,2024-11-21
+332,68,125,3.9,This Cooler is poorly designed. Uncomfortable and ineffective.,2024-09-21
+333,66,120,4.7,This Gel Polish - Blue is perfect for my morning routine. Quick and effective.,2025-07-08
+334,30,45,3.7,I'm not impressed with this Ski Jacket. It's overpriced and poorly made.,2024-11-20
+335,52,138,5.0,The design of this Floor Puzzle is both engaging and safe for kids.,2025-08-14
+336,95,106,4.9,The build quality of this Nike Foam Roller - Black is excellent. Very sturdy.,2024-09-20
+337,57,132,4.0,Perfect Face Mask - Yellow! Easy to apply and gives great results.,2025-01-04
+338,46,24,4.5,This KitchenAid Sofa - Orange is incredible! Beautiful design and excellent craftsmanship.,2025-09-01
+339,3,85,4.2,Love this Razor - Gold! Perfect for my skin type and easy to use.,2025-01-02
+340,63,82,4.0,Love this Brooks Water Bottle Cage - Gray! Perfect for my training and excellent durability.,2025-03-23
+341,44,154,3.8,The material of this Patagonia Sandals - Navy (S) is not suitable for sensitive skin.,2025-02-05
+342,69,184,4.0,This Cookware Set - Pink is worth every penny. Excellent value for money.,2025-07-17
+343,98,72,4.0,The performance of this Marvel Skateboard is consistent and reliable.,2025-04-02
+344,78,23,3.4,This Fisher-Price Checkers - Yellow broke easily and is not safe for children.,2025-03-06
+345,55,9,4.3,The material of this Calvin Klein Cocktail Dress (One Size) is top-notch. Feels luxurious to wear.,2024-12-11
+346,58,25,3.1,I'm disappointed with this Paw Patrol Chutes and Ladders. It's not worth the money.,2024-09-18
+347,62,32,4.2,I'm so happy with this Hot Wheels Collectible Figure - Pink! My child plays with it every day.,2025-06-23
+348,7,135,3.3,This Glossier Face Wash - Silver is too harsh for daily use. Caused irritation.,2025-05-13
+349,79,97,5.0,This Trousers - Black (S) is perfect for any occasion. Very versatile piece.,2024-11-17
+350,19,187,4.6,I'm delighted with this Hat (S). It's everything I hoped for.,2024-12-24
+351,19,187,4.2,Amazing Hat (S)! Soft fabric and perfect fit. Highly recommend!,2025-01-20
+352,81,62,4.5,I love the sleek design and powerful performance of this Sony iPad Air.,2025-08-04
+353,48,145,4.5,I'm thrilled with the results from this Cuticle Oil - Blue. Highly effective.,2025-07-04
+354,77,163,4.5,This Cuticle Oil - Gold is perfect for sensitive skin. No adverse reactions.,2024-09-22
+355,57,86,2.7,This Barbie Action Figure Set is not functional for children. Doesn't work as intended.,2025-08-06
+356,21,58,3.6,This Fisher-Price Doll House - Gold is not suitable for kids' play. Poor design.,2025-05-16
+357,1,29,3.5,I'm frustrated with this Nest Thermostat - Gray. It's not working as advertised.,2025-01-10
+358,82,191,3.4,Poor quality Nike Hoodie. The material feels cheap and it's uncomfortable.,2024-12-19
+359,24,56,5.0,This Water Bottle - Yellow has made my workouts more effective and enjoyable.,2024-10-22
+360,30,117,4.0,I love how this Glossier Body Spray feels on my skin. Smooth and non-greasy.,2025-07-11
+361,62,115,4.8,Love this KitchenAid Throw Pillows - Navy! Perfect for my needs and great quality.,2025-01-24
+362,71,63,3.9,This Calvin Klein Tank Top - Beige (XXL) is not suitable for the intended use. Poor design.,2025-02-20
+363,27,47,3.4,This Towel Set is not worth the investment. Poor value for money.,2025-08-15
+364,52,74,4.0,The fit and finish of this Lululemon Sports Bra - Navy are impeccable.,2025-02-06
+365,27,15,3.7,I'm unhappy with this Bissell Scale. It's not meeting my expectations.,2025-06-19
+366,67,120,5.0,The effectiveness of this Gel Polish - Blue is remarkable. Highly recommend!,2025-02-21
+367,80,57,2.7,This Sony HP Spectre x360 - Green has connectivity issues. Doesn't stay connected.,2025-08-17
+368,4,135,4.7,This Glossier Face Wash - Silver is perfect for my morning routine. Quick and effective.,2025-02-01
+369,45,102,4.1,This Fenty Beauty Hair Dryer has exceeded my expectations. Excellent quality.,2025-01-13
+370,57,18,3.9,This The Ordinary Sunscreen - Silver is not worth the investment. Poor value for money.,2024-11-15
+371,1,82,3.9,This Brooks Water Bottle Cage - Gray is not suitable for my athletic needs. Wrong specifications.,2025-03-15
+372,97,6,4.3,I love how this New Balance Pool Noodle performs during intense workouts. Reliable and effective.,2025-05-30
+373,44,43,3.9,The performance of this Dell Philips Hue Starter Kit - Gray is inconsistent and unreliable.,2025-03-16
+374,90,185,4.8,I'm impressed with the overall quality of this Crate & Barrel Toothbrush Holder.,2025-01-24
+375,67,41,2.6,Very disappointed with this Patagonia Sandals. It's uncomfortable and overpriced.,2025-08-28
+376,4,76,3.6,This Pendant Light is not suitable for my home. Poor quality and design.,2025-07-10
+377,33,51,3.3,The materials used in this Hot Wheels Checkers - Green are cheap and unsafe.,2025-03-24
+378,50,61,2.8,This ASICS Hydration Belt is not durable enough for sports use. Breaks easily.,2024-12-16
+379,5,94,4.2,The effectiveness of this L'Oréal Conditioner is remarkable. Highly recommend!,2025-07-12
+380,93,19,5.0,Amazing Columbia Ski Socks! Perfect for my fitness routine and very durable.,2024-10-06
+381,52,121,4.3,I'm thoroughly impressed with this Xiaomi JBL Live Pro 2. It's exactly what I was looking for.,2025-06-13
+382,11,21,3.7,This Sofa is not suitable for its intended purpose. Poor design.,2025-02-15
+383,3,80,4.6,The build quality of this Star Wars Barbie Set is excellent. Very sturdy.,2024-10-04
+384,18,163,4.4,This Cuticle Oil - Gold is outstanding! High quality and very effective.,2025-02-18
+385,30,71,3.3,This Underwear Pack is not worth the price. Quality is substandard.,2025-04-25
+386,81,54,3.5,This Scrabble is not well-made. Construction is poor and weak.,2025-07-20
+387,46,106,5.0,The durability of this Nike Foam Roller - Black is impressive. Built to withstand heavy use.,2024-11-13
+388,94,83,5.0,I love how this Eau de Parfum makes my skin feel. Soft and smooth.,2025-04-03
+389,94,26,4.3,The performance of this Musical Instrument is outstanding. Highly recommend!,2024-12-27
+390,97,169,4.7,This IKEA Picture Frames - Navy has improved my daily routine. Very functional.,2025-01-06
+391,17,140,4.9,This Beats Studio3 has made my work so much more efficient.,2024-10-13
+392,39,5,5.0,This Estée Lauder Tweezers is perfect for my morning routine. Quick and effective.,2024-10-05
+393,80,26,4.7,This Musical Instrument is fantastic! Well-made and kids absolutely love it.,2025-01-09
+394,33,133,3.4,This Patagonia Pool Noodle is poorly designed. Uncomfortable and ineffective.,2025-05-18
+395,66,166,4.2,I'm thrilled with this Levi's Boots - Navy. It's comfortable and stylish.,2024-12-27
+396,66,82,4.7,The functionality of this Brooks Water Bottle Cage - Gray is exactly what I was looking for.,2025-01-01
+397,88,6,4.2,I'm so impressed with this New Balance Pool Noodle! It's built for serious athletes.,2025-02-24
+398,5,1,3.9,The fabric of this A-Line Dress - Navy (Extra Large) pills easily. Looks worn out quickly.,2025-04-26
+399,36,75,3.6,The functionality of this New Balance Baseball Glove is limited and disappointing.,2025-06-09
+400,3,126,2.8,Poor quality MAC Body Butter. Doesn't work and feels cheap.,2025-02-16
+401,32,80,3.5,This Star Wars Barbie Set is not functional for children. Doesn't work as intended.,2024-11-07
+402,14,90,3.0,The materials of this Crate & Barrel Pillow Cases are not suitable for home use.,2025-05-29
+403,38,167,4.2,This Tank Top (M) is outstanding! Excellent quality and perfect fit.,2025-02-23
+404,5,49,3.6,This Tweezers is disappointing. Doesn't work and poor quality.,2025-01-18
+405,46,82,4.0,I'm thrilled with this Brooks Water Bottle Cage - Gray. It's perfect for my fitness goals.,2025-02-24
+406,90,37,4.2,The formula of this Glossier Body Spray is perfect for my sensitive skin.,2024-09-20
+407,56,90,4.2,This Crate & Barrel Pillow Cases is fantastic! Great value and excellent quality.,2025-06-13
+408,81,1,3.6,Not happy with this A-Line Dress - Navy (Extra Large). Poor fit and cheap material.,2025-08-07
+409,60,37,3.7,This Glossier Body Spray is not gentle on skin. Caused dryness and irritation.,2025-08-24
+410,83,19,4.1,The performance of this Columbia Ski Socks is consistent and reliable.,2025-01-18
+411,75,165,4.1,I'm thrilled with this Bissell Vases. It's everything I hoped for and more.,2025-04-30
+412,7,114,4.7,This Wayfair Soap Dispenser - Orange has made my home more comfortable and stylish.,2025-02-19
+413,13,56,4.1,The quality of this Water Bottle - Yellow is exceptional. Worth every penny.,2024-12-19
+414,25,67,3.1,This MAC Top Coat - Purple is not worth the price. Poor results and quality.,2025-05-10
+415,12,35,3.6,This Sunglasses - Yellow (L) is not breathable at all. Makes me sweat uncomfortably.,2025-07-08
+416,31,84,3.4,Not impressed with this Spalding Pool Noodle - White. Poor quality and doesn't meet expectations.,2024-09-26
+417,92,26,3.7,This Musical Instrument is poorly designed. Uncomfortable and unsafe for children.,2024-10-03
+418,15,174,4.4,I'm amazed by the quality and functionality of this Logitech Bluetooth Speaker.,2025-05-22
+419,97,163,4.5,I've been using this Cuticle Oil - Gold for months and still love it.,2025-05-09
+420,11,22,4.2,This KitchenAid Under Bed Storage has exceeded my expectations. Quality is outstanding.,2025-02-08
+421,32,142,2.9,I'm frustrated with this IKEA Sheet Set - Orange. It doesn't work properly.,2025-01-23
+422,80,157,3.5,This Bissell Candles - Brown is a waste of money. Poor quality and doesn't work.,2025-03-22
+423,9,186,3.7,This Toner is not gentle on skin. Caused dryness and irritation.,2025-07-12
+424,52,159,4.5,This KitchenAid Bookshelf - Red is incredible! Beautiful design and excellent craftsmanship.,2025-06-22
+425,41,17,2.8,This ASICS Hiking Boots is not suitable for athletic use. Too fragile.,2025-05-25
+426,12,151,3.1,The functionality of this West Elm Vases is limited and disappointing.,2024-11-05
+427,83,59,4.4,This Nike Summer Dress (Small) is versatile and can be dressed up or down easily.,2024-09-16
+428,78,164,4.3,This Bath Mat is perfect for my home decor. Matches perfectly.,2024-10-29
+429,12,89,5.0,Perfect Hasbro Magnetic Tiles! Excellent for play and very well-made.,2025-07-30
+430,64,59,5.0,The sizing of this Nike Summer Dress (Small) is accurate. Fits exactly as expected.,2025-04-27
+431,88,80,3.3,Very disappointed with this Star Wars Barbie Set. It's flimsy and overpriced.,2025-05-25
+432,73,130,3.0,Poor quality Amazon Basics Office Chair. Cheap materials and poor construction.,2025-07-04
+433,85,90,3.3,I'm disappointed with this Crate & Barrel Pillow Cases. It's not worth the money.,2025-02-21
+434,12,122,5.0,This Logitech Canon EOS R5 - Brown delivers on every promise. Highly satisfied with my purchase.,2024-09-17
+435,37,12,3.5,This Uniqlo Button-Down Shirt (Large) is not breathable at all. Makes me sweat uncomfortably.,2024-10-23
+436,5,10,5.0,This Maybelline Eau de Parfum - Navy is a game-changer for my skincare routine.,2024-09-30
+437,9,120,5.0,I'm completely satisfied with this Gel Polish - Blue. It delivers on its promises.,2024-12-04
+438,57,2,2.4,This Lululemon Denim Jacket is overpriced for the quality. Not worth the money.,2025-07-03
+439,20,16,4.2,The durability of this North Face Yoga Mat is outstanding. Built to last.,2025-05-12
+440,70,164,4.1,I'm so glad I purchased this Bath Mat. It's perfect for my home.,2025-01-24
+441,13,106,4.8,This Nike Foam Roller - Black is fantastic! Well-made and perfect for sports activities.,2025-01-22
+442,80,123,5.0,I've received so many compliments while wearing this Ralph Lauren Blouse - Red.,2025-01-30
+443,84,177,4.8,This Target Picture Frames has exceeded my expectations. Quality is outstanding.,2025-04-12
+444,5,36,4.2,I'm thrilled with this Swim Cap. It's perfect for my fitness goals.,2024-09-16
+445,43,134,4.6,This MAC Setting Powder - Red is perfect for my skin type. No irritation at all.,2025-04-26
+446,81,105,2.0,The fabric of this Under Armour Blouse (Large) pills easily. Looks worn out quickly.,2024-11-02
+447,54,101,2.9,Poor quality Nerf Electronic Keyboard. Cheap materials and doesn't work properly.,2025-05-25
+448,62,95,3.5,This Maybelline Face Mask is not effective for my skin concerns. Disappointing.,2025-02-25
+449,10,105,4.2,The fit of this Under Armour Blouse (Large) is perfect. True to size and flattering.,2025-01-26
+450,30,130,3.0,The materials used in this Amazon Basics Office Chair are cheap and flimsy.,2025-01-26
+451,7,156,4.3,I've been recommending this Nerf Jump Rope to other parents. It's that good!,2025-02-23
+452,57,135,4.9,This Glossier Face Wash - Silver is incredible! Works better than expected and great quality.,2025-06-27
+453,11,21,2.3,This Sofa is not suitable for my needs. Wrong size/design.,2024-10-03
+454,72,190,5.0,This Under Bed Storage is outstanding! Well-designed and very functional.,2025-04-14
+455,51,108,3.2,The design of this Wayfair String Lights is flawed and impractical.,2024-10-27
+456,64,169,4.5,The materials of this IKEA Picture Frames - Navy are premium quality. Feels luxurious.,2025-03-28
+457,31,43,3.2,This Dell Philips Hue Starter Kit - Gray is disappointing. Doesn't work properly and feels cheap.,2025-01-24
+458,1,77,4.1,I've been using this Wayfair Desk Lamp - Orange for months and it's still like new.,2025-02-05
+459,89,136,2.4,Terrible Hair Serum. Ineffective and caused skin problems.,2025-01-04
+460,58,117,4.9,Amazing Glossier Body Spray! Great value and it really works. Highly recommend!,2025-05-14
+461,92,142,2.9,The assembly of this IKEA Sheet Set - Orange was difficult and instructions were poor.,2024-12-21
+462,87,77,4.3,This Wayfair Desk Lamp - Orange is well-constructed and durable. Great investment.,2024-12-09
+463,51,11,4.8,This Hockey Stick is incredible! Great performance and high quality.,2024-10-18
+464,93,10,3.6,This Maybelline Eau de Parfum - Navy is not suitable for my routine. Doesn't work well.,2024-09-14
+465,22,157,3.4,This Bissell Candles - Brown is terrible quality. Broke easily and poor design.,2025-06-16
+466,74,55,2.6,Terrible ASICS Resistance Bands - Silver. Cheap materials and poor performance.,2024-11-15
+467,46,2,4.1,"I love everything about this Lululemon Denim Jacket. Style, fit, and quality.",2025-03-16
+468,17,1,4.1,This A-Line Dress - Navy (Extra Large) is exactly what I was looking for. Comfortable and stylish.,2025-03-24
+469,13,47,3.3,This Towel Set is not durable enough for home use. Breaks easily.,2025-02-01
+470,80,91,4.0,This New Balance Ski Gloves is excellent! Great quality and perfect for my needs.,2025-08-24
+471,76,83,2.9,Poor quality Eau de Parfum. Doesn't work and feels cheap.,2025-04-10
+472,79,18,3.0,This The Ordinary Sunscreen - Silver is not gentle enough. Too harsh for sensitive skin.,2024-10-19
+473,39,35,4.6,Love this Sunglasses - Yellow (L)! Perfect fit and great quality material.,2024-12-14
+474,19,121,3.9,This Xiaomi JBL Live Pro 2 is not intuitive to use. The interface is confusing.,2025-07-01
+475,85,62,3.0,Very disappointed with this Sony iPad Air. Poor build quality and functionality.,2024-12-14
+476,61,25,4.9,The design of this Paw Patrol Chutes and Ladders is both fun and educational. Love it!,2025-06-04
+477,96,107,3.9,I'm not satisfied with this Target Air Fryer - Black. It's not meeting my needs.,2025-02-24
+478,5,157,4.3,I'm thrilled with this Bissell Candles - Brown. It's become a favorite in my home.,2024-11-26
+479,57,115,4.4,This KitchenAid Throw Pillows - Navy has made my home more organized and efficient.,2025-04-29
+480,47,80,4.0,This Star Wars Barbie Set is perfect for my child. Excellent value for money.,2024-12-23
+481,79,147,3.9,The performance of this Lenovo ThinkPad X1 - White is subpar. Not worth the money.,2025-05-31
+482,32,200,4.9,This Too Faced Exfoliant - Black is fantastic! Gentle on skin and very effective.,2025-08-25
+483,1,117,2.9,This Glossier Body Spray is not effective at all. Waste of money.,2025-03-13
+484,79,194,2.4,This Yoga Pants (S) is not durable. Shows wear and tear immediately.,2024-11-20
+485,35,69,3.4,This H&M Polo Shirt - Brown is disappointing. Poor quality and doesn't fit properly.,2024-10-21
+486,84,98,3.5,The construction of this Honeywell Bath Caddy is shoddy. Poor workmanship.,2024-10-26
+487,31,10,2.6,This Maybelline Eau de Parfum - Navy is terrible. Caused breakouts and poor quality.,2025-08-01
+488,20,200,4.3,The results from this Too Faced Exfoliant - Black are consistent and impressive.,2024-10-02
+489,47,108,3.8,I'm not satisfied with this Wayfair String Lights. It's poorly made.,2025-02-26
+490,24,25,4.5,This Paw Patrol Chutes and Ladders is well-constructed and safe for children. Great investment.,2024-11-10
+491,40,115,3.9,This KitchenAid Throw Pillows - Navy is not durable at all. Broke after minimal use.,2025-08-19
+492,74,27,2.9,The design of this Air Fryer is flawed and impractical.,2025-06-08
+493,78,189,3.4,I'm unhappy with this Crossword Puzzle. It's not meeting my expectations.,2025-02-23
+494,99,10,4.1,The application of this Maybelline Eau de Parfum - Navy is easy and the results are great.,2024-10-08
+495,64,164,5.0,This Bath Mat has made my home more organized and efficient.,2025-07-15
+496,93,39,4.0,I love how this Chanel Razor - Silver feels on my skin. Smooth and non-greasy.,2025-05-26
+497,73,135,4.1,I'm so happy I found this Glossier Face Wash - Silver. It's exactly what I needed.,2025-07-29
+498,10,15,4.9,The quality of this Bissell Scale is consistent throughout. Excellent workmanship.,2025-01-06
+499,61,114,4.3,The functionality of this Wayfair Soap Dispenser - Orange is excellent. Does exactly what I need.,2025-05-21
+500,2,141,3.9,This Adidas Running Shoes doesn't perform as advertised. Disappointing quality.,2025-01-16

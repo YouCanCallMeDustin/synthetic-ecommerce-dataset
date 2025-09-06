@@ -1,0 +1,11 @@
+product_id,name,category,price,stock_quantity,rating
+1,Beauty Product 1,Beauty,594.45,339,3.0
+2,Clothing Product 2,Clothing,51.22,91,3.7
+3,Home Product 3,Home,609.51,366,3.6
+4,Home Product 4,Home,174.67,443,5.0
+5,Toys Product 5,Toys,69.73,454,4.3
+6,Toys Product 6,Toys,949.14,427,2.9
+7,Toys Product 7,Toys,965.8,263,2.3
+8,Beauty Product 8,Beauty,809.36,430,3.2
+9,Home Product 9,Home,308.09,34,4.1
+10,Home Product 10,Home,102.18,205,4.3

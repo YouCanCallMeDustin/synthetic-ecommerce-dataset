@@ -1,0 +1,151 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,73,35,2.3,I'm frustrated with this Nespresso Under Bed Storage. It's not working as advertised.,2025-07-25
+2,28,37,3.9,This Blouse is not suitable for the season. Wrong material choice.,2025-07-15
+3,11,19,4.5,This Instant Pot Towel Set is perfect for my space. Fits beautifully.,2025-08-12
+4,78,44,2.7,The design of this Wilson Yoga Towel - Brown is impractical for sports use.,2025-03-14
+5,39,29,2.8,This Crate & Barrel Cutting Board is not functional. Doesn't work as advertised.,2025-04-02
+6,47,7,4.2,I'm impressed with the overall quality and performance of this Patagonia Bike Rack.,2025-01-02
+7,19,28,3.5,This Pantry Organizer - White is not functional. Doesn't work as advertised.,2024-11-11
+8,15,9,4.7,The materials used in this North Face Pull-Up Bar are top-quality and durable.,2025-03-13
+9,28,28,4.9,The durability of this Pantry Organizer - White is impressive. Built to last.,2024-09-18
+10,24,6,4.2,This Hot Wheels Jump Rope is well-constructed and safe for children. Great investment.,2024-10-09
+11,72,29,3.1,This Crate & Barrel Cutting Board is a waste of money. Poor quality and doesn't work.,2024-09-25
+12,9,17,4.8,The materials and construction of this Adidas Ski Socks - Green are top-notch.,2024-12-03
+13,47,16,4.2,Love this Melissa & Doug Candy Land! My children love it and it's very durable.,2025-04-25
+14,33,23,2.8,The results from this Body Wash are minimal and not worth it.,2024-11-27
+15,62,31,2.9,This Melissa & Doug Trampoline doesn't work as advertised. Disappointing quality.,2024-09-11
+16,97,3,5.0,Perfect ASICS Hiking Boots! Excellent for sports and very well-made.,2025-03-27
+17,19,21,5.0,I'm impressed with how quickly this Urban Decay Face Moisturizer shows results.,2025-03-08
+18,67,26,2.0,I'm disappointed with the overall quality of this Running Hat.,2024-09-04
+19,74,36,2.9,This LEGO Coding Robot doesn't work as advertised. Disappointing quality.,2025-01-10
+20,40,42,4.9,This Spalding Kettlebell - Beige is excellent! Great quality and perfect for my needs.,2025-08-26
+21,47,37,4.0,The color and style of this Blouse are exactly what I wanted.,2025-04-30
+22,65,22,4.6,This Star Wars Walkie Talkies is fantastic! Great for playtime and excellent quality.,2024-11-21
+23,29,42,4.0,The build quality of this Spalding Kettlebell - Beige is excellent. Very sturdy.,2025-07-14
+24,50,12,4.5,The sizing of this Athletic Leggings - Brown is accurate. Fits exactly as expected.,2024-10-24
+25,98,42,4.0,This Spalding Kettlebell - Beige is incredible! Great performance and high quality.,2025-01-14
+26,13,13,3.6,Terrible Disney Fashion Doll. Cheap materials and poor construction.,2025-06-09
+27,1,11,4.8,This Urban Decay Aftershave is worth every penny. The results speak for themselves.,2024-11-11
+28,34,16,4.2,This Melissa & Doug Candy Land is fantastic! Great for playtime and excellent quality.,2025-08-26
+29,93,8,4.5,This Philips Mirrors - Gold has exceeded my expectations. Quality is outstanding.,2025-07-12
+30,48,40,4.1,This Too Faced Shaving Cream - Gold has transformed my skin. I can see real improvements.,2025-07-28
+31,77,40,3.6,Not impressed with this Too Faced Shaving Cream - Gold. It's ineffective and overpriced.,2025-08-07
+32,48,45,5.0,I'm impressed with how well this Coding Robot - Black holds up during play.,2025-01-07
+33,49,2,4.3,This Closet Organizer - Orange is perfect for my space. Fits beautifully.,2024-09-27
+34,64,30,3.7,This Room Spray is terrible. Caused breakouts and poor quality.,2024-09-12
+35,61,30,5.0,I love how this Room Spray feels on my skin. Smooth and non-greasy.,2024-10-31
+36,29,12,2.9,This Athletic Leggings - Brown is not suitable for my body type. Poor fit.,2025-04-19
+37,39,10,5.0,I'm so glad I purchased this Sandbox. It's perfect for my child.,2025-06-04
+38,88,44,3.9,I'm frustrated with this Wilson Yoga Towel - Brown. It doesn't work properly.,2025-08-26
+39,26,11,3.0,This Urban Decay Aftershave is not suitable for my skin concerns. Wrong formula.,2024-10-29
+40,17,15,5.0,I'm so happy I found this Foot Cream. It's exactly what I needed.,2025-07-01
+41,71,16,3.6,Regret buying this Melissa & Doug Candy Land. It's poorly made and not safe for kids.,2024-10-17
+42,13,17,4.2,"I love everything about this Adidas Ski Socks - Green. Quality, comfort, and performance.",2025-07-29
+43,69,26,4.6,This Running Hat is well-designed and practical. Great for athletes.,2025-03-27
+44,26,2,4.9,I'm thrilled with this Closet Organizer - Orange. It's everything I hoped for and more.,2025-08-04
+45,49,50,4.2,Excellent Revlon Aftershave - Beige! Great quality and I can see the difference already.,2025-01-23
+46,67,12,3.5,The material of this Athletic Leggings - Brown is not comfortable against the skin.,2024-10-02
+47,7,26,4.2,This Running Hat is ideal for my training goals. Highly functional.,2025-01-27
+48,58,23,3.7,The quality of this Body Wash is substandard. Not recommended.,2025-06-04
+49,49,18,4.2,The formula of this Maybelline Base Coat - Orange is perfect for my sensitive skin.,2025-09-04
+50,53,32,5.0,I'm thrilled with this Dresser - Green. It's everything I hoped for and more.,2025-05-19
+51,65,49,4.6,I've been using this Knife Set - Beige for months and it's still like new.,2025-02-04
+52,62,38,4.2,I'm impressed with how well this Swim Goggles holds up during intense use.,2025-04-19
+53,17,47,4.6,This Zara Joggers (Extra Large) has exceeded my expectations. Beautiful and functional.,2024-10-13
+54,43,3,4.6,This ASICS Hiking Boots is fantastic! Great performance and excellent quality.,2025-01-12
+55,25,38,3.1,This Swim Goggles is not suitable for my sport. Too unreliable.,2024-12-30
+56,3,3,4.0,This ASICS Hiking Boots is perfect for my workouts! Great quality and very durable.,2025-01-07
+57,79,30,5.0,Excellent Room Spray! Perfect for my routine and great value for money.,2024-10-26
+58,29,1,5.0,The fit of this Patagonia Bodycon Dress (One Size) is perfect. True to size and flattering.,2024-11-04
+59,32,30,3.6,This Room Spray has a terrible smell. Unpleasant to use.,2025-06-15
+60,26,45,3.5,The construction of this Coding Robot - Black is weak. Poor workmanship.,2025-02-20
+61,16,32,3.5,This Dresser - Green is not durable. Shows wear and tear quickly.,2025-07-08
+62,25,28,4.7,This Pantry Organizer - White is worth every penny. Excellent value for money.,2025-05-10
+63,54,21,5.0,The formula of this Urban Decay Face Moisturizer is perfect for my sensitive skin.,2025-03-12
+64,28,46,4.5,I'm impressed by how well this Google Sennheiser HD 660S - Silver handles everything I throw at it.,2025-05-14
+65,73,13,4.1,Amazing Disney Fashion Doll! Perfect for children and very durable.,2025-01-05
+66,56,27,3.6,The results from this Estée Lauder Setting Powder are minimal and not worth it.,2024-11-10
+67,65,36,4.3,I've been recommending this LEGO Coding Robot to other parents. It's that good!,2025-06-05
+68,93,7,3.3,Regret buying this Patagonia Bike Rack. It's poorly made and doesn't function properly.,2025-04-10
+69,86,22,2.5,This Star Wars Walkie Talkies is not functional for children. Doesn't work as intended.,2025-05-31
+70,80,10,5.0,The build quality of this Sandbox is excellent. Very sturdy.,2025-08-15
+71,41,39,3.2,This Ralph Lauren Running Shoes (Medium) is terrible quality. Fell apart after one wash.,2025-08-30
+72,51,15,3.7,This Foot Cream is overpriced for what it does. Not effective.,2025-04-30
+73,71,15,4.5,This Foot Cream has transformed my skin. I can see real improvements.,2025-07-06
+74,78,4,5.0,I'm delighted with this Puma Golf Clubs - Navy. It's everything I hoped for.,2025-01-20
+75,29,32,4.2,The quality of this Dresser - Green is exceptional. Built to last.,2024-11-29
+76,83,23,3.0,The ingredients in this Body Wash seem cheap and ineffective.,2025-05-20
+77,19,6,3.8,This Hot Wheels Jump Rope is not suitable for my child's needs. Wrong specifications.,2025-04-20
+78,66,24,3.5,This Candles - Black is not recommended. Too many issues to ignore.,2025-07-17
+79,41,20,4.0,I'm amazed by the quality and design of this Candles.,2024-11-11
+80,45,37,5.0,This Blouse is exactly what I was looking for. Comfortable and stylish.,2025-01-28
+81,15,20,2.0,This Candles is not well-made. Construction is poor and weak.,2025-01-01
+82,3,12,3.7,This Athletic Leggings - Brown is terrible quality. Fell apart after one wash.,2025-06-16
+83,11,33,3.6,I'm disappointed with this Clinique Beauty Blender - Beige. It made my skin worse.,2025-05-29
+84,53,28,3.0,This Pantry Organizer - White is not practical. Doesn't work as expected.,2024-12-27
+85,46,8,4.5,The style of this Philips Mirrors - Gold is timeless and elegant.,2024-10-23
+86,30,1,2.9,The fabric of this Patagonia Bodycon Dress (One Size) pills easily. Looks worn out quickly.,2024-11-12
+87,57,37,3.0,This Blouse is not comfortable for daily wear. Too restrictive.,2025-06-14
+88,18,22,4.7,I'm so happy with this Star Wars Walkie Talkies! My child plays with it every day.,2024-09-04
+89,51,6,5.0,This Hot Wheels Jump Rope is fantastic! Well-made and kids absolutely love it.,2025-06-03
+90,48,21,3.9,I'm disappointed with the overall quality of this Urban Decay Face Moisturizer.,2025-04-14
+91,66,32,3.0,This Dresser - Green is not suitable for my needs. Wrong size/design.,2025-02-03
+92,96,35,3.4,Very disappointed with this Nespresso Under Bed Storage. It's flimsy and overpriced.,2025-07-31
+93,8,15,4.8,Love this Foot Cream! Great for daily use and excellent results.,2025-06-30
+94,22,5,4.1,This Monopoly Building Blocks has improved my child's play experience. Highly effective.,2025-04-12
+95,6,46,3.9,Terrible Google Sennheiser HD 660S - Silver. Broke within a week and customer service was unhelpful.,2024-09-16
+96,76,50,4.3,I love the scent of this Revlon Aftershave - Beige. Pleasant and not overpowering.,2024-11-13
+97,57,48,4.0,The functionality of this Microsoft Nest Thermostat is impressive and intuitive.,2025-04-25
+98,36,6,5.0,This Hot Wheels Jump Rope is ideal for my child's interests. Highly functional.,2025-01-05
+99,79,25,3.4,Poor quality Tommy Hilfiger Running Shorts (M). The material feels cheap and it's uncomfortable.,2025-08-27
+100,92,46,3.3,This Google Sennheiser HD 660S - Silver is not suitable for professional use. Too unreliable.,2025-07-15
+101,57,40,2.9,This Too Faced Shaving Cream - Gold is not suitable for my skin. Caused adverse reactions.,2025-04-29
+102,49,29,3.6,This Crate & Barrel Cutting Board is not durable at all. Broke after minimal use.,2024-11-28
+103,45,7,3.1,This Patagonia Bike Rack is not recommended for athletes. Too many issues.,2025-05-10
+104,82,40,4.2,"I've tried many similar products, but this Too Faced Shaving Cream - Gold is the best.",2025-04-11
+105,66,13,4.0,The craftsmanship of this Disney Fashion Doll is impressive. Very well made.,2024-10-14
+106,77,38,3.1,This Swim Goggles is not durable at all. Poor quality materials.,2025-09-02
+107,45,18,4.5,Excellent Maybelline Base Coat - Orange! Perfect for my routine and great value for money.,2025-03-15
+108,79,2,5.0,Perfect Closet Organizer - Orange! Great quality and exactly as described.,2024-10-28
+109,20,8,4.3,I'm impressed with the overall quality of this Philips Mirrors - Gold.,2025-01-10
+110,64,11,2.0,This Urban Decay Aftershave is overpriced for what it does. Not effective.,2025-06-20
+111,93,33,5.0,This Clinique Beauty Blender - Beige is amazing! Works exactly as promised and great results.,2024-10-04
+112,93,38,4.6,The design of this Swim Goggles is both functional and comfortable.,2024-12-05
+113,67,48,5.0,This Microsoft Nest Thermostat is absolutely amazing! The quality is outstanding and it works perfectly.,2025-01-16
+114,83,27,4.9,This Estée Lauder Setting Powder is perfect for my morning routine. Quick and effective.,2025-01-06
+115,3,20,5.0,This Candles is fantastic! Great value and excellent quality.,2024-11-08
+116,54,12,4.2,The fabric quality of this Athletic Leggings - Brown is excellent. Feels premium.,2025-05-09
+117,78,43,3.8,This Sunglasses (XS) is not suitable for my needs. Poor functionality.,2025-08-13
+118,64,31,4.3,I'm impressed with the overall quality and safety of this Melissa & Doug Trampoline.,2024-10-08
+119,40,27,3.4,Terrible Estée Lauder Setting Powder. Ineffective and caused skin problems.,2025-07-20
+120,59,32,4.3,This Dresser - Green is exactly what I was looking for. Perfect addition to my home.,2025-06-06
+121,55,10,1.9,This Sandbox is not suitable for children. Poor quality and unsafe design.,2025-05-22
+122,62,3,4.0,I'm delighted with this ASICS Hiking Boots. It's everything I hoped for.,2025-05-10
+123,4,45,5.0,This Coding Robot - Black is fantastic! Great for playtime and excellent quality.,2025-06-14
+124,60,27,4.1,This Estée Lauder Setting Powder is perfect for my morning routine. Quick and effective.,2025-08-14
+125,75,35,5.0,I'm completely satisfied with this Nespresso Under Bed Storage. It's perfect for me.,2025-01-12
+126,95,31,3.8,This Melissa & Doug Trampoline is terrible quality. Broke quickly and poor design.,2025-02-24
+127,96,15,4.8,Love this Foot Cream! Perfect for my skin type and easy to use.,2024-09-08
+128,91,16,3.3,The design of this Melissa & Doug Candy Land is flawed and unsafe.,2024-12-15
+129,30,13,4.8,"I love everything about this Disney Fashion Doll. Quality, safety, and fun.",2024-11-24
+130,2,49,4.2,The durability of this Knife Set - Beige is impressive. Built to last.,2024-12-09
+131,62,35,3.8,The design of this Nespresso Under Bed Storage is flawed and impractical.,2025-05-31
+132,49,11,1.9,This Urban Decay Aftershave is not gentle enough. Too harsh for sensitive skin.,2024-09-30
+133,9,21,3.8,This Urban Decay Face Moisturizer is not suitable for my skin type. Caused problems.,2025-01-18
+134,92,11,4.2,The results from this Urban Decay Aftershave are consistent and impressive.,2024-12-12
+135,31,30,4.7,This Room Spray has exceeded my expectations. Excellent quality.,2025-07-06
+136,98,48,5.0,I've been recommending this Microsoft Nest Thermostat to all my friends. It's that good!,2024-10-15
+137,61,35,5.0,I'm amazed by the quality and design of this Nespresso Under Bed Storage.,2025-06-10
+138,79,22,5.0,The performance of this Star Wars Walkie Talkies is outstanding. Highly recommend!,2024-09-04
+139,48,38,3.6,I'm disappointed with this Swim Goggles. It's not worth the money.,2024-09-22
+140,25,31,3.8,I'm frustrated with this Melissa & Doug Trampoline. It's not working as advertised.,2025-01-31
+141,36,14,4.6,I'm completely satisfied with this Yoga Wheel. It's perfect for my needs.,2025-02-21
+142,8,24,4.4,The craftsmanship of this Candles - Black is top-notch. Very well made.,2025-06-15
+143,73,50,5.0,This Revlon Aftershave - Beige has become a staple in my beauty routine. Love it!,2025-02-13
+144,58,49,5.0,This Knife Set - Beige is versatile and can be used in multiple ways.,2024-11-07
+145,45,32,5.0,I'm delighted with this Dresser - Green. It's exactly what I needed.,2025-08-13
+146,62,36,5.0,The performance of this LEGO Coding Robot is consistent and reliable.,2025-02-11
+147,39,32,4.4,The build quality of this Dresser - Green is impressive. Very sturdy.,2025-03-14
+148,96,15,5.0,Excellent Foot Cream! Perfect for my routine and great value for money.,2025-08-12
+149,58,43,5.0,This Sunglasses (XS) is perfect for any occasion. Very versatile piece.,2025-01-29
+150,81,35,3.9,This Nespresso Under Bed Storage is not worth the price. Poor quality and design.,2025-01-18

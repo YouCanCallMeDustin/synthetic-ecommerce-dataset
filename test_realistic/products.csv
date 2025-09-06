@@ -1,0 +1,6 @@
+product_id,name,brand,category,subcategory,price,stock_quantity,rating,description
+1,WH-1000XM4,Sony,Electronics,Headphones,266.79,96,4.6,High-quality headphones from Sony. WH-1000XM4 features premium materials and cutting-edge technology. Perfect for both personal and professional use.
+2,DualSense Controller,Sony,Electronics,Gaming,1247.49,87,4.2,High-quality gaming from Sony. DualSense Controller features premium materials and cutting-edge technology. Perfect for both personal and professional use.
+3,Galaxy Buds Live,Samsung,Electronics,Headphones,522.95,100,5.0,High-quality headphones from Samsung. Galaxy Buds Live features premium materials and cutting-edge technology. Perfect for both personal and professional use.
+4,"MacBook Air 15""",Apple,Electronics,Laptops,3519.79,59,5.0,"High-quality laptops from Apple. MacBook Air 15"" features premium materials and cutting-edge technology. Perfect for both personal and professional use."
+5,Galaxy Z Fold5,Samsung,Electronics,Smartphones,637.95,22,4.1,High-quality smartphones from Samsung. Galaxy Z Fold5 features premium materials and cutting-edge technology. Perfect for both personal and professional use.

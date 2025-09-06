@@ -1,0 +1,25 @@
+Dataset Generation Metadata
+==========================
+Generated: 2025-09-05T21:59:04
+Size Category: small
+
+Parameters:
+  Users: 100
+  Products: 105
+  Orders: 100
+  Reviews: 100
+
+File Sizes:
+  users.csv: 13,268 bytes
+  products.csv: 22,447 bytes
+  orders.csv: 3,716 bytes
+  order_items.csv: 918 bytes
+  reviews.csv: 11,169 bytes
+
+Features:
+- Realistic product names with proper brands
+- Category-appropriate pricing
+- Human-like review text
+- Realistic user demographics
+- Business-logic order patterns
+- Seasonal and behavioral variations

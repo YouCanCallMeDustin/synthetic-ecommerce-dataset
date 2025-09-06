@@ -1,0 +1,151 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,55,7,5.0,Best toys purchase I've made in years. Highly recommend to anyone looking for quality.,2025-09-01
+2,39,3,4.3,"Good Galaxy Tab A8, works as expected. Nothing extraordinary but gets the job done.",2025-01-04
+3,57,8,5.0,Best Foaming Facial Cleanser I've tried! Highly recommend to anyone looking for quality beauty products.,2024-10-25
+4,89,23,5.0,Worth every penny. The HEMNES Dresser is exactly what I needed and works flawlessly.,2025-02-01
+5,22,40,2.2,Had issues with this Tech 2.0 T-Shirt from day one. Customer service was not helpful.,2025-08-04
+6,8,37,4.3,Average Gazelle. Nothing special but it serves its purpose.,2025-07-26
+7,22,21,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-04-12
+8,35,33,5.0,Absolutely love this Pulse 3D Headset! The quality is outstanding and it works exactly as described.,2025-02-14
+9,18,49,5.0,Perfect! The Naked Eyeshadow Palette exceeded my expectations and arrived quickly.,2025-01-23
+10,84,9,5.0,"Love this Pro Shorts! Comfortable, stylish, and true to size.",2025-04-04
+11,92,21,5.0,Worth every penny. The Alpha 7R V is exactly what I needed and works flawlessly.,2025-05-27
+12,63,10,5.0,Great Trefoil T-Shirt! Fits perfectly and the material is soft and comfortable.,2024-11-10
+13,49,29,2.7,Poor quality. The Water Bottle ripped after just one wash.,2025-06-27
+14,52,33,5.0,"Perfect! Fast shipping, great packaging, and the Pulse 3D Headset exceeded my expectations.",2025-03-05
+15,59,32,4.0,"Good Galaxy Tab S9, works as expected. Nothing extraordinary but gets the job done.",2025-06-30
+16,94,30,5.0,Absolutely love this Galaxy S24+! The quality is outstanding and it works exactly as described.,2024-10-02
+17,69,26,3.4,Decent quality. The Ruby Woo Lipstick is okay but I've used better in this price range.,2024-09-10
+18,64,18,4.3,Works well enough. The Galaxy S24 Ultra is functional but has some minor issues.,2025-04-20
+19,74,9,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2024-09-30
+20,88,49,1.1,Would not recommend. The Naked Eyeshadow Palette is cheaply made and doesn't deliver results.,2024-09-09
+21,3,8,5.0,Excellent Foaming Facial Cleanser! Great value for money and the results are outstanding.,2024-12-14
+22,1,28,3.6,Decent quality for the price. The iPhone 15 is okay but could be better.,2024-11-26
+23,84,20,3.8,It's fine. Does what it's supposed to do but I've seen better in this price range.,2024-09-19
+24,12,42,4.1,Decent quality for the price. The iPad is okay but could be better.,2025-08-28
+25,7,26,5.0,Love this Ruby Woo Lipstick! Great pigmentation and long-lasting wear.,2024-09-27
+26,55,42,2.1,Had issues with this iPad from day one. Customer service was not helpful.,2025-07-07
+27,62,5,2.2,Not worth the money. The Galaxy Buds FE doesn't work as advertised.,2025-02-05
+28,2,1,5.0,Worth every penny. The Galaxy Buds Live is exactly what I needed and works flawlessly.,2025-03-19
+29,89,9,4.2,Nice Pro Shorts but the sizing runs a bit small. Good quality overall.,2024-12-24
+30,94,7,2.3,Poor quality. The Creator 3-in-1 Set broke after just a few weeks of use.,2025-05-06
+31,18,25,5.0,"Love this 3-Stripes Cap! Comfortable, stylish, and true to size.",2025-06-07
+32,83,44,2.5,Disappointed with this Alpha 7 IV. Quality is not what I expected for the price.,2025-03-17
+33,79,42,3.3,Decent quality for the price. The iPad is okay but could be better.,2025-06-28
+34,81,48,3.4,Average Vice Lipstick. Not bad but not great either. Would consider other options.,2025-02-12
+35,28,6,5.0,Perfect fit and great quality! The Blazer Mid looks exactly like the picture.,2025-02-15
+36,76,47,4.9,"Perfect! Fast shipping, great packaging, and the WF-1000XM4 exceeded my expectations.",2025-06-03
+37,18,16,3.1,Average Swoosh Cap. Nothing special but it serves its purpose.,2025-02-07
+38,77,39,5.0,Absolutely love this iPhone 14 Pro! The quality is outstanding and it works exactly as described.,2024-10-06
+39,85,20,3.5,Decent quality for the price. The Galaxy Z Fold5 is okay but could be better.,2025-05-10
+40,96,26,3.0,Decent quality. The Ruby Woo Lipstick is okay but I've used better in this price range.,2025-03-31
+41,64,25,2.4,Would not recommend. The 3-Stripes Cap is overpriced for such poor quality.,2025-03-31
+42,10,34,5.0,"Perfect! Fast shipping, great packaging, and the Marble Table Lamp exceeded my expectations.",2025-05-01
+43,41,9,4.8,Great Pro Shorts! Fits perfectly and the material is soft and comfortable.,2024-11-02
+44,47,35,5.0,Amazing True Match Foundation! The quality is fantastic and it works exactly as described.,2024-12-20
+45,3,38,2.2,Disappointed with this Better Sweater Jacket. Quality is not what I expected for the price.,2024-10-06
+46,8,26,4.6,Best Ruby Woo Lipstick I've tried! Highly recommend to anyone looking for quality beauty products.,2025-01-02
+47,99,27,4.4,Average Superstar. Nothing special but it serves its purpose.,2024-10-04
+48,69,40,3.1,"Good Tech 2.0 T-Shirt, works as expected. Nothing extraordinary but gets the job done.",2025-03-21
+49,66,14,5.0,"Perfect! Fast shipping, great packaging, and the WH-CH720N exceeded my expectations.",2025-08-27
+50,51,38,5.0,Absolutely love this Better Sweater Jacket! The quality is outstanding and it works exactly as described.,2024-11-21
+51,40,45,4.9,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-07-14
+52,8,16,2.4,Waste of money. The Swoosh Cap is poorly made and uncomfortable.,2024-11-03
+53,79,39,2.6,Had issues with this iPhone 14 Pro from day one. Customer service was not helpful.,2025-03-31
+54,16,1,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-01-08
+55,64,23,4.7,"Perfect! Fast shipping, great packaging, and the HEMNES Dresser exceeded my expectations.",2025-02-02
+56,22,24,2.7,Poor quality. The Denali Fleece Jacket broke after just a few weeks of use.,2025-04-19
+57,94,8,5.0,Excellent Foaming Facial Cleanser! Great value for money and the results are outstanding.,2025-05-08
+58,35,34,2.6,Would not recommend. The Marble Table Lamp is cheaply made and doesn't last.,2025-06-27
+59,81,5,4.5,"Good Galaxy Buds FE, works as expected. Nothing extraordinary but gets the job done.",2025-07-25
+60,64,37,3.1,Nice Gazelle but the sizing runs a bit small. Good quality overall.,2025-05-14
+61,74,44,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-05-26
+62,1,3,5.0,Absolutely love this Galaxy Tab A8! The quality is outstanding and it works exactly as described.,2025-05-11
+63,61,24,4.1,"Good Denali Fleece Jacket, works as expected. Nothing extraordinary but gets the job done.",2024-09-29
+64,71,46,5.0,"Perfect! Fast shipping, great packaging, and the Lightning to USB-C Cable exceeded my expectations.",2025-01-02
+65,32,27,5.0,Perfect fit and great quality! The Superstar looks exactly like the picture.,2025-06-02
+66,74,24,2.6,Disappointed with this Denali Fleece Jacket. Quality is not what I expected for the price.,2025-02-20
+67,23,15,5.0,Worth every penny. The iPhone 14 is exactly what I needed and works flawlessly.,2025-06-14
+68,9,30,5.0,"Perfect! Fast shipping, great packaging, and the Galaxy S24+ exceeded my expectations.",2025-07-29
+69,42,6,5.0,"Love this Blazer Mid! Comfortable, stylish, and true to size.",2024-12-05
+70,38,37,5.0,"Love this Gazelle! Comfortable, stylish, and true to size.",2024-09-26
+71,60,24,5.0,Best sports purchase I've made in years. Highly recommend to anyone looking for quality.,2024-12-07
+72,94,35,5.0,Amazing True Match Foundation! The quality is fantastic and it works exactly as described.,2024-10-07
+73,53,2,3.3,"Good WF-1000XM5, works as expected. Nothing extraordinary but gets the job done.",2025-08-29
+74,43,1,5.0,"Perfect! Fast shipping, great packaging, and the Galaxy Buds Live exceeded my expectations.",2025-02-19
+75,14,14,4.2,Average WH-CH720N. Not bad but not great either. Would consider other options next time.,2024-10-19
+76,8,10,5.0,"Love this Trefoil T-Shirt! Comfortable, stylish, and true to size.",2025-02-27
+77,67,27,5.0,Perfect fit and great quality! The Superstar looks exactly like the picture.,2025-04-29
+78,75,7,4.6,Worth every penny. The Creator 3-in-1 Set is exactly what I needed and works flawlessly.,2025-04-28
+79,10,38,5.0,Best sports purchase I've made in years. Highly recommend to anyone looking for quality.,2024-09-25
+80,31,19,3.3,Good quality but the Windbreaker is a bit overpriced for what you get.,2025-01-02
+81,90,48,4.4,Decent quality. The Vice Lipstick is okay but I've used better in this price range.,2025-05-20
+82,10,13,2.7,Disappointed with this FX30. Quality is not what I expected for the price.,2025-06-19
+83,20,7,3.4,Average Creator 3-in-1 Set. Not bad but not great either. Would consider other options next time.,2025-05-17
+84,16,35,4.7,Excellent True Match Foundation! Great value for money and the results are outstanding.,2025-06-18
+85,40,30,3.1,Decent quality for the price. The Galaxy S24+ is okay but could be better.,2024-11-11
+86,88,20,5.0,Absolutely love this Galaxy Z Fold5! The quality is outstanding and it works exactly as described.,2024-10-20
+87,28,21,2.6,Poor quality. The Alpha 7R V broke after just a few weeks of use.,2024-09-08
+88,51,33,1.3,Had issues with this Pulse 3D Headset from day one. Customer service was not helpful.,2025-06-05
+89,4,26,5.0,Best Ruby Woo Lipstick I've tried! Highly recommend to anyone looking for quality beauty products.,2024-10-27
+90,32,7,4.7,Best toys purchase I've made in years. Highly recommend to anyone looking for quality.,2025-06-03
+91,16,1,2.7,Had issues with this Galaxy Buds Live from day one. Customer service was not helpful.,2024-09-08
+92,17,13,5.0,Absolutely love this FX30! The quality is outstanding and it works exactly as described.,2024-11-06
+93,75,38,3.7,"Good Better Sweater Jacket, works as expected. Nothing extraordinary but gets the job done.",2025-03-15
+94,9,13,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-01-16
+95,12,22,2.8,Disappointed with this Galaxy Buds2. Quality is not what I expected for the price.,2025-03-26
+96,22,37,4.7,Great Gazelle! Fits perfectly and the material is soft and comfortable.,2025-03-23
+97,4,25,5.0,"Love this 3-Stripes Cap! Comfortable, stylish, and true to size.",2025-07-05
+98,24,18,3.8,"Good Galaxy S24 Ultra, works as expected. Nothing extraordinary but gets the job done.",2025-07-20
+99,79,40,5.0,Worth every penny. The Tech 2.0 T-Shirt is exactly what I needed and works flawlessly.,2025-06-10
+100,53,36,4.1,Good quality but the Leggings is a bit overpriced for what you get.,2024-12-13
+101,18,27,3.8,Average Superstar. Nothing special but it serves its purpose.,2024-11-07
+102,32,41,5.0,Absolutely love this Galaxy Watch6! The quality is outstanding and it works exactly as described.,2025-01-26
+103,49,46,4.5,Average Lightning to USB-C Cable. Not bad but not great either. Would consider other options next time.,2024-10-23
+104,45,37,4.3,Decent Gazelle. The material is okay but not as soft as I expected.,2025-06-22
+105,4,21,5.0,"Perfect! Fast shipping, great packaging, and the Alpha 7R V exceeded my expectations.",2025-07-04
+106,8,31,4.7,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-08-09
+107,21,7,3.2,Works well enough. The Creator 3-in-1 Set is functional but has some minor issues.,2024-12-17
+108,95,4,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-06-15
+109,50,23,5.0,Best home purchase I've made in years. Highly recommend to anyone looking for quality.,2025-08-14
+110,23,16,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2024-10-19
+111,76,2,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-06-30
+112,73,10,5.0,Great Trefoil T-Shirt! Fits perfectly and the material is soft and comfortable.,2025-08-19
+113,70,20,3.0,"Good Galaxy Z Fold5, works as expected. Nothing extraordinary but gets the job done.",2024-09-15
+114,30,39,3.5,"Good iPhone 14 Pro, works as expected. Nothing extraordinary but gets the job done.",2025-01-12
+115,43,40,3.1,Decent quality for the price. The Tech 2.0 T-Shirt is okay but could be better.,2025-07-14
+116,42,4,1.5,"Had issues with this iPad Pro 11"" from day one. Customer service was not helpful.",2025-02-17
+117,100,8,5.0,Amazing Foaming Facial Cleanser! The quality is fantastic and it works exactly as described.,2024-12-18
+118,48,46,5.0,Absolutely love this Lightning to USB-C Cable! The quality is outstanding and it works exactly as described.,2025-03-26
+119,44,20,4.9,Worth every penny. The Galaxy Z Fold5 is exactly what I needed and works flawlessly.,2024-09-28
+120,82,32,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-12-15
+121,89,40,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-06-07
+122,23,25,4.6,"Love this 3-Stripes Cap! Comfortable, stylish, and true to size.",2025-04-15
+123,23,47,1.6,Would not recommend. The WF-1000XM4 is cheaply made and doesn't last.,2025-05-05
+124,51,50,5.0,Beautiful NMD R1! The color and fit are perfect. Will definitely buy again.,2024-10-03
+125,41,40,3.5,Average Tech 2.0 T-Shirt. Not bad but not great either. Would consider other options next time.,2025-03-15
+126,19,22,5.0,"Perfect! Fast shipping, great packaging, and the Galaxy Buds2 exceeded my expectations.",2025-02-27
+127,22,41,5.0,"Perfect! Fast shipping, great packaging, and the Galaxy Watch6 exceeded my expectations.",2025-03-21
+128,58,1,3.2,"Good Galaxy Buds Live, works as expected. Nothing extraordinary but gets the job done.",2025-01-21
+129,45,17,5.0,Absolutely love this Barbie Fashionista Doll! The quality is outstanding and it works exactly as described.,2024-09-25
+130,50,29,5.0,Great Water Bottle! Fits perfectly and the material is soft and comfortable.,2025-03-17
+131,64,25,4.3,Good quality but the 3-Stripes Cap is a bit overpriced for what you get.,2025-08-03
+132,74,42,5.0,Worth every penny. The iPad is exactly what I needed and works flawlessly.,2025-04-12
+133,10,3,3.3,"Good Galaxy Tab A8, works as expected. Nothing extraordinary but gets the job done.",2024-11-07
+134,10,22,3.3,"Good Galaxy Buds2, works as expected. Nothing extraordinary but gets the job done.",2025-01-24
+135,71,6,4.9,Great Blazer Mid! Fits perfectly and the material is soft and comfortable.,2024-11-04
+136,91,2,4.6,Amazing product! Great value for money and the quality is top-notch.,2024-12-12
+137,56,11,2.3,Terrible fit. The Trefoil Socks is way too small despite ordering the correct size.,2025-07-01
+138,53,45,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-10-13
+139,34,43,3.2,"Good Galaxy S24, works as expected. Nothing extraordinary but gets the job done.",2025-08-17
+140,51,37,4.4,Nice Gazelle but the sizing runs a bit small. Good quality overall.,2025-04-14
+141,47,1,4.3,Works well enough. The Galaxy Buds Live is functional but has some minor issues.,2025-05-23
+142,62,13,2.2,Poor quality. The FX30 broke after just a few weeks of use.,2025-06-11
+143,11,31,5.0,"Worth every penny. The iPad Pro 12.9"" is exactly what I needed and works flawlessly.",2024-10-18
+144,61,32,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-12-01
+145,50,12,4.3,Decent quality. The Lightful C Marine-Bright is okay but I've used better in this price range.,2025-06-18
+146,58,3,3.4,Decent quality for the price. The Galaxy Tab A8 is okay but could be better.,2025-03-20
+147,35,37,2.7,Poor quality. The Gazelle ripped after just one wash.,2024-09-04
+148,11,43,4.5,Works well enough. The Galaxy S24 is functional but has some minor issues.,2024-09-21
+149,30,36,2.3,Would not recommend. The Leggings is overpriced for such poor quality.,2025-08-03
+150,54,35,5.0,Best True Match Foundation I've tried! Highly recommend to anyone looking for quality beauty products.,2025-08-05

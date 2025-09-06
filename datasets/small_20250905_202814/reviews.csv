@@ -1,0 +1,201 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,22,157,4.0,This Electronics Product 157 is a must-have for anyone serious about quality.,2024-12-14
+2,187,5,4.3,Love this Beauty Product 5! Great for daily use and excellent results.,2024-10-31
+3,119,4,5.0,Love this Home Product 4! Well-made and looks great in my space.,2024-10-08
+4,28,179,4.0,I'm so happy I found this Beauty Product 179. It's exactly what I needed.,2025-01-24
+5,116,15,3.3,This Clothing Product 15 is overpriced for the quality. Not worth the money.,2024-11-09
+6,76,188,4.1,Outstanding quality and performance. This Electronics Product 188 is built to last.,2025-04-12
+7,27,26,3.6,This Toys Product 26 is not suitable for kids' play. Poor design.,2024-10-19
+8,87,23,2.9,This Clothing Product 23 is disappointing. Poor quality and doesn't fit properly.,2024-09-09
+9,129,125,4.6,The performance of this Toys Product 125 is outstanding. Highly recommend!,2025-06-10
+10,124,103,3.8,This Beauty Product 103 is disappointing. Doesn't work and poor quality.,2025-03-27
+11,107,29,1.6,This Electronics Product 29 is not user-friendly. Difficult to operate.,2025-02-19
+12,130,86,4.2,This Home Product 86 is well-designed and practical. Great addition to my home.,2025-07-01
+13,95,57,4.2,This Electronics Product 57 is a perfect example of quality engineering.,2025-08-27
+14,66,62,5.0,Outstanding Electronics Product 62! Works flawlessly and the design is sleek and modern.,2025-08-30
+15,177,187,4.0,"I love everything about this Clothing Product 187. Style, fit, and quality.",2025-02-27
+16,19,48,4.9,This Beauty Product 48 has helped with my skin issues. Very satisfied!,2025-07-22
+17,156,111,4.5,Great Electronics Product 111! Fast delivery and exactly as described. Highly recommend!,2025-05-23
+18,198,35,3.5,Poor quality Beauty Product 35. Doesn't work and feels cheap.,2025-03-14
+19,167,46,4.3,Perfect Beauty Product 46! Easy to apply and gives great results.,2024-10-20
+20,19,33,3.9,This Clothing Product 33 shrunk significantly after the first wash. Very disappointing.,2024-11-30
+21,127,71,3.4,This Home Product 71 is not suitable for its intended purpose. Poor design.,2025-06-08
+22,116,10,3.6,This Home Product 10 is not functional. Doesn't serve its intended purpose.,2024-11-21
+23,64,176,3.5,This Sports Product 176 is not practical for training. Doesn't work as expected.,2024-11-17
+24,58,44,4.0,Love this Sports Product 44! Excellent for training and well-made.,2025-08-04
+25,17,126,4.0,I'm impressed with how quickly this Beauty Product 126 shows results.,2025-07-16
+26,198,114,3.6,This Toys Product 114 doesn't work as advertised. Disappointing quality.,2025-07-04
+27,79,198,3.8,The materials used in this Home Product 198 are substandard.,2024-12-16
+28,41,123,2.5,The design of this Sports Product 123 is flawed and impractical.,2024-12-24
+29,5,63,3.2,This Toys Product 63 is not well-constructed. Poor quality control.,2025-06-20
+30,23,49,3.8,This Home Product 49 is not worth the price. Poor quality and design.,2025-03-14
+31,197,200,5.0,The design of this Toys Product 200 is both engaging and safe for kids.,2025-01-30
+32,126,85,4.5,This Beauty Product 85 is worth every penny. The results speak for themselves.,2024-10-24
+33,10,41,3.2,I'm frustrated with this Electronics Product 41. It doesn't work as intended.,2025-02-18
+34,68,98,5.0,This Toys Product 98 is perfect for my child. Excellent value for money.,2025-08-02
+35,140,39,4.0,This Sports Product 39 has become essential to my fitness routine. Love it!,2024-11-23
+36,111,107,3.1,This Electronics Product 107 stopped working after just a few days. Very disappointed.,2025-04-25
+37,138,151,3.9,This Home Product 151 is not suitable for my home. Poor quality and design.,2024-11-26
+38,60,13,4.8,I'm so happy with this Home Product 13! It fits perfectly in my home.,2025-07-21
+39,127,106,3.1,This Home Product 106 is not well-constructed. Poor quality control.,2024-12-22
+40,30,111,3.2,This Electronics Product 111 is poorly manufactured. Quality control is lacking.,2025-06-13
+41,114,181,5.0,The craftsmanship of this Sports Product 181 is impressive. Very well made.,2025-05-24
+42,152,70,4.2,This Electronics Product 70 delivers on every promise. Highly satisfied with my purchase.,2024-11-16
+43,69,57,3.6,This Electronics Product 57 is disappointing. Doesn't work properly and feels cheap.,2025-02-13
+44,13,76,3.9,The materials used in this Home Product 76 are cheap and flimsy.,2024-11-13
+45,9,195,4.2,This Beauty Product 195 is a game-changer for my skincare routine.,2025-02-09
+46,146,176,3.8,The durability of this Sports Product 176 is poor. Breaks easily during use.,2025-07-08
+47,163,20,5.0,This Electronics Product 20 is fantastic! Great value for money and excellent functionality.,2024-10-30
+48,132,62,4.1,Outstanding Electronics Product 62! Works flawlessly and the design is sleek and modern.,2024-09-15
+49,169,173,4.5,The design of this Sports Product 173 is both functional and comfortable.,2024-12-25
+50,26,63,4.1,This Toys Product 63 is incredible! Great quality and perfect for kids.,2024-12-14
+51,125,136,4.0,"This Toys Product 136 is ideal for children. Safe, durable, and entertaining.",2024-12-04
+52,44,154,4.7,This Home Product 154 is versatile and can be used in multiple ways.,2025-05-01
+53,170,38,4.7,I'm completely satisfied with this Electronics Product 38. It's exactly what I needed.,2025-02-26
+54,10,92,2.7,This Sports Product 92 is poorly designed. Uncomfortable and ineffective.,2025-08-22
+55,105,99,4.0,Excellent Clothing Product 99! Great quality and true to size. Will buy again.,2024-12-09
+56,106,108,5.0,I love the attention to detail in this Clothing Product 108. Very thoughtful design.,2025-01-25
+57,1,105,3.6,This Clothing Product 105 is not worth the price. Quality is substandard.,2025-04-18
+58,182,169,4.4,I'm impressed with the overall quality and performance of this Sports Product 169.,2025-05-27
+59,144,107,5.0,Perfect Electronics Product 107! Easy to set up and works exactly as advertised.,2025-05-13
+60,46,102,3.1,This Sports Product 102 is not worth the investment. Poor value for money.,2025-02-28
+61,141,130,3.7,Not happy with this Home Product 130. Poor quality and doesn't meet expectations.,2024-10-07
+62,64,7,2.7,This Electronics Product 7 is not worth the hassle. Too many problems.,2024-09-08
+63,78,127,4.1,The materials used in this Sports Product 127 are top-quality and durable.,2025-03-05
+64,87,105,4.3,I'm so glad I purchased this Clothing Product 105. It's perfect for me.,2024-10-25
+65,183,153,4.5,The material of this Clothing Product 153 is breathable and comfortable.,2025-08-08
+66,63,51,5.0,This Electronics Product 51 is worth every dollar. It's reliable and efficient.,2025-01-07
+67,146,50,4.1,The craftsmanship of this Clothing Product 50 is excellent. Very well made.,2025-05-31
+68,61,64,3.1,This Home Product 64 doesn't fit properly in my space. Poor design.,2025-02-05
+69,92,140,3.3,The materials used in this Home Product 140 are substandard.,2025-05-28
+70,123,181,3.4,This Sports Product 181 is terrible quality. Doesn't work and poor construction.,2024-11-25
+71,20,75,4.2,Excellent Beauty Product 75! Great quality and I can see the difference already.,2025-06-08
+72,193,10,5.0,The materials of this Home Product 10 are premium quality. Feels luxurious.,2025-01-30
+73,64,189,3.9,This Electronics Product 189 has too many issues. I wouldn't recommend it to anyone.,2025-06-06
+74,76,183,5.0,The effectiveness of this Beauty Product 183 is remarkable. Highly recommend!,2025-02-15
+75,192,99,3.9,The fabric of this Clothing Product 99 pills easily. Looks worn out quickly.,2025-06-16
+76,107,68,3.1,Not impressed with this Beauty Product 68. It's ineffective and overpriced.,2025-04-23
+77,141,170,3.3,This Toys Product 170 is not suitable for kids' play. Poor design.,2024-12-12
+78,196,66,3.4,This Toys Product 66 is disappointing. Poor quality and not safe for children.,2024-10-02
+79,198,172,3.9,This Home Product 172 is not worth the investment. Poor value for money.,2024-10-11
+80,57,28,4.3,The packaging of this Beauty Product 28 is beautiful and the product works great.,2025-04-08
+81,45,107,3.5,This Electronics Product 107 is a disappointment. The features don't work properly.,2024-09-26
+82,120,110,4.6,I'm delighted with this Home Product 110. It's exactly what I needed.,2024-09-24
+83,86,111,4.8,This Electronics Product 111 is worth every dollar. It's reliable and efficient.,2025-01-11
+84,38,78,3.8,This Home Product 78 is not durable at all. Broke after minimal use.,2025-08-31
+85,182,186,4.7,This Electronics Product 186 is worth every dollar. It's reliable and efficient.,2024-12-04
+86,164,93,2.4,The design of this Electronics Product 93 is flawed and impractical.,2025-03-05
+87,67,130,2.1,The materials used in this Home Product 130 are cheap and flimsy.,2025-08-22
+88,121,183,4.7,This Beauty Product 183 is perfect for sensitive skin. No adverse reactions.,2025-01-19
+89,126,34,3.7,The quality control for this Sports Product 34 is lacking. Defects are visible.,2025-04-27
+90,11,148,5.0,This Sports Product 148 is ideal for serious training. Professional-grade quality.,2025-09-03
+91,98,47,3.9,This Electronics Product 47 is not user-friendly. Difficult to operate.,2025-05-22
+92,155,118,3.2,This Clothing Product 118 is not suitable for my lifestyle. Too delicate.,2025-07-12
+93,87,128,5.0,Love this Electronics Product 128! It exceeded my expectations and the price was reasonable.,2025-04-24
+94,145,26,4.5,The functionality of this Toys Product 26 is exactly what I was looking for.,2025-06-06
+95,122,84,5.0,I'm delighted with this Sports Product 84. It's everything I hoped for.,2025-06-21
+96,98,1,3.5,This Beauty Product 1 caused allergic reactions. Not suitable for sensitive skin.,2025-07-15
+97,33,193,4.3,This Toys Product 193 is ideal for my child's interests. Highly functional.,2024-09-21
+98,133,97,3.3,The quality of this Clothing Product 97 is below expectations. Not recommended.,2024-09-06
+99,123,87,2.6,The build quality of this Electronics Product 87 is shockingly poor.,2024-12-11
+100,81,75,4.6,I'm so impressed with this Beauty Product 75! It's gentle yet effective.,2025-03-18
+101,62,108,3.6,This Clothing Product 108 is not worth the price. Quality is substandard.,2025-05-02
+102,65,15,3.2,The material of this Clothing Product 15 feels rough and uncomfortable.,2025-01-29
+103,199,142,2.9,The packaging of this Beauty Product 142 is poor and the product is ineffective.,2024-12-30
+104,125,55,4.1,This Electronics Product 55 is a must-have for anyone serious about quality.,2025-02-04
+105,195,129,4.1,The quality of this Toys Product 129 is consistent throughout. Excellent workmanship.,2025-05-22
+106,90,33,3.6,This Clothing Product 33 is not comfortable for daily wear. Too restrictive.,2025-01-26
+107,44,70,3.5,This Electronics Product 70 has too many issues. I wouldn't recommend it to anyone.,2024-10-25
+108,121,56,4.6,I'm thrilled with this Sports Product 56. It's perfect for my fitness goals.,2025-08-16
+109,142,23,2.0,The construction of this Clothing Product 23 is shoddy. Threads are loose.,2025-04-09
+110,91,54,4.5,I'm thrilled with this Home Product 54. It's everything I hoped for and more.,2024-09-19
+111,57,90,4.4,I'm completely satisfied with this Sports Product 90. It's perfect for my sport.,2025-04-17
+112,48,131,3.0,This Electronics Product 131 is overpriced for what you get. Would not recommend.,2024-11-12
+113,145,46,2.5,This Beauty Product 46 is overpriced for what it does. Not effective.,2024-12-14
+114,44,134,4.5,Excellent Home Product 134! High quality and perfect for the intended use.,2024-11-08
+115,132,153,3.1,The construction of this Clothing Product 153 is shoddy. Threads are loose.,2025-03-18
+116,81,17,5.0,The ingredients in this Beauty Product 17 are high-quality and effective.,2025-03-14
+117,97,156,5.0,This Sports Product 156 has become essential to my fitness routine. Love it!,2025-08-31
+118,30,160,4.3,This Sports Product 160 is outstanding! Great quality and exactly what I needed.,2025-01-13
+119,121,93,3.9,The performance of this Electronics Product 93 is subpar. Not worth the money.,2025-08-10
+120,85,23,3.8,The quality of this Clothing Product 23 is not what I expected. Very disappointed.,2025-03-04
+121,183,144,2.6,This Clothing Product 144 is not suitable for the season. Wrong material choice.,2024-10-25
+122,158,96,3.8,The construction of this Clothing Product 96 is shoddy. Threads are loose.,2024-10-08
+123,146,154,3.6,The materials used in this Home Product 154 are cheap and flimsy.,2025-01-05
+124,84,161,3.5,The design of this Home Product 161 is flawed and impractical.,2025-06-06
+125,98,186,4.3,This Electronics Product 186 has proven to be an excellent investment.,2025-03-28
+126,92,176,4.1,I'm thrilled with this Sports Product 176. It's exceeded my expectations.,2025-02-19
+127,73,83,4.6,This Sports Product 83 has improved my athletic performance. Highly effective.,2024-10-29
+128,172,55,3.6,This Electronics Product 55 is a disappointment. The features don't work properly.,2024-12-14
+129,190,169,4.5,This Sports Product 169 is fantastic! Well-made and perfect for sports activities.,2024-10-19
+130,31,62,4.0,I'm thoroughly impressed with this Electronics Product 62. It's exactly what I was looking for.,2025-01-03
+131,109,145,4.5,This Beauty Product 145 is incredible! Works better than expected and great quality.,2024-09-21
+132,16,102,3.9,I'm disappointed with this Sports Product 102. It's not worth the money.,2024-10-23
+133,95,59,5.0,I'm thrilled with this Electronics Product 59. It's everything I hoped for and more.,2025-03-16
+134,77,142,2.0,I'm disappointed with the overall quality of this Beauty Product 142.,2025-08-08
+135,151,149,4.5,I'm impressed with the overall quality and performance of this Sports Product 149.,2025-07-25
+136,142,191,4.7,I'm thoroughly impressed with this Electronics Product 191. It's exactly what I was looking for.,2024-12-22
+137,2,174,3.0,I'm not satisfied with this Sports Product 174. It's not meeting my needs.,2025-06-21
+138,140,55,5.0,This Electronics Product 55 has made my work so much more efficient.,2025-01-22
+139,186,62,4.0,I'm genuinely impressed with the build quality of this Electronics Product 62.,2025-08-29
+140,128,167,3.9,This Electronics Product 167 is poorly engineered. Design flaws are obvious.,2025-02-18
+141,92,170,4.3,This Toys Product 170 has enhanced my child's playtime. Highly effective.,2024-12-22
+142,184,48,4.7,I'm amazed by how well this Beauty Product 48 works. Visible results quickly.,2025-08-20
+143,24,103,4.1,This Beauty Product 103 is worth every penny. The results speak for themselves.,2025-08-10
+144,37,28,4.1,This Beauty Product 28 is incredible! Works better than expected and great quality.,2024-12-15
+145,29,84,4.7,This Sports Product 84 is ideal for my training goals. Highly functional.,2025-04-30
+146,42,134,4.8,I've been recommending this Home Product 134 to friends. It's that good!,2025-07-23
+147,18,59,4.3,Outstanding Electronics Product 59! Works flawlessly and the design is sleek and modern.,2025-06-26
+148,131,90,2.8,This Sports Product 90 is not suitable for serious athletes. Poor quality and design.,2025-08-29
+149,13,70,3.2,This Electronics Product 70 is overpriced for what you get. Would not recommend.,2024-12-15
+150,106,167,4.9,Perfect Electronics Product 167! Easy to set up and works exactly as advertised.,2025-03-23
+151,157,185,3.8,Regret buying this Home Product 185. It's poorly made and doesn't work.,2025-01-03
+152,194,182,3.5,This Home Product 182 is not durable enough for home use. Breaks easily.,2025-02-20
+153,59,60,4.4,I'm so happy with this Toys Product 60! My child plays with it every day.,2025-08-16
+154,92,145,4.3,The results from this Beauty Product 145 are consistent and impressive.,2024-11-07
+155,176,168,3.8,I'm unhappy with this Toys Product 168. It's not meeting my expectations.,2025-01-04
+156,4,66,4.6,The functionality of this Toys Product 66 is exactly what I was looking for.,2025-06-17
+157,51,115,3.0,This Sports Product 115 is terrible quality. Doesn't work and poor construction.,2025-03-13
+158,133,124,2.6,This Sports Product 124 is not worth the investment. Poor value for money.,2025-06-27
+159,167,182,5.0,This Home Product 182 has exceeded my expectations. Quality is outstanding.,2024-11-01
+160,41,71,3.1,This Home Product 71 is not practical. Doesn't work as expected.,2025-04-07
+161,5,44,2.8,The functionality of this Sports Product 44 is limited and disappointing.,2025-08-01
+162,136,84,3.7,The materials of this Sports Product 84 are not suitable for athletic use.,2025-08-28
+163,184,195,4.0,This Beauty Product 195 has become a staple in my beauty routine. Love it!,2025-05-17
+164,153,57,3.6,This Electronics Product 57 is not worth the hassle. Too many problems.,2025-05-09
+165,91,36,3.8,This Sports Product 36 is poorly made and doesn't hold up during use.,2025-07-10
+166,180,57,2.9,This Electronics Product 57 is not user-friendly. Difficult to operate.,2025-02-21
+167,52,121,4.6,I love the attention to detail in this Clothing Product 121. Very thoughtful design.,2024-09-24
+168,135,171,2.8,Terrible Clothing Product 171. Uncomfortable and the quality is very poor.,2024-11-16
+169,189,44,4.0,I'm thrilled with this Sports Product 44. It's perfect for my fitness goals.,2024-10-31
+170,47,62,4.2,This Electronics Product 62 is a perfect example of quality engineering.,2024-09-25
+171,127,115,4.5,The materials and construction of this Sports Product 115 are top-notch.,2024-12-02
+172,82,83,4.2,This Sports Product 83 has become essential to my fitness routine. Love it!,2024-11-14
+173,66,61,3.1,This Electronics Product 61 is not recommended. Too many issues to ignore.,2024-09-17
+174,187,94,3.7,The design of this Sports Product 94 is flawed and impractical.,2025-03-05
+175,133,11,3.4,The durability of this Sports Product 11 is poor. Breaks easily during use.,2024-12-14
+176,172,77,2.7,This Electronics Product 77 is not worth the price. Many better options available.,2024-11-06
+177,170,120,4.3,This Clothing Product 120 is comfortable all day long. Great for daily wear.,2025-06-05
+178,61,161,3.4,I'm unhappy with this Home Product 161. It's not meeting my expectations.,2025-03-04
+179,191,102,4.1,I'm so impressed with this Sports Product 102! It's built for serious athletes.,2025-02-20
+180,50,121,3.9,This Clothing Product 121 is not worth the price. Quality is substandard.,2024-10-19
+181,166,112,3.1,This Sports Product 112 is poorly made and doesn't hold up during use.,2025-08-17
+182,182,66,3.0,This Toys Product 66 is not recommended for kids. Too many safety issues.,2025-08-30
+183,172,110,3.7,This Home Product 110 is not recommended. Too many issues to ignore.,2025-03-15
+184,152,120,2.9,The fit of this Clothing Product 120 is unflattering. Doesn't look good on me.,2024-09-19
+185,128,23,4.8,This Clothing Product 23 has become a staple in my wardrobe. Love it!,2025-02-22
+186,63,177,5.0,I'm impressed with how well this Toys Product 177 holds up during play.,2025-01-20
+187,167,148,4.6,This Sports Product 148 has improved my performance significantly. Highly recommend!,2025-06-06
+188,140,15,4.3,This Clothing Product 15 has become a staple in my wardrobe. Love it!,2025-04-09
+189,191,194,4.0,This Toys Product 194 is incredible! Great quality and perfect for kids.,2025-03-11
+190,103,30,3.2,This Home Product 30 is not durable enough for home use. Breaks easily.,2025-02-28
+191,9,4,4.7,The materials used in this Home Product 4 are high-quality and durable.,2025-03-14
+192,79,64,5.0,I'm delighted with this Home Product 64. It's exactly what I needed.,2024-10-17
+193,87,65,3.7,I'm unhappy with this Electronics Product 65. It's not reliable for daily use.,2025-07-29
+194,109,8,4.0,This Clothing Product 8 is worth every penny. Excellent value for money.,2025-06-10
+195,22,52,3.4,This Toys Product 52 doesn't work as advertised. Disappointing quality.,2025-08-06
+196,36,142,3.7,Regret buying this Beauty Product 142. It's ineffective and harsh on skin.,2024-10-31
+197,74,58,3.0,I'm frustrated with this Beauty Product 58. It doesn't deliver on promises.,2024-10-22
+198,156,11,3.8,This Sports Product 11 is not suitable for serious athletes. Poor quality and design.,2025-01-17
+199,56,59,4.3,I'm so happy with this Electronics Product 59! The features are exactly what I needed.,2024-10-10
+200,99,24,4.3,I'm amazed by the comfort and quality of this Clothing Product 24.,2024-11-22

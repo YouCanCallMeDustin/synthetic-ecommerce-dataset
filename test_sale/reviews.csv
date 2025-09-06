@@ -1,0 +1,151 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,36043,29,3.7,"Good WH-1000XM4, works as expected. Nothing extraordinary but gets the job done.",2025-09-01
+2,91850,5,2.3,Would not recommend. The Galaxy Buds FE is cheaply made and doesn't last.,2025-01-04
+3,97856,8,5.0,Perfect fit and great quality! The Air Jordan 1 looks exactly like the picture.,2024-10-25
+4,91029,56,5.0,Amazing True Match Foundation! The quality is fantastic and it works exactly as described.,2025-02-01
+5,91641,6,3.8,Works well enough. The Galaxy S24 Ultra is functional but has some minor issues.,2025-08-04
+6,97856,35,1.1,Poor quality. The iPhone 15 Pro broke after just a few weeks of use.,2025-07-26
+7,82582,5,3.8,"Good Galaxy Buds FE, works as expected. Nothing extraordinary but gets the job done.",2025-04-12
+8,99309,19,5.0,Worth every penny. The MagSafe Charger is exactly what I needed and works flawlessly.,2025-02-14
+9,81423,39,3.2,Average Galaxy S24+. Not bad but not great either. Would consider other options next time.,2025-01-23
+10,59920,43,4.7,Absolutely love this Galaxy Tab S9 Ultra! The quality is outstanding and it works exactly as described.,2025-04-04
+11,61613,45,2.4,Disappointed with this iPhone 14. Quality is not what I expected for the price.,2025-05-27
+12,97571,51,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2024-11-10
+13,10312,63,3.5,Good quality but the NMD R1 is a bit overpriced for what you get.,2025-06-27
+14,93848,24,5.0,Absolutely love this DualSense Controller! The quality is outstanding and it works exactly as described.,2025-03-05
+15,37691,38,5.0,"Absolutely love this MacBook Pro 16""! The quality is outstanding and it works exactly as described.",2025-06-30
+16,62469,20,4.7,Love this Eyeshadow Primer Potion! Great pigmentation and long-lasting wear.,2024-10-02
+17,82614,50,4.1,"Good Beats Studio3, works as expected. Nothing extraordinary but gets the job done.",2024-09-10
+18,99349,57,4.2,Decent quality for the price. The Galaxy Book4 Pro is okay but could be better.,2025-04-20
+19,30708,24,4.5,Amazing product! Great value for money and the quality is top-notch.,2024-09-30
+20,86300,14,1.3,Disappointed with this Pulse 3D Headset. Quality is not what I expected for the price.,2024-09-09
+21,83358,42,5.0,Great Primeblue Hoodie! Fits perfectly and the material is soft and comfortable.,2024-12-14
+22,88748,11,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2024-11-26
+23,86515,22,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2024-09-19
+24,87223,35,4.1,Average iPhone 15 Pro. Not bad but not great either. Would consider other options next time.,2025-08-28
+25,34392,54,3.7,It's fine. Does what it's supposed to do but I've seen better in this price range.,2024-09-27
+26,1833,32,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-07-07
+27,91763,59,2.3,Not worth the money. The Alpha 7R V doesn't work as advertised.,2025-02-05
+28,92403,49,5.0,"Perfect! Fast shipping, great packaging, and the MacBook Air 15"" exceeded my expectations.",2025-03-19
+29,93848,18,4.5,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2024-12-24
+30,99782,41,3.4,It's fine. The Eyeshadow Palette does what it's supposed to do but nothing special.,2025-05-06
+31,87467,63,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2025-06-07
+32,55005,36,5.0,Perfect fit and great quality! The Pro Shorts looks exactly like the picture.,2025-03-17
+33,65099,26,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-06-28
+34,50294,60,5.0,"Perfect! Fast shipping, great packaging, and the iPad Pro 12.9"" exceeded my expectations.",2025-02-12
+35,86865,9,5.0,Excellent Prep + Prime Fix+! Great value for money and the results are outstanding.,2025-02-15
+36,59920,64,2.3,Terrible Studio Moisture Cream. The formula is bad and it doesn't last at all.,2025-06-03
+37,56500,20,5.0,Amazing Eyeshadow Primer Potion! The quality is fantastic and it works exactly as described.,2025-02-07
+38,10312,62,5.0,Worth every penny. The Tech 2.0 T-Shirt is exactly what I needed and works flawlessly.,2024-10-06
+39,82582,5,5.0,Amazing product! Great value for money and the quality is top-notch.,2025-05-10
+40,83358,11,2.2,"Poor quality. The iPad Pro 11"" broke after just a few weeks of use.",2025-03-31
+41,13146,6,5.0,Worth every penny. The Galaxy S24 Ultra is exactly what I needed and works flawlessly.,2025-03-31
+42,89606,43,5.0,Absolutely love this Galaxy Tab S9 Ultra! The quality is outstanding and it works exactly as described.,2025-05-01
+43,41252,34,3.7,Average Gym Bag. Nothing special but it serves its purpose.,2024-11-02
+44,98390,29,4.4,Works well enough. The WH-1000XM4 is functional but has some minor issues.,2024-12-20
+45,86865,65,3.9,Average Galaxy A54. Not bad but not great either. Would consider other options next time.,2024-10-06
+46,93746,38,4.9,"Absolutely love this MacBook Pro 16""! The quality is outstanding and it works exactly as described.",2025-01-02
+47,80869,19,4.3,Decent quality for the price. The MagSafe Charger is okay but could be better.,2024-10-04
+48,85094,62,4.1,Average Tech 2.0 T-Shirt. Not bad but not great either. Would consider other options next time.,2025-03-21
+49,80976,9,4.7,Amazing Prep + Prime Fix+! The quality is fantastic and it works exactly as described.,2025-08-27
+50,89482,44,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2024-11-21
+51,82614,32,4.5,It's fine. Does what it's supposed to do but I've seen better in this price range.,2025-07-14
+52,82848,55,5.0,Worth every penny. The iPhone 15 is exactly what I needed and works flawlessly.,2024-11-03
+53,7506,24,3.6,Average DualSense Controller. Not bad but not great either. Would consider other options next time.,2025-03-31
+54,50294,26,4.4,"Good iPhone 13, works as expected. Nothing extraordinary but gets the job done.",2025-01-08
+55,89105,28,3.7,"Good Organic Cotton Sheet Set, works as expected. Nothing extraordinary but gets the job done.",2025-02-02
+56,86515,14,5.0,"Perfect! Fast shipping, great packaging, and the Pulse 3D Headset exceeded my expectations.",2025-04-19
+57,83169,26,4.2,Average iPhone 13. Not bad but not great either. Would consider other options next time.,2025-05-08
+58,91641,41,5.0,Best Eyeshadow Palette I've tried! Highly recommend to anyone looking for quality beauty products.,2025-06-27
+59,92449,45,4.4,Decent quality for the price. The iPhone 14 is okay but could be better.,2025-07-25
+60,59920,39,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-05-14
+61,80976,16,3.1,It's fine. Does what it's supposed to do but I've seen better in this price range.,2025-05-26
+62,86865,19,4.4,Decent quality for the price. The MagSafe Charger is okay but could be better.,2025-05-11
+63,86515,50,4.4,Works well enough. The Beats Studio3 is functional but has some minor issues.,2024-09-29
+64,86865,23,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-01-02
+65,88667,41,5.0,Perfect! The Eyeshadow Palette exceeded my expectations and arrived quickly.,2025-06-02
+66,83070,63,2.7,Would not recommend. The NMD R1 is overpriced for such poor quality.,2025-02-20
+67,61613,64,4.4,Average Studio Moisture Cream. Not bad but not great either. Would consider other options.,2025-06-14
+68,65994,22,2.0,Terrible fit. The Swoosh Cap is way too small despite ordering the correct size.,2025-07-29
+69,87467,5,3.5,Decent quality for the price. The Galaxy Buds FE is okay but could be better.,2024-12-05
+70,80212,59,5.0,Worth every penny. The Alpha 7R V is exactly what I needed and works flawlessly.,2024-09-26
+71,98089,15,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-12-07
+72,31215,6,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2024-10-07
+73,83648,14,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-08-29
+74,87223,5,4.3,"Good Galaxy Buds FE, works as expected. Nothing extraordinary but gets the job done.",2025-02-19
+75,93825,16,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-10-19
+76,86865,45,5.0,Worth every penny. The iPhone 14 is exactly what I needed and works flawlessly.,2025-02-27
+77,13146,18,5.0,Absolutely love this iPad mini! The quality is outstanding and it works exactly as described.,2025-04-29
+78,65099,45,4.5,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-04-28
+79,83169,38,3.2,"Works well enough. The MacBook Pro 16"" is functional but has some minor issues.",2024-09-25
+80,59920,13,2.7,Not worth the money. The Alpha 7 IV doesn't work as advertised.,2025-01-02
+81,91149,36,5.0,"Love this Pro Shorts! Comfortable, stylish, and true to size.",2025-05-20
+82,36043,19,5.0,Worth every penny. The MagSafe Charger is exactly what I needed and works flawlessly.,2025-06-19
+83,65994,19,5.0,Worth every penny. The MagSafe Charger is exactly what I needed and works flawlessly.,2025-05-17
+84,55005,58,2.7,Disappointed with this AirPods Pro (2nd gen). Quality is not what I expected for the price.,2025-06-18
+85,96559,36,5.0,Great Pro Shorts! Fits perfectly and the material is soft and comfortable.,2024-11-11
+86,65994,42,5.0,Perfect fit and great quality! The Primeblue Hoodie looks exactly like the picture.,2024-10-20
+87,80869,59,5.0,Absolutely love this Alpha 7R V! The quality is outstanding and it works exactly as described.,2024-09-08
+88,87628,51,3.4,Decent Hoodie. The material is okay but not as soft as I expected.,2025-06-05
+89,91029,35,4.3,Works well enough. The iPhone 15 Pro is functional but has some minor issues.,2024-10-27
+90,86515,17,5.0,Perfect! The Lightful C Marine-Bright exceeded my expectations and arrived quickly.,2025-06-03
+91,1052,7,1.6,Waste of money. The Tiro Pants is poorly made and uncomfortable.,2024-09-08
+92,89482,16,5.0,Worth every penny. The WF-1000XM5 is exactly what I needed and works flawlessly.,2024-11-06
+93,83039,55,3.6,Decent quality for the price. The iPhone 15 is okay but could be better.,2025-03-15
+94,91850,39,3.8,It's fine. Does what it's supposed to do but I've seen better in this price range.,2025-01-16
+95,30708,47,3.3,Decent quality for the price. The AirPods Max is okay but could be better.,2025-03-26
+96,91954,51,5.0,"Love this Hoodie! Comfortable, stylish, and true to size.",2025-03-23
+97,83648,12,5.0,Worth every penny. The Monopoly Classic is exactly what I needed and works flawlessly.,2025-07-05
+98,81423,17,5.0,Excellent Lightful C Marine-Bright! Great value for money and the results are outstanding.,2025-07-20
+99,83070,2,5.0,Great Water Bottle! Fits perfectly and the material is soft and comfortable.,2025-06-10
+100,86865,17,4.2,Good Lightful C Marine-Bright. Works well but the packaging could be better.,2024-12-13
+101,80869,14,2.3,Poor quality. The Pulse 3D Headset broke after just a few weeks of use.,2024-11-07
+102,95054,49,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-01-26
+103,84090,19,2.5,Would not recommend. The MagSafe Charger is cheaply made and doesn't last.,2024-10-23
+104,91850,22,4.7,"Love this Swoosh Cap! Comfortable, stylish, and true to size.",2025-06-22
+105,86300,57,5.0,Absolutely love this Galaxy Book4 Pro! The quality is outstanding and it works exactly as described.,2025-07-04
+106,95054,16,5.0,Worth every penny. The WF-1000XM5 is exactly what I needed and works flawlessly.,2025-08-09
+107,80976,18,3.6,Decent quality for the price. The iPad mini is okay but could be better.,2024-12-17
+108,98089,37,5.0,"Perfect! Fast shipping, great packaging, and the Creator 3-in-1 Set exceeded my expectations.",2025-06-15
+109,99309,25,5.0,Perfect fit and great quality! The Gazelle looks exactly like the picture.,2025-08-14
+110,88024,64,4.2,Works okay. The Studio Moisture Cream is functional but has some minor issues.,2024-10-19
+111,81423,2,5.0,"Love this Water Bottle! Comfortable, stylish, and true to size.",2025-06-30
+112,88748,54,4.6,"Worth every penny. The MacBook Pro 14"" is exactly what I needed and works flawlessly.",2025-08-19
+113,37691,10,1.1,Cheap material. The Windbreaker doesn't look anything like the picture.,2024-09-15
+114,89115,6,5.0,Worth every penny. The Galaxy S24 Ultra is exactly what I needed and works flawlessly.,2025-01-12
+115,61613,37,5.0,Worth every penny. The Creator 3-in-1 Set is exactly what I needed and works flawlessly.,2025-07-14
+116,83648,52,2.5,Would not recommend. The BILLY Bookcase is cheaply made and doesn't last.,2025-02-17
+117,83349,36,2.1,Terrible fit. The Pro Shorts is way too small despite ordering the correct size.,2024-12-18
+118,83349,42,4.6,Perfect fit and great quality! The Primeblue Hoodie looks exactly like the picture.,2025-03-26
+119,99349,56,5.0,Amazing True Match Foundation! The quality is fantastic and it works exactly as described.,2024-09-28
+120,36043,12,5.0,Amazing product! Great value for money and the quality is top-notch.,2024-12-15
+121,81041,8,4.7,"Love this Air Jordan 1! Comfortable, stylish, and true to size.",2025-06-07
+122,18586,2,5.0,"Love this Water Bottle! Comfortable, stylish, and true to size.",2025-04-15
+123,91029,45,4.7,"Perfect! Fast shipping, great packaging, and the iPhone 14 exceeded my expectations.",2025-05-05
+124,13146,48,2.7,Poor quality. The Denali Fleece Jacket broke after just a few weeks of use.,2024-10-03
+125,80869,16,5.0,Worth every penny. The WF-1000XM5 is exactly what I needed and works flawlessly.,2025-03-15
+126,62469,9,3.9,Good Prep + Prime Fix+. Works well but the packaging could be better.,2025-02-27
+127,91029,59,4.0,Works well enough. The Alpha 7R V is functional but has some minor issues.,2025-03-21
+128,13146,48,3.7,Works well enough. The Denali Fleece Jacket is functional but has some minor issues.,2025-01-21
+129,59920,15,3.5,"Good WF-1000XM4, works as expected. Nothing extraordinary but gets the job done.",2024-09-25
+130,83070,32,1.3,Had issues with this iPad from day one. Customer service was not helpful.,2025-03-17
+131,94719,5,5.0,Worth every penny. The Galaxy Buds FE is exactly what I needed and works flawlessly.,2025-08-03
+132,89108,42,3.8,It's fine. The Primeblue Hoodie fits okay but the color is slightly different than pictured.,2025-04-12
+133,62469,10,5.0,Perfect fit and great quality! The Windbreaker looks exactly like the picture.,2024-11-07
+134,94719,29,5.0,Worth every penny. The WH-1000XM4 is exactly what I needed and works flawlessly.,2025-01-24
+135,98918,60,5.0,"Perfect! Fast shipping, great packaging, and the iPad Pro 12.9"" exceeded my expectations.",2024-11-04
+136,83169,12,5.0,Best toys purchase I've made in years. Highly recommend to anyone looking for quality.,2024-12-12
+137,87467,39,5.0,"Perfect! Fast shipping, great packaging, and the Galaxy S24+ exceeded my expectations.",2025-07-01
+138,87164,64,5.0,Best Studio Moisture Cream I've tried! Highly recommend to anyone looking for quality beauty products.,2024-10-13
+139,94857,32,3.8,"Good iPad, works as expected. Nothing extraordinary but gets the job done.",2025-08-17
+140,81501,45,5.0,Absolutely love this iPhone 14! The quality is outstanding and it works exactly as described.,2025-04-14
+141,92403,1,5.0,Excellent quality fabric and construction. Very happy with this purchase.,2025-05-23
+142,93746,27,4.2,Good quality but the Dri-FIT T-Shirt is a bit overpriced for what you get.,2025-06-11
+143,91149,19,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2024-10-18
+144,85094,53,5.0,Absolutely love this Galaxy Tab A8! The quality is outstanding and it works exactly as described.,2024-12-01
+145,98390,13,4.6,Worth every penny. The Alpha 7 IV is exactly what I needed and works flawlessly.,2025-06-18
+146,81423,8,4.9,"Love this Air Jordan 1! Comfortable, stylish, and true to size.",2025-03-20
+147,87467,34,5.0,Great Gym Bag! Fits perfectly and the material is soft and comfortable.,2024-09-04
+148,64796,42,4.2,Nice Primeblue Hoodie but the sizing runs a bit small. Good quality overall.,2024-09-21
+149,91763,18,5.0,Best electronics purchase I've made in years. Highly recommend to anyone looking for quality.,2025-08-03
+150,93746,22,4.3,Nice Swoosh Cap but the sizing runs a bit small. Good quality overall.,2025-08-05

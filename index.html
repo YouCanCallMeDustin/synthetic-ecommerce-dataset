@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SynthaData | Premium Synthetic E-commerce Datasets</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary-black: #1a1a1a;
+            --primary-red: #dc2626;
+            --light-beige: #faf9f7;
+            --soft-white: #ffffff;
+            --gray-100: #f3f4f6;
+            --gray-200: #e5e7eb;
+            --gray-600: #4b5563;
+            --gray-800: #1f2937;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.6;
+            color: var(--primary-black);
+            background: var(--light-beige);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+        
+        /* Header Styles */
+        header {
+            background: var(--soft-white);
+            padding: 1.5rem 0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .logo-icon {
+            width: 48px;
+            height: 48px;
+            object-fit: contain;
+        }
+        
+        .logo-text {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: var(--primary-black);
+        }
+        
+        .logo-text .red-text {
+            color: var(--primary-red);
+        }
+        
+        .cta-button {
+            background: var(--primary-red);
+            color: var(--soft-white);
+            padding: 12px 28px;
+            border: none;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(220, 38, 38, 0.2);
+        }
+        
+        .cta-button:hover {
+            background: #b91c1c;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(220, 38, 38, 0.3);
+        }
+        
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            padding: 6rem 0;
+            background: linear-gradient(135deg, var(--light-beige) 0%, #f0f0f0 100%);
+        }
+        
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--primary-black);
+            line-height: 1.2;
+        }
+        
+        .hero p {
+            font-size: 1.25rem;
+            margin-bottom: 2.5rem;
+            color: var(--gray-600);
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .hero .cta-button {
+            font-size: 1.1rem;
+            padding: 16px 32px;
+        }
+        
+        /* Features Section */
+        .features {
+            background: var(--soft-white);
+            padding: 6rem 0;
+        }
+        
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--primary-black);
+            margin-bottom: 1rem;
+        }
+        
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.1rem;
+            color: var(--gray-600);
+            margin-bottom: 4rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        
+        .feature-card {
+            background: var(--soft-white);
+            padding: 2.5rem;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border: 1px solid var(--gray-200);
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1.5rem;
+            display: block;
+        }
+        
+        .feature-card h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--primary-black);
+            margin-bottom: 1rem;
+        }
+        
+        .feature-card p {
+            color: var(--gray-600);
+            line-height: 1.6;
+        }
+        
+        /* Pricing Section */
+        .pricing {
+            background: var(--gray-100);
+            padding: 6rem 0;
+        }
+        
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        
+        .pricing-card {
+            background: var(--soft-white);
+            padding: 2.5rem;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border: 1px solid var(--gray-200);
+            position: relative;
+            transition: all 0.3s ease;
+        }
+        
+        .pricing-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+        
+        .pricing-card.featured {
+            border: 2px solid var(--primary-red);
+            transform: scale(1.02);
+        }
+        
+        .pricing-card.featured::before {
+            content: "MOST POPULAR";
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--primary-red);
+            color: var(--soft-white);
+            padding: 6px 24px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        
+        .pricing-card h3 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--primary-black);
+            margin-bottom: 1rem;
+        }
+        
+        .price {
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--primary-red);
+            margin: 1.5rem 0;
+        }
+        
+        .price-period {
+            font-size: 1rem;
+            color: var(--gray-600);
+            font-weight: 400;
+        }
+        
+        .pricing-features {
+            list-style: none;
+            padding: 0;
+            margin: 2rem 0;
+        }
+        
+        .pricing-features li {
+            padding: 0.5rem 0;
+            color: var(--gray-600);
+            font-size: 0.95rem;
+        }
+        
+        .pricing-features li::before {
+            content: "✓";
+            color: var(--primary-red);
+            font-weight: bold;
+            margin-right: 0.5rem;
+        }
+        
+        /* Sample Data Section */
+        .sample-data {
+            background: var(--soft-white);
+            padding: 6rem 0;
+        }
+        
+        .data-preview {
+            background: var(--gray-100);
+            padding: 2rem;
+            border-radius: 12px;
+            margin: 2rem 0;
+            overflow-x: auto;
+            border: 1px solid var(--gray-200);
+        }
+        
+        .data-preview h3 {
+            color: var(--primary-black);
+            margin-bottom: 1.5rem;
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            background: var(--soft-white);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid var(--gray-200);
+        }
+        
+        th {
+            background: var(--primary-red);
+            color: var(--soft-white);
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+        
+        td {
+            color: var(--gray-800);
+            font-size: 0.9rem;
+        }
+        
+        tr:hover {
+            background: var(--gray-100);
+        }
+        
+        /* Testimonial Section */
+        .testimonial {
+            background: var(--primary-black);
+            color: var(--soft-white);
+            padding: 6rem 0;
+            text-align: center;
+        }
+        
+        .testimonial h2 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 3rem;
+        }
+        
+        .testimonial blockquote {
+            font-size: 1.25rem;
+            font-style: italic;
+            margin: 2rem 0;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.6;
+        }
+        
+        .testimonial-author {
+            font-weight: 600;
+            color: var(--primary-red);
+            margin-top: 1rem;
+        }
+        
+        /* Footer */
+        footer {
+            background: var(--primary-black);
+            color: var(--soft-white);
+            padding: 3rem 0;
+            text-align: center;
+        }
+        
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .footer-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        
+        .footer-logo .red-text {
+            color: var(--primary-red);
+        }
+        
+        .footer-info {
+            color: var(--gray-200);
+            font-size: 0.9rem;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .pricing-card.featured {
+                transform: none;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .container {
+                padding: 0 16px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .hero {
+                padding: 4rem 0;
+            }
+            
+            .hero h1 {
+                font-size: 2rem;
+            }
+            
+            .features, .pricing, .sample-data, .testimonial {
+                padding: 4rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-container">
+                    <img src="img/logo.png" alt="SynthaData Logo" class="logo-icon">
+                    <div class="logo-text">Syntha<span class="red-text">Data</span></div>
+                </div>
+                <a href="#pricing" class="cta-button">Get Started</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Premium Synthetic E-commerce Datasets</h1>
+            <p>Realistic data that looks like real business. Perfect for testing, demos, and machine learning applications.</p>
+            <a href="#pricing" class="cta-button">View Packages</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Why Our Datasets Are Different</h2>
+            <p class="section-subtitle">Built with enterprise-grade quality and attention to detail</p>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🏷️</div>
+                    <h3>Real Brand Names</h3>
+                    <p>iPhone 15 Pro, Galaxy S24 Ultra, Air Jordan 1, MAC Prep + Prime. Real products from real brands that your users will recognize.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💬</div>
+                    <h3>Human-Like Reviews</h3>
+                    <p>"Perfect fit and great quality! The Air Jordan 1 looks exactly like the picture." Natural, realistic review text that feels authentic.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">👥</div>
+                    <h3>Realistic Users</h3>
+                    <p>Professional emails, real phone formats, geographic distribution, and membership tiers that mirror real customer behavior patterns.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Business Logic</h3>
+                    <p>Order status progression, seasonal patterns, customer loyalty programs, and cross-selling relationships that make sense.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔒</div>
+                    <h3>Privacy Compliant</h3>
+                    <p>100% synthetic data that's GDPR compliant and privacy-safe. No real customer information, perfect for demos and testing.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Ready to Use</h3>
+                    <p>Clean, structured CSV data with proper formatting. No preprocessing needed - just download and start building your applications.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pricing" id="pricing">
+        <div class="container">
+            <h2 class="section-title">Choose Your Package</h2>
+            <p class="section-subtitle">Select the perfect dataset size for your project needs</p>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3>Small Dataset</h3>
+                    <div class="price">$99<span class="price-period">/one-time</span></div>
+                    <ul class="pricing-features">
+                        <li>100 Users</li>
+                        <li>65 Products</li>
+                        <li>200 Orders</li>
+                        <li>150 Reviews</li>
+                        <li>Perfect for Testing</li>
+                        <li>CSV format included</li>
+                    </ul>
+                    <a href="https://thinkbuild.gumroad.com/l/SmallSynthaDataPack" class="cta-button" target="_blank" rel="noopener noreferrer">Buy Now</a>
+                </div>
+                <div class="pricing-card featured">
+                    <h3>Medium Dataset</h3>
+                    <div class="price">$299<span class="price-period">/one-time</span></div>
+                    <ul class="pricing-features">
+                        <li>1,000 Users</li>
+                        <li>500 Products</li>
+                        <li>2,000 Orders</li>
+                        <li>1,500 Reviews</li>
+                        <li>Perfect for BI & ML</li>
+                        <li>All formats included</li>
+                    </ul>
+                    <a href="https://thinkbuild.gumroad.com/MediumSynthaDataPack" class="cta-button" target="_blank" rel="noopener noreferrer">Buy Now</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Large Dataset</h3>
+                    <div class="price">$799<span class="price-period">/one-time</span></div>
+                    <ul class="pricing-features">
+                        <li>5,000 Users</li>
+                        <li>2,000 Products</li>
+                        <li>10,000 Orders</li>
+                        <li>8,000 Reviews</li>
+                        <li>Perfect for Enterprise</li>
+                        <li>Priority support</li>
+                    </ul>
+                    <a href="https://thinkbuild.gumroad.com/LargeSynthaDataPack" class="cta-button" target="_blank" rel="noopener noreferrer">Buy Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sample-data">
+        <div class="container">
+            <h2 class="section-title">Sample Data Preview</h2>
+            <p class="section-subtitle">See the quality and structure of our datasets</p>
+            <div class="data-preview">
+                <h3>Products Table</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Product ID</th>
+                            <th>Name</th>
+                            <th>Brand</th>
+                            <th>Category</th>
+                            <th>Price</th>
+                            <th>Rating</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Leggings</td>
+                            <td>Nike</td>
+                            <td>Clothing</td>
+                            <td>$68.99</td>
+                            <td>5.0</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Galaxy Buds FE</td>
+                            <td>Samsung</td>
+                            <td>Electronics</td>
+                            <td>$143.49</td>
+                            <td>5.0</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Prep + Prime Skin</td>
+                            <td>MAC</td>
+                            <td>Beauty</td>
+                            <td>$121.00</td>
+                            <td>5.0</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Air Jordan 1</td>
+                            <td>Nike</td>
+                            <td>Clothing</td>
+                            <td>$248.99</td>
+                            <td>5.0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="data-preview">
+                <h3>Reviews Table</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Review ID</th>
+                            <th>User ID</th>
+                            <th>Product ID</th>
+                            <th>Rating</th>
+                            <th>Review Text</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>36043</td>
+                            <td>29</td>
+                            <td>3.7</td>
+                            <td>"Good WH-1000XM4, works as expected. Nothing extraordinary but gets the job done."</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>97856</td>
+                            <td>8</td>
+                            <td>5.0</td>
+                            <td>"Perfect fit and great quality! The Air Jordan 1 looks exactly like the picture."</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>91029</td>
+                            <td>56</td>
+                            <td>5.0</td>
+                            <td>"Amazing True Match Foundation! The quality is fantastic and it works exactly as described."</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonial">
+        <div class="container">
+            <h2>What Our Customers Say</h2>
+            <blockquote>
+                "This dataset is incredible! The quality is so realistic that our investors thought we were showing real customer data. Perfect for our e-commerce startup demo."
+            </blockquote>
+            <p class="testimonial-author">- Sarah Chen, CTO at TechStart</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">Syntha<span class="red-text">Data</span></div>
+                <div class="footer-info">
+                    <p>&copy; 2024 SynthaData. All rights reserved.</p>
+                    <p>📧 support@synthadata.com | 🔒 100% Synthetic & GDPR Compliant</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+

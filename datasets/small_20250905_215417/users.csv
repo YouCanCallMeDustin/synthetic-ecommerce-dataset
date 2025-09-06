@@ -1,0 +1,101 @@
+user_id,name,email,phone,address,signup_date,membership_status,loyalty_points
+1,Danielle Johnson,daniellejohnson@aol.com,533-521-8196x001,"386 Shane Harbors, Port Lindachester, MA 36922",2024-01-03,Bronze,839
+2,Jason Gallagher,jason.gallagher76@icloud.com,916-315-5940,"Unit 6184 Box 9593, DPO AP 09617",2023-10-10,Bronze,767
+3,Donna Mejia,donnamejia@icloud.com,731-564-7525,"283 Steven Groves, Lake Mark, WI 07832",2024-02-29,Silver,13928
+4,Lydia Trujillo,lydia.trujillo@outlook.com,(541)639-5376x7242,"653 William Course Apt. 122, Carlsonfurt, MS 78605",2024-09-02,Silver,7615
+5,Allison Maddox,allisonmaddox@hotmail.com,9182451462,"USNV Stanton, FPO AE 67043",2025-08-13,Platinum,41029
+6,Daniel Garrett,daniel13@outlook.com,+1-289-332-5288x0957,"USNV Allen, FPO AE 74865",2023-11-05,Silver,5711
+7,Christopher Tucker,christopher.tucker@icloud.com,882-527-8248,"USNS Marquez, FPO AA 88540",2025-01-21,Silver,10925
+8,Nathaniel Lam,nathaniellam@aol.com,213.331.5098x393,"10518 Joshua Oval, New David, FM 75348",2024-11-25,Silver,6307
+9,Thomas Mueller,thomas.mueller36@gmail.com,(331)516-5667x01065,"62473 Scott Wall Apt. 080, Port Melindaburgh, MT 64154",2024-09-12,Silver,10977
+10,Jason Morales,jason27@hotmail.com,9264064746,"98050 Breanna Parkway, North Susan, CO 24857",2023-10-28,Silver,6169
+11,Brooke Leonard,brookeleonard@yahoo.com,361.893.9909,"3534 Anderson Rue Suite 751, South Christineshire, CT 10103",2024-10-26,Bronze,3108
+12,Jason Baker,jasonbaker@aol.com,(613)354-2784x980,"USNS Baker, FPO AE 97811",2024-11-07,Silver,5916
+13,Eric Campbell,eric41@gmail.com,853.648.7401,"42786 Daniel Spurs Apt. 805, South David, ME 48296",2025-08-03,Bronze,4646
+14,Sarah Stanton,sarah.stanton84@hotmail.com,4535315869,"0256 Joseph Turnpike, South Monicafort, IN 26659",2025-05-31,Bronze,3758
+15,Samantha Bailey,samantha32@yahoo.com,730.836.5414,"14294 Daniel Mews Suite 569, South Rachelborough, KS 06318",2025-03-08,Silver,12019
+16,Ryan Meyer,ryanmeyer@outlook.com,+1-635-661-5951,"4823 Ortega Light Apt. 994, Kelleytown, ME 38107",2024-02-15,Silver,6489
+17,Russell Carpenter,russellcarpenter@gmail.com,+1-757-377-3872x1489,"433 Andrew Gardens, Carrland, NH 54822",2025-07-24,Silver,11916
+18,Crystal Lee,crystal.lee77@outlook.com,001-967-263-2016x328,"2788 Dodson Mills, Rivasside, NV 21362",2025-04-04,Silver,14064
+19,Michelle Cole,michelle.cole@gmail.com,001-334-487-3471x43455,"231 Russell Plains Suite 603, Priceshire, UT 03061",2025-07-01,Silver,13797
+20,Nicole Johnston,nicole44@aol.com,805.946.6889x3734,"627 Tina Place Apt. 699, North Dawnberg, VI 61016",2024-01-24,Bronze,3716
+21,Brent Gray,brentgray@aol.com,975.256.4641,"3100 James Brooks, East David, TN 15494",2024-11-16,Silver,6743
+22,Stacie Marshall,staciemarshall@hotmail.com,852-899-1241x904,"USNS Jones, FPO AP 82714",2024-03-11,Bronze,1323
+23,Curtis Barton,curtis1@icloud.com,+1-991-390-5865x18506,"726 Jessica Run Suite 987, Grahamshire, KY 42746",2025-06-27,Bronze,916
+24,John Michael,johnmichael@hotmail.com,973-579-9650x752,"4948 Zachary Field Apt. 367, Lake Thomas, VT 64833",2024-08-18,Gold,16290
+25,Laura Davis,lauradavis@outlook.com,763.849.5788,"Unit 8557 Box 4443, DPO AE 95041",2024-02-01,Bronze,3893
+26,Leslie Newton,leslie.newton68@yahoo.com,001-723-437-4989x41343,"0084 Dana Terrace, Garciatown, OK 37769",2024-09-03,Platinum,47671
+27,Timothy Peterson,timothy26@aol.com,2474116719,"31869 Kimberly Light Suite 749, Torreston, RI 97505",2023-11-21,Bronze,3059
+28,Stacey Clark,staceyclark@icloud.com,241.823.2812,"0344 Jones Fort Suite 936, New Jeffreyberg, PW 35317",2025-06-08,Bronze,2769
+29,Douglas Brown,douglasbrown@icloud.com,999-347-1746x4887,"594 Christopher Spring Apt. 490, South April, NV 36959",2024-01-23,Bronze,482
+30,Wendy Graham,wendygraham@gmail.com,817.256.5512x5674,"5168 Diane Plains Suite 603, Cindyfort, SC 58440",2025-04-17,Bronze,3976
+31,Brett Adams,brett.adams74@yahoo.com,(647)271-0932,"17127 Hicks Groves, Davenportfort, IA 60372",2024-11-06,Bronze,3874
+32,Duane Lee,duane.lee13@yahoo.com,+1-982-414-6584x044,"5886 Cantu Ways Apt. 396, Port Kimberly, AZ 42205",2025-04-05,Bronze,3367
+33,Thomas Mcintyre,thomas.mcintyre@aol.com,(962)270-2895x1718,"217 Morgan Square Suite 158, Finleyfort, VI 71413",2023-10-02,Bronze,2779
+34,Christina Young,christinayoung@gmail.com,+1-643-716-1172x40050,"86922 Christian Ways, Harveybury, NM 76936",2023-12-25,Silver,7296
+35,Jesse Little,jesse.little@hotmail.com,840.674.8217x594,"67136 Andrews Squares Suite 064, New Michelleton, PW 79983",2025-04-05,Bronze,4508
+36,Tyler Strong,tyler.strong@aol.com,239-753-3942x1047,"5623 Kristin Wells, Alyssaview, MP 22068",2024-03-22,Gold,28905
+37,Robin Raymond,robinraymond@outlook.com,651-371-2368x5160,"651 Thomas River Suite 931, Blankenshipport, SD 54017",2023-12-04,Gold,29785
+38,Donald Shah,donald1@outlook.com,471-813-8267x5869,"640 Robinson Mills Apt. 515, Bruceview, ID 16512",2025-06-24,Gold,27863
+39,Madison Davis,madison.davis94@outlook.com,390.505.3293,"2904 Vanessa Plains, Laurenville, TN 03880",2023-12-16,Bronze,2430
+40,Alexis Tyler,alexis.tyler@gmail.com,395.302.4026,"917 Sonia Cape Suite 700, Boonechester, TX 14651",2024-09-19,Silver,5936
+41,Jennifer Wallace,jenniferwallace@outlook.com,759-821-2499,"Unit 8478 Box 9611, DPO AP 85817",2025-07-17,Bronze,4160
+42,Kayla Le,kayla.le@yahoo.com,367.736.5766,"2711 Christopher Court Suite 280, Elizabethchester, MI 87708",2025-09-04,Silver,8853
+43,Karen Parrish,karen.parrish@icloud.com,001-304-794-5198x3273,"49368 Chelsea Shoals Suite 024, Sandrastad, AL 24278",2025-07-11,Silver,11868
+44,Douglas Sandoval,douglas67@icloud.com,720-418-3667,"910 Eric River Apt. 147, Tuckermouth, MT 36305",2024-02-19,Bronze,2573
+45,Kari Wilson,kari17@outlook.com,(614)597-8403x69003,"5107 Thompson Light Apt. 885, South Michelleton, NE 02957",2024-08-27,Bronze,594
+46,Samantha Atkins,samantha.atkins@icloud.com,001-769-466-4160,"516 John Radial Suite 816, Juliebury, MA 22538",2023-11-03,Silver,13288
+47,William Wilson,william9@hotmail.com,435.952.3124x32921,"995 Hernandez Cliff Suite 744, West Williamport, NH 59734",2023-10-04,Bronze,3589
+48,Brian Decker,brian.decker@aol.com,219-998-6798,"PSC 9359, Box 7820, APO AA 14067",2025-05-26,Silver,14086
+49,Rachel Cooper,rachel14@aol.com,001-718-720-3778x892,"PSC 6659, Box 0515, APO AE 73634",2025-02-12,Bronze,876
+50,Paul King,paulking@yahoo.com,+1-892-751-9254x62914,"685 Michael Falls, West Stacey, NM 25667",2024-02-27,Silver,8335
+51,Zoe Moore,zoe65@hotmail.com,418-488-0592x9622,"5379 Goodwin Tunnel, Youngbury, ME 61975",2025-08-07,Gold,28862
+52,Mary Richardson,mary.richardson@aol.com,001-577-446-8862,"758 Jennifer Path, West Christopherburgh, KY 59394",2025-08-08,Bronze,1071
+53,William Guerra,william.guerra95@hotmail.com,737-550-6068,"3051 Moody Dam, West Samanthafort, UT 18692",2025-04-16,Silver,12007
+54,Janice West,janicewest@gmail.com,8103432898,"1036 Brown Villages, Carlsontown, SC 68052",2024-11-24,Silver,11049
+55,John Thomas,john.thomas@yahoo.com,(209)853-9621x85188,"654 Michael Cliff, Johnville, WI 76772",2025-03-29,Bronze,326
+56,Katherine Anderson,katherine.anderson@yahoo.com,(585)227-7221x704,"4868 King Terrace, West Michael, WI 06766",2025-07-08,Bronze,4586
+57,Diana Nelson,diananelson@outlook.com,(366)876-5277x584,"451 Mark Hill, Seanchester, GA 90909",2024-08-14,Gold,18878
+58,Michael Williams,michaelwilliams@yahoo.com,(996)240-1658x202,"556 Cassie Springs, Rushstad, NV 10578",2024-11-23,Silver,10442
+59,Devin Richardson,devinrichardson@outlook.com,543-610-2786x81447,"12172 Osborn Valleys Suite 518, Patriciaburgh, VT 93504",2025-08-25,Bronze,885
+60,Isabella Thompson,isabellathompson@gmail.com,(783)913-2370x589,"114 Key Stravenue, Foxchester, GU 75854",2023-11-01,Gold,22541
+61,David Stewart,davidstewart@yahoo.com,477-885-2892,"82422 Donovan Fork, Staceyhaven, MH 37731",2025-06-23,Bronze,2282
+62,Christian Gonzalez,christian.gonzalez83@hotmail.com,+1-442-449-8182,"001 Stacy Trail Suite 396, South Pamelaside, LA 84637",2024-04-26,Silver,13785
+63,Timothy Ballard,timothyballard@gmail.com,+1-464-771-0276x77359,"562 Robertson Coves Suite 371, Shannonberg, CT 07133",2024-04-17,Silver,9349
+64,Sonia Lin,sonia56@icloud.com,(232)359-5327x87747,"USCGC Levy, FPO AE 76961",2024-06-05,Bronze,4189
+65,Brandon Campbell,brandon.campbell@icloud.com,+1-274-880-1624x565,"8416 Duran Harbors, East Theresafurt, MN 44945",2024-11-11,Silver,5027
+66,Sheila Fischer,sheilafischer@icloud.com,798.968.0002,"825 Martin Ridges, Brittneyhaven, MP 67310",2024-10-22,Bronze,573
+67,Tracy Hart,tracy.hart@hotmail.com,505.251.6940x9749,"962 Anthony Squares, East Andrewmouth, MT 20349",2024-07-21,Silver,9920
+68,Hannah Jenkins,hannah.jenkins42@aol.com,001-997-702-8385x78652,"733 Grant Fork Suite 437, Timothyside, WY 95090",2024-04-04,Silver,14083
+69,Keith Berry,keithberry@outlook.com,+1-766-952-4041,"38484 Daniel Streets Apt. 308, Lake Jesse, CT 54673",2024-05-18,Silver,9930
+70,Jennifer Garcia,jennifergarcia@gmail.com,001-520-282-6773x45401,"PSC 2620, Box 6724, APO AE 01715",2024-04-23,Bronze,4751
+71,Ashley Rodriguez,ashley.rodriguez57@hotmail.com,947-688-7287x43152,"549 Gregory Walks, Wilcoxhaven, MD 11869",2024-07-12,Silver,13375
+72,Elizabeth Lopez,elizabeth.lopez@aol.com,(675)730-4637,"5301 Parker Lodge, Hannahport, MN 81061",2024-02-23,Bronze,2745
+73,Jeffrey Anderson,jeffreyanderson@yahoo.com,(579)356-8783,"91088 Ashley Drive Apt. 587, Lake Jamieshire, NM 12420",2025-08-03,Gold,17414
+74,William Stokes,william.stokes@yahoo.com,628.267.9087x406,"65180 Valerie Mountains, West Robertberg, WI 84586",2025-03-24,Bronze,4715
+75,Debbie Fisher,debbie.fisher64@aol.com,(476)561-8251x2868,"7868 Morrow Gateway, Reedview, ID 95531",2025-04-21,Bronze,45
+76,Daniel Pacheco,danielpacheco@gmail.com,(890)933-1190x79030,"28439 Ray Trail, Joelberg, TN 68822",2024-02-23,Gold,26401
+77,Robert Hill,robert.hill@gmail.com,+1-792-868-7056,"2873 Kevin Station Apt. 708, Faulknerside, NC 18076",2024-07-02,Bronze,3806
+78,John Harris,john.harris41@icloud.com,+1-317-551-8304x6990,"3540 Sharon Streets, Lake Yvonnefort, PW 32298",2025-02-26,Silver,13270
+79,Cassandra Harris,cassandra.harris21@icloud.com,685.746.7854,"1753 Edwards Cape Apt. 204, Phillipsborough, MA 30650",2024-06-26,Bronze,2025
+80,Ashley Sanchez,ashley.sanchez67@hotmail.com,+1-454-977-7252,"010 Robert Ville, North Jasmine, AL 29169",2024-10-01,Silver,9499
+81,Stephen Brown,stephen37@aol.com,+1-697-270-0886x0084,"11823 Christine Glen Suite 461, Susanmouth, OK 32378",2025-02-27,Bronze,4424
+82,Jeremiah Sutton,jeremiahsutton@yahoo.com,201-466-6870,"591 Jerry Ways Suite 401, Rachelshire, TN 04813",2024-01-22,Silver,6052
+83,Sarah Edwards,sarah.edwards60@hotmail.com,892.761.4293,"185 Connor Fort, West Cassiefurt, WI 43279",2023-09-28,Bronze,3441
+84,Cynthia Bowers,cynthia.bowers3@icloud.com,673.558.6629x619,"2626 Ward Course, West Seanview, CT 17868",2023-11-11,Bronze,2881
+85,Jacob Cole,jacobcole@outlook.com,+1-786-810-1581,"1839 Gina Extension Apt. 444, Thomasburgh, NE 36671",2024-07-28,Bronze,2235
+86,Kevin Patton,kevin.patton44@gmail.com,(843)779-9371x240,"7569 Kevin Rapids Apt. 752, Novakport, WA 91590",2025-01-08,Silver,12657
+87,Travis Johnston,travis.johnston4@icloud.com,456.246.5193,"USCGC Hahn, FPO AE 57970",2025-05-16,Silver,5444
+88,Kelly Schwartz,kellyschwartz@outlook.com,(872)843-4266x17979,"891 Kayla Shoals Suite 290, Rasmussenmouth, WY 56921",2023-11-26,Bronze,3105
+89,Alex Green,alex.green44@outlook.com,288.999.3756x79825,"12545 Mueller Pike Suite 571, Bowenmouth, MD 09305",2024-04-25,Bronze,3453
+90,Bradley Page,bradley.page@gmail.com,7518238282,"USNS Salinas, FPO AP 24677",2024-01-27,Platinum,41467
+91,Danielle Reynolds,danielle.reynolds@gmail.com,5936796603,"182 Nguyen Mount, West Emilyfort, NC 84270",2024-05-05,Gold,18266
+92,Candice Carr,candicecarr@icloud.com,001-315-457-9249,"1252 Barnes Dam, Hendersonfort, SC 70936",2025-02-24,Bronze,937
+93,Samantha Arias,samantha60@yahoo.com,(282)774-2257,"USCGC Taylor, FPO AA 74108",2024-10-01,Silver,7749
+94,Denise Ortiz,deniseortiz@aol.com,667.472.1903x4043,"819 Joseph Plains Suite 807, South Curtis, MP 86179",2025-04-10,Platinum,33542
+95,John Golden,john.golden87@hotmail.com,7748517133,"30958 Carlson Extension, Tiffanyport, LA 75570",2024-03-30,Bronze,1624
+96,Stephanie Robertson,stephanie.robertson@aol.com,+1-412-660-4223x25367,"1168 Neal Wells Suite 775, Port Kimland, VA 60590",2025-01-10,Silver,9941
+97,Elizabeth Howard,elizabeth.howard@icloud.com,686-736-3745,"750 Cory Tunnel, Smithburgh, NV 60337",2023-09-05,Bronze,3509
+98,Victoria Patterson,victoria65@gmail.com,001-824-624-1541x520,"1103 Miller Ramp, New Erin, AL 01557",2025-02-26,Bronze,3441
+99,Matthew Martinez,matthew.martinez47@gmail.com,(427)413-6111x55426,"275 Courtney Drive, Jensenmouth, VI 28975",2023-11-11,Silver,12135
+100,Peggy Taylor,peggy.taylor35@icloud.com,396-556-5234,"043 Julie Hill Apt. 376, East Victorland, NC 02082",2024-06-11,Bronze,4853

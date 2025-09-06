@@ -1,0 +1,21 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,12,2,4.3,This Clothing Product 2 is exactly what I was looking for. Comfortable and stylish.,2025-06-01
+2,5,20,2.9,This Clothing Product 20 doesn't fit well at all. The sizing is completely off.,2024-10-23
+3,17,6,4.4,Amazing Home Product 6! Perfect size and great quality. Highly recommend!,2025-05-09
+4,16,1,2.3,This Electronics Product 1 is overpriced for what you get. Would not recommend.,2025-08-07
+5,15,15,5.0,This Home Product 15 is fantastic! Great value and excellent quality.,2025-06-23
+6,15,10,3.1,This Beauty Product 10 is not effective at all. Waste of money.,2025-03-13
+7,5,19,5.0,Love this Toys Product 19! My kids absolutely adore it and it's well-made.,2024-10-13
+8,14,17,3.3,This Toys Product 17 is not worth the price. Poor quality and doesn't work.,2025-08-08
+9,2,5,4.4,Love this Home Product 5! Well-made and looks great in my space.,2024-09-08
+10,11,4,3.3,Regret buying this Clothing Product 4. It's uncomfortable and poorly made.,2025-04-14
+11,19,10,4.8,This Beauty Product 10 is outstanding! High quality and very effective.,2024-12-23
+12,7,17,3.8,This Toys Product 17 broke easily and is not safe for children.,2025-03-05
+13,6,10,4.4,This Beauty Product 10 is amazing! Works exactly as promised and great results.,2025-03-08
+14,2,17,4.0,Love this Toys Product 17! My kids absolutely adore it and it's well-made.,2025-02-22
+15,6,20,2.9,Very disappointed with this Clothing Product 20. It's uncomfortable and overpriced.,2025-01-14
+16,18,5,4.4,This Home Product 5 is fantastic! Great value and excellent quality.,2024-11-14
+17,2,2,3.6,This Clothing Product 2 is disappointing. Poor quality and doesn't fit properly.,2024-09-23
+18,18,6,4.8,This Home Product 6 is excellent! Well-made and great value for money.,2024-12-11
+19,15,2,3.8,This Clothing Product 2 doesn't fit well at all. The sizing is completely off.,2025-09-04
+20,19,13,3.9,This Home Product 13 is disappointing. Poor quality and doesn't function properly.,2025-08-04
